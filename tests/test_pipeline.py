@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import shutil
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -49,6 +50,7 @@ def test_offline_daily_weekly_and_site(tmp_path: Path):
         assert output.exists()
     weekly = run_weekly(project, date(2026, 7, 26), send_email=False)
     assert weekly.exists()
+    event_data = json.loads((project / "data" / "events" / "2026-07-26.json").read_text(encoding="utf-8"))
+    assert len(event_data["events"]) == 2
     assert (project / "site" / "index.html").exists()
     assert "AI 日报" in (project / "site" / "index.html").read_text(encoding="utf-8")
-

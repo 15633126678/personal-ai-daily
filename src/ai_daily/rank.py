@@ -16,7 +16,10 @@ def similar(a: Article, b: Article) -> bool:
     ta, tb = tokens(a.title), tokens(b.title)
     jaccard = len(ta & tb) / max(1, len(ta | tb))
     sequence = SequenceMatcher(None, a.title.lower(), b.title.lower()).ratio()
-    return jaccard >= 0.42 or sequence >= 0.72
+    latin_a = set(re.findall(r"[a-zA-Z][a-zA-Z0-9.-]{2,}", a.title.lower()))
+    latin_b = set(re.findall(r"[a-zA-Z][a-zA-Z0-9.-]{2,}", b.title.lower()))
+    cross_language_entity = a.category == b.category and bool(latin_a & latin_b)
+    return jaccard >= 0.42 or sequence >= 0.72 or cross_language_entity
 
 
 def cluster(articles: list[Article]) -> list[Event]:

@@ -20,4 +20,3 @@ body:
     id: note
     attributes:
       label: 原因（可选）
-

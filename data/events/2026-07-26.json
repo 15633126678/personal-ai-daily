@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "f55ff16f66f4",
+      "id": "4e2de8a54505",
       "title": "OpenAI 发布新的企业级 AI 工具",
       "summary": "OpenAI 发布面向企业的新工具，重点关注安全和生产力。",
       "category": "AI",
@@ -18,23 +18,7 @@
           "language": "zh",
           "trust": 1.0,
           "discovery_only": false
-        }
-      ],
-      "source_count": 1,
-      "importance": 2.0,
-      "credibility": 3.0,
-      "novelty": 1.0,
-      "personal_relevance": 1.2,
-      "total_score": 7.2,
-      "personal_reason": "涉及关注实体：OpenAI",
-      "inference": null
-    },
-    {
-      "id": "2c3a4249d770",
-      "title": "OpenAI launches new enterprise AI tool",
-      "summary": "The company introduced a new enterprise product with security controls.",
-      "category": "AI",
-      "articles": [
+        },
         {
           "id": "a2",
           "title": "OpenAI launches new enterprise AI tool",
@@ -49,12 +33,12 @@
           "discovery_only": false
         }
       ],
-      "source_count": 1,
-      "importance": 2.0,
-      "credibility": 2.55,
+      "source_count": 2,
+      "importance": 2.5,
+      "credibility": 4.0,
       "novelty": 1.0,
       "personal_relevance": 1.2,
-      "total_score": 6.75,
+      "total_score": 8.7,
       "personal_reason": "涉及关注实体：OpenAI",
       "inference": null
     },

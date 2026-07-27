@@ -24,8 +24,8 @@ def source_links(event: Event) -> str:
 
 def event_md(event: Event, repository: str) -> str:
     issue_base = f"https://github.com/{repository}/issues/new"
-    important = f"{issue_base}?title={quote('[反馈] important ' + event.id)}&body={quote('event_id: ' + event.id + '\\nvalue: important')}"
-    unimportant = f"{issue_base}?title={quote('[反馈] not_important ' + event.id)}&body={quote('event_id: ' + event.id + '\\nvalue: not_important')}"
+    important = f"{issue_base}?template=feedback.yml&event_id={quote(event.id)}&value=important"
+    unimportant = f"{issue_base}?template=feedback.yml&event_id={quote(event.id)}&value=not_important"
     inference = f"\n\n> **AI 推断：** {event.inference}" if event.inference else ""
     return (
         f"### {event.title}\n\n{event.summary}{inference}\n\n"
@@ -113,4 +113,3 @@ def page(title: str, body: str, prefix: str) -> str:
     return f"""<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title><style>
 :root{{--ink:#102a43;--muted:#627d98;--paper:#f5f1e8;--card:#fffdf7;--accent:#d34a24;--line:#d9d2c3}}*{{box-sizing:border-box}}body{{margin:0;background:var(--paper);color:var(--ink);font:17px/1.75 Georgia,"Noto Serif SC",serif}}body:before{{content:"";display:block;height:7px;background:var(--accent)}}nav{{max-width:960px;margin:auto;padding:24px}}nav a{{color:var(--ink);font-weight:700;text-decoration:none}}.hero,main,article{{max-width:960px;margin:auto;padding:48px 24px}}.hero{{padding-top:80px}}.eyebrow{{font:700 12px/1.2 Arial;letter-spacing:.2em;color:var(--accent)}}h1{{font-size:clamp(42px,8vw,86px);line-height:1.03;margin:.2em 0}}h2{{border-top:1px solid var(--line);padding-top:24px;margin-top:48px}}h3{{margin-top:36px}}a{{color:#9b351b}}.grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}}.card{{display:flex;min-height:190px;flex-direction:column;padding:24px;background:var(--card);border:1px solid var(--line);text-decoration:none;color:var(--ink);box-shadow:0 8px 24px #102a4310}}.card strong{{font-size:24px;line-height:1.25;margin:14px 0;flex:1}}.card span,.card small{{color:var(--accent);font-family:Arial}}article{{background:var(--card);margin-bottom:60px;box-shadow:0 10px 40px #102a4312}}blockquote{{border-left:4px solid var(--accent);margin-left:0;padding-left:18px;color:var(--muted)}}@media(max-width:600px){{body{{font-size:16px}}.hero{{padding-top:42px}}article{{box-shadow:none}}}}
 </style></head><body><nav><a href="{prefix}index.html">← 日报首页</a></nav>{'<article>'+body+'</article>' if '<section' not in body else body}</body></html>"""
-
