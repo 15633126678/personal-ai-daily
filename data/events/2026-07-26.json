@@ -1,63 +1,121 @@
 {
   "events": [
     {
-      "id": "4e2de8a54505",
-      "title": "OpenAI 发布新的企业级 AI 工具",
-      "summary": "OpenAI 发布面向企业的新工具，重点关注安全和生产力。",
-      "category": "AI",
-      "articles": [
-        {
-          "id": "a1",
-          "title": "OpenAI 发布新的企业级 AI 工具",
-          "url": "https://example.com/openai-tool",
-          "summary": "OpenAI 发布面向企业的新工具，重点关注安全和生产力。",
-          "published_at": "2026-07-26T04:00:00Z",
-          "fetched_at": "2026-07-27T00:00:00Z",
-          "source": "官方博客",
-          "category": "AI",
-          "language": "zh",
-          "trust": 1.0,
-          "discovery_only": false
-        },
-        {
-          "id": "a2",
-          "title": "OpenAI launches new enterprise AI tool",
-          "url": "https://example.net/openai-enterprise",
-          "summary": "The company introduced a new enterprise product with security controls.",
-          "published_at": "2026-07-26T05:00:00Z",
-          "fetched_at": "2026-07-27T00:00:00Z",
-          "source": "科技媒体",
-          "category": "AI",
-          "language": "en",
-          "trust": 0.85,
-          "discovery_only": false
-        }
-      ],
-      "source_count": 2,
-      "importance": 2.5,
-      "credibility": 4.0,
-      "novelty": 1.0,
-      "personal_relevance": 1.2,
-      "total_score": 8.7,
-      "personal_reason": "涉及关注实体：OpenAI",
-      "inference": null
-    },
-    {
-      "id": "7dc96f776c84",
-      "title": "多国宣布新的气候合作计划",
-      "summary": "多个国家就能源与气候政策发布联合行动计划。",
+      "id": "e463d6ce4b66",
+      "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+      "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads.",
       "category": "国际",
       "articles": [
         {
-          "id": "b1",
-          "title": "多国宣布新的气候合作计划",
-          "url": "https://example.org/climate",
-          "summary": "多个国家就能源与气候政策发布联合行动计划。",
-          "published_at": "2026-07-26T10:00:00Z",
-          "fetched_at": "2026-07-27T00:00:00Z",
-          "source": "国际机构",
+          "id": "9686ca27575f401d",
+          "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+          "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads.",
+          "published_at": "2026-07-26T12:00:00Z",
+          "fetched_at": "2026-07-27T14:05:43.867478Z",
+          "source": "UN News",
           "category": "国际",
-          "language": "zh",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.5,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d614dff7d6fa",
+      "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+      "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York's Times Square this week, she carried a message far bigger than her performance.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "55d3bc3ff04450a8",
+          "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+          "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York's Times Square this week, she carried a message far bigger than her performance.",
+          "published_at": "2026-07-26T12:00:00Z",
+          "fetched_at": "2026-07-27T14:05:43.867478Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.5,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "bebaad00db4d",
+      "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
+      "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "78b90af07695daf9",
+          "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+          "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+          "published_at": "2026-07-26T12:00:00Z",
+          "fetched_at": "2026-07-27T14:05:43.867478Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.5,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "bc8864a0d9c5",
+      "title": "The notorious Cameroonian prison with its own record label",
+      "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "8704455c11caf095",
+          "title": "The notorious Cameroonian prison with its own record label",
+          "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+          "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
+          "published_at": "2026-07-26T00:24:30Z",
+          "fetched_at": "2026-07-27T14:05:43.867478Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "c0724d67a63bf92d",
+          "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+          "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+          "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+          "published_at": "2026-07-26T08:14:55Z",
+          "fetched_at": "2026-07-27T14:05:43.867478Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
           "trust": 0.95,
           "discovery_only": false
         }
@@ -72,5 +130,8 @@
       "inference": null
     }
   ],
-  "failed_sources": []
+  "failed_sources": [
+    "中国政府网",
+    "Microsoft AI"
+  ]
 }
