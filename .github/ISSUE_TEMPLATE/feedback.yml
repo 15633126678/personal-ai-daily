@@ -1,0 +1,23 @@
+name: 日报反馈
+description: 告诉助手某条信息是否重要
+title: "[反馈] "
+labels: ["feedback"]
+body:
+  - type: input
+    id: event_id
+    attributes:
+      label: event_id
+    validations:
+      required: true
+  - type: dropdown
+    id: value
+    attributes:
+      label: 评价
+      options: ["important", "not_important"]
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: 原因（可选）
+

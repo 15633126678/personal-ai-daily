@@ -1,0 +1,24 @@
+timezone: Asia/Shanghai
+language: zh-CN
+daily_hour: 8
+weekly_day: sunday
+max_items: 12
+top_items: 5
+personal_items: 3
+minimum_score: 2.0
+models:
+  base_url: https://api.openai.com/v1
+  screening: gpt-4.1-mini
+  synthesis: gpt-4.1
+email:
+  enabled: false
+  subject_prefix: "AI 日报"
+  smtp_host: smtp.example.com
+  smtp_port: 465
+  use_ssl: true
+  sender: ""
+  recipient: ""
+site:
+  title: "我的 AI 日报"
+  repository: "owner/repository"
+

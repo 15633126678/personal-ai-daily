@@ -1,0 +1,44 @@
+name: 生成 AI 日报
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "补跑日期（YYYY-MM-DD，留空为昨天）"
+        required: false
+permissions:
+  contents: write
+  issues: read
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e .
+      - name: 同步反馈
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: ai-daily sync-feedback
+      - name: 生成日报
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          TARGET_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$TARGET_DATE" ]; then ai-daily daily --date "$TARGET_DATE"; else ai-daily daily; fi
+      - name: 周日生成周报
+        if: ${{ github.event_name == 'schedule' && format('{0}', github.event.schedule) != '' }}
+        run: |
+          if [ "$(TZ=Asia/Shanghai date +%u)" = "7" ]; then ai-daily weekly; fi
+      - name: 提交归档
+        run: |
+          git config user.name "ai-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports data/events data/sent site
+          git diff --cached --quiet || git commit -m "chore: publish daily brief"
+          git push

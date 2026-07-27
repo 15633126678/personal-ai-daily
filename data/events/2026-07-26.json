@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "id": "f55ff16f66f4",
+      "title": "OpenAI 发布新的企业级 AI 工具",
+      "summary": "OpenAI 发布面向企业的新工具，重点关注安全和生产力。",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a1",
+          "title": "OpenAI 发布新的企业级 AI 工具",
+          "url": "https://example.com/openai-tool",
+          "summary": "OpenAI 发布面向企业的新工具，重点关注安全和生产力。",
+          "published_at": "2026-07-26T04:00:00Z",
+          "fetched_at": "2026-07-27T00:00:00Z",
+          "source": "官方博客",
+          "category": "AI",
+          "language": "zh",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.0,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 7.2,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "2c3a4249d770",
+      "title": "OpenAI launches new enterprise AI tool",
+      "summary": "The company introduced a new enterprise product with security controls.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a2",
+          "title": "OpenAI launches new enterprise AI tool",
+          "url": "https://example.net/openai-enterprise",
+          "summary": "The company introduced a new enterprise product with security controls.",
+          "published_at": "2026-07-26T05:00:00Z",
+          "fetched_at": "2026-07-27T00:00:00Z",
+          "source": "科技媒体",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.85,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.0,
+      "credibility": 2.55,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 6.75,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "7dc96f776c84",
+      "title": "多国宣布新的气候合作计划",
+      "summary": "多个国家就能源与气候政策发布联合行动计划。",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "b1",
+          "title": "多国宣布新的气候合作计划",
+          "url": "https://example.org/climate",
+          "summary": "多个国家就能源与气候政策发布联合行动计划。",
+          "published_at": "2026-07-26T10:00:00Z",
+          "fetched_at": "2026-07-27T00:00:00Z",
+          "source": "国际机构",
+          "category": "国际",
+          "language": "zh",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": []
+}

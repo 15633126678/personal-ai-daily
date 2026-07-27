@@ -1,0 +1,51 @@
+sources:
+  - name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    category: 国际
+    language: en
+    trust: 0.95
+    enabled: true
+  - name: UN News
+    url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+    category: 国际
+    language: en
+    trust: 1.0
+    enabled: true
+  - name: 中国政府网
+    url: https://www.gov.cn/rss/guowuyuan.xml
+    category: 国内
+    language: zh
+    trust: 1.0
+    enabled: true
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    category: AI
+    language: en
+    trust: 1.0
+    enabled: true
+  - name: Google AI
+    url: https://blog.google/technology/ai/rss/
+    category: AI
+    language: en
+    trust: 0.95
+    enabled: true
+  - name: Microsoft AI
+    url: https://blogs.microsoft.com/ai/feed/
+    category: AI
+    language: en
+    trust: 0.95
+    enabled: true
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    category: AI
+    language: en
+    trust: 0.9
+    enabled: true
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
+    category: 科技商业
+    language: en
+    trust: 0.55
+    discovery_only: true
+    enabled: true
+

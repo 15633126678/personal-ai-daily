@@ -1,0 +1,17 @@
+name: "你的名字"
+occupation: "请填写职业或当前角色"
+regions: ["中国", "全球"]
+interests:
+  人工智能: 1.4
+  科技商业: 1.2
+  宏观经济: 1.0
+entities:
+  - OpenAI
+  - Anthropic
+  - Microsoft
+excluded_topics:
+  - 娱乐八卦
+risk_preferences:
+  - 政策变化
+  - 网络安全
+

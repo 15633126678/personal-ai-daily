@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1",
+    "title": "OpenAI 发布新的企业级 AI 工具",
+    "url": "https://example.com/openai-tool",
+    "summary": "OpenAI 发布面向企业的新工具，重点关注安全和生产力。",
+    "published_at": "2026-07-26T04:00:00Z",
+    "fetched_at": "2026-07-27T00:00:00Z",
+    "source": "官方博客",
+    "category": "AI",
+    "language": "zh",
+    "trust": 1.0,
+    "discovery_only": false
+  },
+  {
+    "id": "a2",
+    "title": "OpenAI launches new enterprise AI tool",
+    "url": "https://example.net/openai-enterprise",
+    "summary": "The company introduced a new enterprise product with security controls.",
+    "published_at": "2026-07-26T05:00:00Z",
+    "fetched_at": "2026-07-27T00:00:00Z",
+    "source": "科技媒体",
+    "category": "AI",
+    "language": "en",
+    "trust": 0.85,
+    "discovery_only": false
+  },
+  {
+    "id": "b1",
+    "title": "多国宣布新的气候合作计划",
+    "url": "https://example.org/climate",
+    "summary": "多个国家就能源与气候政策发布联合行动计划。",
+    "published_at": "2026-07-26T10:00:00Z",
+    "fetched_at": "2026-07-27T00:00:00Z",
+    "source": "国际机构",
+    "category": "国际",
+    "language": "zh",
+    "trust": 0.95,
+    "discovery_only": false
+  }
+]
+

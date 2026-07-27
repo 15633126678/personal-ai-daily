@@ -1,0 +1,33 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ai-daily-brief"
+version = "0.1.0"
+description = "单用户、可审计、可降级的个人 AI 日报助手"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "feedparser>=6.0",
+  "httpx>=0.27",
+  "markdown>=3.6",
+  "openai>=1.40",
+  "pydantic>=2.8",
+  "PyYAML>=6.0",
+  "tzdata>=2025.2; platform_system == 'Windows'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2", "pytest-cov>=5.0"]
+
+[project.scripts]
+ai-daily = "ai_daily.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ai_daily"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
