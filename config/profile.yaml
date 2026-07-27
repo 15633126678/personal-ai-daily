@@ -1,17 +1,36 @@
-name: "你的名字"
-occupation: "请填写职业或当前角色"
+name: "个人用户"
+occupation: "正在评估 AI 应用层、金融科技与产业智能化方向的职业转型"
 regions: ["中国", "全球"]
 interests:
-  人工智能: 1.4
-  科技商业: 1.2
-  宏观经济: 1.0
+  AI 应用层: 1.7
+  AI 职业转型: 1.6
+  金融科技: 1.45
+  AI 产品与商业化: 1.45
+  产业智能化: 1.35
+  宏观经济: 1.15
+  土木建筑与基础设施数字化: 1.1
 entities:
   - OpenAI
   - Anthropic
   - Microsoft
+  - Google
+  - Meta
+  - Hugging Face
+  - GitHub
+  - DeepSeek
+  - 阿里云
+  - 腾讯云
+  - 字节跳动
+  - 百度
+  - 金融科技
+  - 智能建造
 excluded_topics:
   - 娱乐八卦
+  - 明星绯闻
+  - 纯流量型工具榜单
 risk_preferences:
   - 政策变化
   - 网络安全
-
+  - 就业结构变化
+  - 技术路线替代
+  - AI 监管
