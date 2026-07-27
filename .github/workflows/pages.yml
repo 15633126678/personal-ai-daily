@@ -3,6 +3,9 @@ on:
   push:
     branches: ["main"]
     paths: ["site/**"]
+  workflow_run:
+    workflows: ["生成 AI 日报"]
+    types: [completed]
   workflow_dispatch:
 permissions:
   contents: read
@@ -13,6 +16,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -25,4 +29,3 @@ jobs:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
-
