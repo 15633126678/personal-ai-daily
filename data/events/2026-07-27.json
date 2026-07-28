@@ -1,0 +1,460 @@
+{
+  "events": [
+    {
+      "id": "ec446cc63519",
+      "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+      "summary": "The UN Security Council met on Monday at Ukraine’s request, following recent large-scale Russian attacks on Kyiv and elsewhere. At least one civilian was killed and more than a dozen wounded in an overnight strike on the capital on 19 July that also damaged homes and civilian infrastructure. Ukrainian authorities described it as one of the largest and most intense attacks since the invasion began. Follow live updates below.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "256c5a92bda267fd",
+          "title": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
+          "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+          "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
+          "published_at": "2026-07-27T05:59:22Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "534a508ae6686385",
+          "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168030",
+          "summary": "Cyberattacks, data breaches, online harassment and other forms of technology-facilitated violence are becoming significant obstacles to HIV prevention and treatment, according to a UNAIDS specialist who says digital security has become inseparable from the fight against the epidemic itself.",
+          "published_at": "2026-07-27T12:00:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "efdaa19b73707c7d",
+          "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168029",
+          "summary": "The UN Security Council met on Monday at Ukraine’s request, following recent large-scale Russian attacks on Kyiv and elsewhere. At least one civilian was killed and more than a dozen wounded in an overnight strike on the capital on 19 July that also damaged homes and civilian infrastructure. Ukrainian authorities described it as one of the largest and most intense attacks since the invasion began. Follow live updates below.",
+          "published_at": "2026-07-27T12:00:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "95f120ed99d18b4d",
+          "title": "Oil price dives as US and Iran pause attacks",
+          "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+          "published_at": "2026-07-27T15:08:37Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "71f6f0473459ac55",
+          "title": "Devastating European wildfires in maps - and how they're being tackled",
+          "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+          "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+          "published_at": "2026-07-27T15:59:27Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.0,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.0,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7d25c57fd080",
+      "title": "How AI is expanding what people do at work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "f17154615d70d414",
+          "title": "How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+          "published_at": "2026-07-27T03:30:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.0,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 7.2,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "b8293d9358fc",
+      "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+      "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "49aa7895bcac07cb",
+          "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168034",
+          "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
+          "published_at": "2026-07-27T12:00:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "05f21861f746d905",
+          "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168035",
+          "summary": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
+          "published_at": "2026-07-27T12:00:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.5,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3641d0897efd",
+      "title": "High prices and funding cuts stall HIV prevention revolution",
+      "summary": "The AIDS epidemic could stage a comeback amid unequal access to breakthrough prevention medicines and a sharp decline in global funding, according to a UN report released on Monday ahead of the opening of the 26th International AIDS Conference in Rio de Janeiro, Brazil.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "baa7e2740806b614",
+          "title": "High prices and funding cuts stall HIV prevention revolution",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168033",
+          "summary": "The AIDS epidemic could stage a comeback amid unequal access to breakthrough prevention medicines and a sharp decline in global funding, according to a UN report released on Monday ahead of the opening of the 26th International AIDS Conference in Rio de Janeiro, Brazil.",
+          "published_at": "2026-07-27T12:00:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "608b49a9dad887a5",
+          "title": "Conflict and crisis put six World Heritage sites at risk",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168031",
+          "summary": "Armed conflict, insecurity and environmental pressures are threatening ancient cities, historic castles and one of the world's greatest wildlife migrations.",
+          "published_at": "2026-07-27T12:00:00Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "UN News",
+          "category": "国际",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.5,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b8f81b642b70",
+      "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
+      "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "09c2cd485204bf8e",
+          "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
+          "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
+          "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
+          "published_at": "2026-07-27T01:54:30Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a12ae87d9d50",
+      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "6641e784c55e8318",
+          "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+          "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+          "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+          "published_at": "2026-07-27T10:59:13Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "63323aab80aa",
+      "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
+      "summary": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "24dbfbcf5a6b10d0",
+          "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
+          "url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
+          "published_at": "2026-07-27T11:11:07Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "afe454034d6e2556",
+          "title": "More than 600 US military service members injured since Iran War began in February",
+          "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+          "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
+          "published_at": "2026-07-27T13:31:57Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "aded81ea848a",
+      "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+      "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "d3b088c74588a52e",
+          "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+          "url": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
+          "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
+          "published_at": "2026-07-27T12:28:07Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "3af88773efe822dc",
+          "title": "South Africa investigates death of Nigerian who collapsed during arrest",
+          "url": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
+          "summary": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
+          "published_at": "2026-07-27T14:26:50Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e24ec675568c",
+      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "9227933e9688bb45",
+          "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+          "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+          "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+          "published_at": "2026-07-27T12:33:31Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8e80f63f062f",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "90d73ce0cff80599",
+          "title": "Carly Simon reveals Parkinson's diagnosis",
+          "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+          "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+          "published_at": "2026-07-27T14:04:01Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "69e6e08cd758",
+      "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+      "summary": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
+      "category": "国际",
+      "articles": [
+        {
+          "id": "6b843b882ba4b701",
+          "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+          "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
+          "published_at": "2026-07-27T15:49:45Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "BBC World",
+          "category": "国际",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.5,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.35,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c81af48f0bd9",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "e8e39b4b389ff3d4",
+          "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "summary": "",
+          "published_at": "2026-07-27T09:32:20Z",
+          "fetched_at": "2026-07-28T02:40:10.917577Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.0,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 5.7,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "中国政府网",
+    "Microsoft AI"
+  ]
+}
