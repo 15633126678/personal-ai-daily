@@ -58,7 +58,8 @@ def score(events: list[Event], profile: Profile, feedback: list[Feedback]) -> li
         interest = sum(weight for topic, weight in profile.interests.items() if topic.lower() in text.lower())
         excluded = bool(_matches(text, profile.excluded_topics))
         event.credibility = min(5, max(a.trust for a in event.articles) * 3 + min(2, event.source_count - 1))
-        event.importance = 1.5 + min(2, event.source_count * 0.5) + (0.5 if event.category in {"国际", "国内"} else 0)
+        category_boost = {"AI": 1.2, "科技商业": 0.6}.get(event.category, 0)
+        event.importance = 1.5 + min(2, event.source_count * 0.5) + category_boost
         event.novelty = 1.0
         event.personal_relevance = interest + len(entity_hits) * 1.2 + len(region_hits) * 0.5 + len(risk_hits)
         event.personal_reason = "；".join(filter(None, [

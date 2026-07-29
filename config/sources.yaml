@@ -4,19 +4,19 @@ sources:
     category: 国际
     language: en
     trust: 0.95
-    enabled: true
+    enabled: false
   - name: UN News
     url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
     category: 国际
     language: en
     trust: 1.0
-    enabled: true
+    enabled: false
   - name: 中国政府网
     url: https://www.gov.cn/rss/guowuyuan.xml
     category: 国内
     language: zh
     trust: 1.0
-    enabled: true
+    enabled: false
   - name: OpenAI
     url: https://openai.com/news/rss.xml
     category: AI
@@ -48,4 +48,3 @@ sources:
     trust: 0.55
     discovery_only: true
     enabled: true
-

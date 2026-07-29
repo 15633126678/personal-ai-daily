@@ -12,12 +12,12 @@ models:
   synthesis: gpt-4.1
 email:
   enabled: false
-  subject_prefix: "AI 日报"
+  subject_prefix: "每日 AI 简报"
   smtp_host: smtp.example.com
   smtp_port: 465
   use_ssl: true
   sender: ""
   recipient: ""
 site:
-  title: "我的 AI 日报"
+  title: "我的每日 AI 简报"
   repository: "15633126678/personal-ai-daily"

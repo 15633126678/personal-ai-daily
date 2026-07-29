@@ -38,13 +38,13 @@ def daily_markdown(target: date, events: list[Event], failures: list[str], setti
     chosen = events[:settings.max_items]
     personal = sorted(chosen, key=lambda x: x.personal_relevance, reverse=True)[:settings.personal_items]
     sections = []
-    sections.append(f"# AI 日报 · {target.isoformat()}\n\n> 昨日重点，预计阅读 5–10 分钟。\n")
-    sections.append("## 今日最重要\n\n" + "\n".join(event_md(e, settings.site.repository) for e in chosen[:settings.top_items]))
+    sections.append(f"# 每日 AI 简报 · {target.isoformat()}\n\n> 昨日 AI 重点，预计阅读 3–6 分钟。\n")
+    sections.append("## AI 重点\n\n" + "\n".join(event_md(e, settings.site.repository) for e in chosen[:settings.top_items]))
     sections.append("## 与你最相关\n\n" + "\n".join(
         f"### {e.title}\n\n**为什么值得关注：** {e.personal_reason}\n\n{source_links(e)}\n" for e in personal
     ))
     used = {e.id for e in chosen[:settings.top_items]}
-    for category in ("国内", "国际", "科技商业", "AI"):
+    for category in ("AI", "科技商业", "金融科技", "产业智能化"):
         items = [e for e in chosen if e.category == category and e.id not in used]
         if items:
             sections.append(f"## {category}\n\n" + "\n".join(event_md(e, settings.site.repository) for e in items))
@@ -69,7 +69,7 @@ def weekly_markdown(label: str, daily_files: list[Path], settings: Settings) -> 
                 if title not in headlines:
                     headlines.append(title)
     return (
-        f"# AI 周报 · {label}\n\n## 本周主线\n\n"
+        f"# AI 周报 · {label}\n\n## 本周 AI 主线\n\n"
         + "\n".join(f"- {title}" for title in headlines[:10])
         + "\n\n## 与你相关的影响\n\n本节基于每日相关性排序汇总；请结合原始来源判断。\n\n"
         + "## 下周观察清单\n\n"
