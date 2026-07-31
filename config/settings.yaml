@@ -1,6 +1,6 @@
 timezone: Asia/Shanghai
 language: zh-CN
-daily_hour: 8
+daily_hour: 7
 weekly_day: sunday
 max_items: 12
 top_items: 5
