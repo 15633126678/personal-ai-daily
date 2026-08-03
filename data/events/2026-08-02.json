@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "id": "d5596034e564",
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "summary": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 171 # Comments: 17",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7f5a99fc09ffb416",
+          "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+          "url": "https://meshdiff.com",
+          "summary": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 171 # Comments: 17",
+          "published_at": "2026-08-02T11:34:41Z",
+          "fetched_at": "2026-08-03T00:02:09.764155Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "801f355d7f26",
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "09ccc41691ff0ef4",
+          "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+          "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+          "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0",
+          "published_at": "2026-08-02T12:01:00Z",
+          "fetched_at": "2026-08-03T00:02:09.764155Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "5b4146b32222",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "summary": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 146 # Comments: 64",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "829c5900e1ae046d",
+          "title": "F*: A general-purpose proof-oriented programming language",
+          "url": "https://fstar-lang.org",
+          "summary": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 146 # Comments: 64",
+          "published_at": "2026-08-02T12:31:16Z",
+          "fetched_at": "2026-08-03T00:02:09.764155Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "32814b9e97d2",
+      "title": "Twenty Years of RISC OS Open",
+      "summary": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 148 # Comments: 27",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "751255fcf565f07b",
+          "title": "Twenty Years of RISC OS Open",
+          "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+          "summary": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 148 # Comments: 27",
+          "published_at": "2026-08-02T12:36:07Z",
+          "fetched_at": "2026-08-03T00:02:09.764155Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
