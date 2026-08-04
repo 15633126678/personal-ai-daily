@@ -1,0 +1,165 @@
+{
+  "events": [
+    {
+      "id": "7abd215d74b5",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d2e6a59352692667",
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+          "published_at": "2026-08-03T07:00:00Z",
+          "fetched_at": "2026-08-04T00:12:08.930733Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "544dc0bba2bd",
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don't reply to job posts to complain about something. It's off topic here. Readers: please only email if you are personally interested in the job. Searchers: try https://nthesis.ai/public/hn-who-is-hiring , https://dheerajck.github.io/hnwhoishiring/ , http://nchelluri.github.io/hnjobs/ , https://hnjobs.emilburzo.com . Don't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=49156682 Comments URL: https://news.ycombinator.com/item?id=49156683 Points: 68 # Comments: 85",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fbe82fdaab35e8a4",
+          "title": "Ask HN: Who is hiring? (August 2026)",
+          "url": "https://news.ycombinator.com/item?id=49156683",
+          "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a household name, explain what your company does. Please only post if you are actively filling a position and are committed to replying to applicants. Commenters: please don't reply to job posts to complain about something. It's off topic here. Readers: please only email if you are personally interested in the job. Searchers: try https://nthesis.ai/public/hn-who-is-hiring , https://dheerajck.github.io/hnwhoishiring/ , http://nchelluri.github.io/hnjobs/ , https://hnjobs.emilburzo.com . Don't miss this other fine thread: Who wants to be hired? https://news.ycombinator.com/item?id=49156682 Comments URL: https://news.ycombinator.com/item?id=49156683 Points: 68 # Comments: 85",
+          "published_at": "2026-08-03T15:00:54Z",
+          "fetched_at": "2026-08-04T00:12:08.930733Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "bcfde6cd532f200d",
+          "title": "Ask HN: Who wants to be hired? (August 2026)",
+          "url": "https://news.ycombinator.com/item?id=49156682",
+          "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: please only email these addresses to discuss work opportunities. Searchers: try https://nthesis.ai/public/hn-wants-to-be-hired , https://www.wantstobehired.com . Comments URL: https://news.ycombinator.com/item?id=49156682 Points: 31 # Comments: 145",
+          "published_at": "2026-08-03T15:00:54Z",
+          "fetched_at": "2026-08-04T00:12:08.930733Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "a9a014c22e7c",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "summary": "Article URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse Comments URL: https://news.ycombinator.com/item?id=49156011 Points: 256 # Comments: 54",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c4580b7d63e38bf6",
+          "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+          "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+          "summary": "Article URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse Comments URL: https://news.ycombinator.com/item?id=49156011 Points: 256 # Comments: 54",
+          "published_at": "2026-08-03T14:09:00Z",
+          "fetched_at": "2026-08-04T00:12:08.930733Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f1655f22e9be",
+      "title": "Devtools must be open source",
+      "summary": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 477 # Comments: 173",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "51658b6289e1ab97",
+          "title": "Devtools must be open source",
+          "url": "https://blog.exe.dev/devtools-must-be-open-source",
+          "summary": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 477 # Comments: 173",
+          "published_at": "2026-08-03T14:15:47Z",
+          "fetched_at": "2026-08-04T00:12:08.930733Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d60866a5c8a5",
+      "title": "Twenty Years of Pandoc",
+      "summary": "Article URL: https://pandoc.org/twenty-years-of-pandoc.html Comments URL: https://news.ycombinator.com/item?id=49156750 Points: 82 # Comments: 9",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3606ffd8b16a7390",
+          "title": "Twenty Years of Pandoc",
+          "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+          "summary": "Article URL: https://pandoc.org/twenty-years-of-pandoc.html Comments URL: https://news.ycombinator.com/item?id=49156750 Points: 82 # Comments: 9",
+          "published_at": "2026-08-03T15:04:53Z",
+          "fetched_at": "2026-08-04T00:12:08.930733Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
