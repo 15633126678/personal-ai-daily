@@ -1,0 +1,107 @@
+{
+  "events": [
+    {
+      "id": "e7e6aaab0c79",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "63b6d14ec9b422c3",
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+          "published_at": "2026-08-04T00:00:00Z",
+          "fetched_at": "2026-08-05T00:08:09.229132Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "5f88536a2def0392",
+          "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "summary": "",
+          "published_at": "2026-08-04T13:58:29Z",
+          "fetched_at": "2026-08-05T00:08:09.229132Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.7,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "dd2c8a53224a",
+      "title": "Apple is getting this wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "2fdcedf707c54d54",
+          "title": "Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+          "published_at": "2026-08-03T22:00:00Z",
+          "fetched_at": "2026-08-05T00:08:09.229132Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "df4538758403",
+      "title": "The latest AI news we announced in July 2026",
+      "summary": "July AI recap header",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "92da2d38a33ef563",
+          "title": "The latest AI news we announced in July 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "summary": "July AI recap header",
+          "published_at": "2026-08-04T13:00:00Z",
+          "fetched_at": "2026-08-05T00:08:09.229132Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
