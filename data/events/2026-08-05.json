@@ -1,0 +1,107 @@
+{
+  "events": [
+    {
+      "id": "c9f31ff7ab7e",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "94304c3a117c4c62",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "published_at": "2026-08-04T19:00:00Z",
+          "fetched_at": "2026-08-06T00:02:55.585215Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "c41bfc54f331",
+      "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+      "summary": "Article URL: https://rubinobservatory.org/news/rubin-new-window-cosmos-field Comments URL: https://news.ycombinator.com/item?id=49183079 Points: 86 # Comments: 12",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "86ceae690675a042",
+          "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+          "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+          "summary": "Article URL: https://rubinobservatory.org/news/rubin-new-window-cosmos-field Comments URL: https://news.ycombinator.com/item?id=49183079 Points: 86 # Comments: 12",
+          "published_at": "2026-08-05T14:04:10Z",
+          "fetched_at": "2026-08-06T00:02:55.585215Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "6d75a3bcd3107e23",
+          "title": "The Valley of Webhooks",
+          "url": "https://weli.dev/blog/the-valley-of-webhooks",
+          "summary": "Article URL: https://weli.dev/blog/the-valley-of-webhooks/ Comments URL: https://news.ycombinator.com/item?id=49184216 Points: 143 # Comments: 69",
+          "published_at": "2026-08-05T15:22:06Z",
+          "fetched_at": "2026-08-06T00:02:55.585215Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b738901db86f",
+      "title": "Aristotle quotes on virtue, knowledge, and happiness",
+      "summary": "Article URL: https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/ Comments URL: https://news.ycombinator.com/item?id=49183115 Points: 150 # Comments: 69",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bd7b0daa6edd8152",
+          "title": "Aristotle quotes on virtue, knowledge, and happiness",
+          "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness",
+          "summary": "Article URL: https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/ Comments URL: https://news.ycombinator.com/item?id=49183115 Points: 150 # Comments: 69",
+          "published_at": "2026-08-05T14:06:39Z",
+          "fetched_at": "2026-08-06T00:02:55.585215Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
