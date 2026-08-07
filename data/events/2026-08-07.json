@@ -1,0 +1,352 @@
+{
+  "events": [
+    {
+      "id": "3a1af8fa7f90",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "0a48383ea2d78822",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+          "published_at": "2026-08-07T09:00:00Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "7d493bbe1ac2b279",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+          "published_at": "2026-08-07T15:20:00Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3e11a2a0869a",
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "summary": "https://www.reuters.com/world/new-mexico-court-orders-meta-p... https://www.theguardian.com/technology/2026/aug/06/new-mexic... https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5... https://www.bbc.com/news/articles/cd7lz3wr2rlo https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-... Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 708 # Comments: 386",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "739f80dcc930c9a8",
+          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+          "summary": "https://www.reuters.com/world/new-mexico-court-orders-meta-p... https://www.theguardian.com/technology/2026/aug/06/new-mexic... https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5... https://www.bbc.com/news/articles/cd7lz3wr2rlo https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-... Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 708 # Comments: 386",
+          "published_at": "2026-08-07T00:06:28Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Meta",
+      "inference": null
+    },
+    {
+      "id": "1ad23d670622",
+      "title": "Möbius-Strip Crosswords",
+      "summary": "Article URL: https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/ Comments URL: https://news.ycombinator.com/item?id=49211660 Points: 49 # Comments: 5",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "43b4d6cd99b512c1",
+          "title": "Möbius-Strip Crosswords",
+          "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword",
+          "summary": "Article URL: https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/ Comments URL: https://news.ycombinator.com/item?id=49211660 Points: 49 # Comments: 5",
+          "published_at": "2026-08-07T15:10:34Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "17a68d999f65",
+      "title": "2027 memory capacity is reportedly sold out",
+      "summary": "Article URL: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out Comments URL: https://news.ycombinator.com/item?id=49207236 Points: 198 # Comments: 182",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bce2b36b7ff3203f",
+          "title": "2027 memory capacity is reportedly sold out",
+          "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+          "summary": "Article URL: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out Comments URL: https://news.ycombinator.com/item?id=49207236 Points: 198 # Comments: 182",
+          "published_at": "2026-08-07T07:58:24Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "2576b869aed6",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "summary": "Article URL: https://blog.cloudflare.com/kitesurf/ Comments URL: https://news.ycombinator.com/item?id=49208393 Points: 150 # Comments: 42",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "93b47e23a93999e5",
+          "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "summary": "Article URL: https://blog.cloudflare.com/kitesurf/ Comments URL: https://news.ycombinator.com/item?id=49208393 Points: 150 # Comments: 42",
+          "published_at": "2026-08-07T10:42:07Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "074d5e92e82e",
+      "title": "Show HN: Wyzer Programming Language",
+      "summary": "So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome! Comments URL: https://news.ycombinator.com/item?id=49209385 Points: 166 # Comments: 99",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a76dfc9f56f3b110",
+          "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+          "url": "https://textlog.cc/about",
+          "summary": "Article URL: https://textlog.cc/about Comments URL: https://news.ycombinator.com/item?id=49208458 Points: 124 # Comments: 55",
+          "published_at": "2026-08-07T10:52:21Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "02bb6c2f418f7fd5",
+          "title": "Show HN: Wyzer Programming Language",
+          "url": "https://github.com/Wyzer-Lang/wyzer",
+          "summary": "So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome! Comments URL: https://news.ycombinator.com/item?id=49209385 Points: 166 # Comments: 99",
+          "published_at": "2026-08-07T12:28:55Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "67421d2d6cef",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "summary": "Article URL: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/ Comments URL: https://news.ycombinator.com/item?id=49208535 Points: 224 # Comments: 103",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a9a18cec0af93518",
+          "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+          "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine",
+          "summary": "Article URL: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/ Comments URL: https://news.ycombinator.com/item?id=49208535 Points: 224 # Comments: 103",
+          "published_at": "2026-08-07T11:00:35Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6d45f7dff4a5",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "summary": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/ Comments URL: https://news.ycombinator.com/item?id=49209539 Points: 325 # Comments: 473",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c41da7b0991f44fd",
+          "title": "What happens if an entire class of workers loses faith in their careers",
+          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
+          "summary": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/ Comments URL: https://news.ycombinator.com/item?id=49209539 Points: 325 # Comments: 473",
+          "published_at": "2026-08-07T12:42:27Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1656375e042f",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "summary": "Article URL: https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice Comments URL: https://news.ycombinator.com/item?id=49209572 Points: 76 # Comments: 76",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "183e08bceaf159e6",
+          "title": "Radical Study Suggests Life on Earth Arose Twice",
+          "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+          "summary": "Article URL: https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice Comments URL: https://news.ycombinator.com/item?id=49209572 Points: 76 # Comments: 76",
+          "published_at": "2026-08-07T12:45:08Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1e0624071932",
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
+      "summary": "Article URL: https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/ Comments URL: https://news.ycombinator.com/item?id=49211386 Points: 354 # Comments: 339",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "aa0a4ef6f0598003",
+          "title": "A year of fighting scrapers on my 1.5 million-page website",
+          "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots",
+          "summary": "Article URL: https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/ Comments URL: https://news.ycombinator.com/item?id=49211386 Points: 354 # Comments: 339",
+          "published_at": "2026-08-07T14:51:57Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a5d3eae65930",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "summary": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/ Comments URL: https://news.ycombinator.com/item?id=49211921 Points: 129 # Comments: 33",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "656faa15e69dea18",
+          "title": "An all-sky map of half a million supermassive black holes",
+          "url": "https://www.sdss.org/black-hole-mapper-release-20",
+          "summary": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/ Comments URL: https://news.ycombinator.com/item?id=49211921 Points: 129 # Comments: 33",
+          "published_at": "2026-08-07T15:24:53Z",
+          "fetched_at": "2026-08-07T23:37:11.409666Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
