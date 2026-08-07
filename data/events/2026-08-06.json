@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "e8045533e60b",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "Baseten on Hugging Face Inference Providers 🔥",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "3bf601325f3ea3e9",
+          "title": "Baseten on Hugging Face Inference Providers 🔥",
+          "url": "https://huggingface.co/blog/baseten",
+          "summary": "",
+          "published_at": "2026-08-06T00:00:00Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.1,
+      "personal_reason": "涉及关注实体：Hugging Face",
+      "inference": null
+    },
+    {
+      "id": "435bb932a171",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "0f7f88499d80af93",
+          "title": "From asking to doing: How the world is putting ChatGPT to work",
+          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+          "published_at": "2026-08-06T00:00:00Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "3082f01c1bbbd38d",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+          "published_at": "2026-08-06T06:00:00Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "48a080e0b3f7873e",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+          "published_at": "2026-08-06T10:00:00Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ff9b9304fabf",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "summary": "https://www.githubstatus.com/uptime/br0l2tvcx85d Comments URL: https://news.ycombinator.com/item?id=49198302 Points: 316 # Comments: 269",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2389ffd1514eb0c5",
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "summary": "https://www.githubstatus.com/uptime/br0l2tvcx85d Comments URL: https://news.ycombinator.com/item?id=49198302 Points: 316 # Comments: 269",
+          "published_at": "2026-08-06T15:49:38Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "5667111aed8b",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production. Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run manufacturers (CMs) that have been operating in largely the same, labor intensive way since the early 2000’s. When you place an order through a CM it typically takes several days to receive a quote and complete design for manufacture review, and then you have to source all of the components (the hardest part) and bare boards yourself, then wait anywhere from a few days to several weeks for the assembly and testing of those boards. We started off assembling circuit boards out of a garage with prosumer grade equipment (NeoDen YY1, Glenbrook X-ray, solder paste stencils, and manual rework stations). We believed that by owning the manufacturing process, we could turn all the front of house automations inwards. But here’s the thing… manufacturing circuit boards with prosumer grade equipment out of a garage takes a huge amount of time. Suddenly we were spending 90% of our time assembling circuit boards instead of growing the business. We were completely capacity constrained, with fancy softw",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bf725a53bea8dd92",
+          "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+          "url": "https://provenmetal.com",
+          "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production. Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run manufacturers (CMs) that have been operating in largely the same, labor intensive way since the early 2000’s. When you place an order through a CM it typically takes several days to receive a quote and complete design for manufacture review, and then you have to source all of the components (the hardest part) and bare boards yourself, then wait anywhere from a few days to several weeks for the assembly and testing of those boards. We started off assembling circuit boards out of a garage with prosumer grade equipment (NeoDen YY1, Glenbrook X-ray, solder paste stencils, and manual rework stations). We believed that by owning the manufacturing process, we could turn all the front of house automations inwards. But here’s the thing… manufacturing circuit boards with prosumer grade equipment out of a garage takes a huge amount of time. Suddenly we were spending 90% of our time assembling circuit boards instead of growing the business. We were completely capacity constrained, with fancy softw",
+          "published_at": "2026-08-06T15:59:15Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Meta",
+      "inference": null
+    },
+    {
+      "id": "1195cf734f2a",
+      "title": "Almost no skill required to cook a steak",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 275 # Comments: 314",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "66609a1c36c89151",
+          "title": "Almost no skill required to cook a steak",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak",
+          "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 275 # Comments: 314",
+          "published_at": "2026-08-06T15:30:48Z",
+          "fetched_at": "2026-08-07T01:42:48.926480Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
