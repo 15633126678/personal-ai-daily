@@ -1,0 +1,262 @@
+{
+  "events": [
+    {
+      "id": "12c069feee64",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "summary": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d7f996eb3ac039c5",
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "summary": "",
+          "published_at": "2026-08-07T17:53:32Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "65a30537b520",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 326 # Comments: 93",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a60bf3b13b16005d",
+          "title": "Hardware backdoors in some x86 CPUs",
+          "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+          "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 326 # Comments: 93",
+          "published_at": "2026-08-08T07:04:51Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "100ec6b8f90d",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/ Comments URL: https://news.ycombinator.com/item?id=49220126 Points: 357 # Comments: 109",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "688fa5c4ea0d0d7c",
+          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "summary": "Article URL: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/ Comments URL: https://news.ycombinator.com/item?id=49220126 Points: 357 # Comments: 109",
+          "published_at": "2026-08-08T09:18:50Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "b5fdbdb8ebbd",
+      "title": "Voyager 1 FDS Computer Emulator",
+      "summary": "Article URL: https://zaneham.github.io/voyager-fds-emulator/ Comments URL: https://news.ycombinator.com/item?id=49221679 Points: 71 # Comments: 12",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "61d1c5c0ddae3c4e",
+          "title": "Voyager 1 FDS Computer Emulator",
+          "url": "https://zaneham.github.io/voyager-fds-emulator",
+          "summary": "Article URL: https://zaneham.github.io/voyager-fds-emulator/ Comments URL: https://news.ycombinator.com/item?id=49221679 Points: 71 # Comments: 12",
+          "published_at": "2026-08-08T13:28:38Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "a820eba50b8b",
+      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "summary": "https://archive.ph/W2tpE Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 213 # Comments: 333",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "70b6f2ac08e02f80",
+          "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+          "summary": "https://archive.ph/W2tpE Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 213 # Comments: 333",
+          "published_at": "2026-08-08T10:04:25Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "fbb1b74fb882",
+      "title": "“Code was never the hard part” is an insult to all programmers",
+      "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 510 # Comments: 336",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "70e86a21261d7be5",
+          "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49220609 Points: 305 # Comments: 304",
+          "published_at": "2026-08-08T10:57:44Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "4730a6500b7cb967",
+          "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+          "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2",
+          "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/ Comments URL: https://news.ycombinator.com/item?id=49221220 Points: 93 # Comments: 70",
+          "published_at": "2026-08-08T12:31:11Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "fd72df5e7cc0318a",
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 510 # Comments: 336",
+          "published_at": "2026-08-08T14:32:33Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "b630fc39e91718d4",
+          "title": "Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "summary": "Article URL: https://code.claude.com/docs/en/cross-session-messaging Comments URL: https://news.ycombinator.com/item?id=49222824 Points: 40 # Comments: 21",
+          "published_at": "2026-08-08T15:34:49Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "46c05b76c0c3",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "summary": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 123 # Comments: 23",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "13ac16b16e68f1bc",
+          "title": "A domain can now say it is for sale, in DNS",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/ Comments URL: https://news.ycombinator.com/item?id=49221668 Points: 323 # Comments: 128",
+          "published_at": "2026-08-08T13:26:51Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "f57f55739eb92bd5",
+          "title": "Triton: DirectX 11 Driver for QEMU",
+          "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu",
+          "summary": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 123 # Comments: 23",
+          "published_at": "2026-08-08T13:33:06Z",
+          "fetched_at": "2026-08-08T23:33:05.498025Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
