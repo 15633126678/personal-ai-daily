@@ -1,0 +1,152 @@
+{
+  "events": [
+    {
+      "id": "486dbcc5773c",
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 41 # Comments: 9",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "aed26db45884ae4d",
+          "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "url": "https://github.com/eighttrigrams/us-vs-them",
+          "summary": "Article URL: https://github.com/eighttrigrams/us-vs-them Comments URL: https://news.ycombinator.com/item?id=49232300 Points: 41 # Comments: 9",
+          "published_at": "2026-08-09T15:25:29Z",
+          "fetched_at": "2026-08-09T23:35:41.513852Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "503044717f0b",
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 115 # Comments: 72",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7980fa7d3c10ad05",
+          "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+          "url": "https://kibotronics.net/unlisted/lilly-machines",
+          "summary": "Article URL: https://kibotronics.net/unlisted/lilly-machines/ Comments URL: https://news.ycombinator.com/item?id=49231397 Points: 115 # Comments: 72",
+          "published_at": "2026-08-09T13:47:36Z",
+          "fetched_at": "2026-08-09T23:35:41.513852Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0a535739c287",
+      "title": "Cool URIs Don't Change (1998)",
+      "summary": "Article URL: https://www.w3.org/Provider/Style/URI Comments URL: https://news.ycombinator.com/item?id=49231809 Points: 166 # Comments: 29",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ae90b86ff43e8e9d",
+          "title": "Cool URIs Don't Change (1998)",
+          "url": "https://www.w3.org/Provider/Style/URI",
+          "summary": "Article URL: https://www.w3.org/Provider/Style/URI Comments URL: https://news.ycombinator.com/item?id=49231809 Points: 166 # Comments: 29",
+          "published_at": "2026-08-09T14:32:53Z",
+          "fetched_at": "2026-08-09T23:35:41.513852Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "df1c22250757",
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "summary": "Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 315 # Comments: 263",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5a0e52460956590c",
+          "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+          "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+          "summary": "Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 315 # Comments: 263",
+          "published_at": "2026-08-09T15:11:20Z",
+          "fetched_at": "2026-08-09T23:35:41.513852Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "5548fcb6aa7e",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "summary": "Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 146 # Comments: 112",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "36ab9ecc608e3636",
+          "title": "Taxi drivers rarely die of Alzheimer's",
+          "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+          "summary": "Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 146 # Comments: 112",
+          "published_at": "2026-08-09T15:21:46Z",
+          "fetched_at": "2026-08-09T23:35:41.513852Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
