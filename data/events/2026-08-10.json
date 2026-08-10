@@ -1,0 +1,417 @@
+{
+  "events": [
+    {
+      "id": "629ebd2e7d9a",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "9667d0fa8ac840d1",
+          "title": "Premium seats are coming to ChatGPT Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "published_at": "2026-08-10T00:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "16a425cec2494ae2",
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "url": "https://openai.com/index/zapier",
+          "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+          "published_at": "2026-08-10T00:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "2960861245fb928f",
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+          "published_at": "2026-08-10T00:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "a6d8be7313af4b60",
+          "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+          "url": "https://huggingface.co/blog/muse-glimmer",
+          "summary": "",
+          "published_at": "2026-08-10T00:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "64cf528d28663c9f",
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+          "published_at": "2026-08-10T12:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "18a0cb5e83bb6262",
+          "title": "Evolve your marketing with new AI tools",
+          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+          "summary": "Advisor UI in Google Ads and Google Analytics",
+          "published_at": "2026-08-10T14:30:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 3,
+      "importance": 4.2,
+      "credibility": 5.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 10.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3089a56820dc",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b656a928b0d131a1",
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+          "published_at": "2026-08-10T10:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "5956dace29b4c111",
+          "title": "Putting frontier cyber models in more trusted hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+          "published_at": "2026-08-10T10:00:00Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "34859aca8506",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "summary": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "ea3c5886b5a425ed",
+          "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "summary": "",
+          "published_at": "2026-08-10T10:05:36Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e0efed300937",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "summary": "https://archive.is/20LOJ https://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 326 # Comments: 349",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b376f8d41b5d8766",
+          "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+          "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+          "summary": "https://archive.is/20LOJ https://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 326 # Comments: 349",
+          "published_at": "2026-08-10T14:06:22Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Meta",
+      "inference": null
+    },
+    {
+      "id": "e54ee8bcd45a",
+      "title": "Show HN: Open-Source Greptile Alternative",
+      "summary": "Article URL: https://github.com/Juror-AI/juror Comments URL: https://news.ycombinator.com/item?id=49244029 Points: 6 # Comments: 1",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b4815f15cb91b0e9",
+          "title": "Show HN: Open-Source Greptile Alternative",
+          "url": "https://github.com/Juror-AI/juror",
+          "summary": "Article URL: https://github.com/Juror-AI/juror Comments URL: https://news.ycombinator.com/item?id=49244029 Points: 6 # Comments: 1",
+          "published_at": "2026-08-10T14:17:13Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "1c948a377fc6",
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 82 # Comments: 154",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0b0e093115742209",
+          "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "summary": "Article URL: https://openai.com/index/responsible-ai-infrastructure-texas/ Comments URL: https://news.ycombinator.com/item?id=49244308 Points: 82 # Comments: 154",
+          "published_at": "2026-08-10T14:38:20Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "635b3899e7e2",
+      "title": "Mistral Patent for “Code implemented tool calls”",
+      "summary": "Article URL: https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html Comments URL: https://news.ycombinator.com/item?id=49243397 Points: 205 # Comments: 171",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5bb82c78ccfea224",
+          "title": "Mistral Patent for “Code implemented tool calls”",
+          "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+          "summary": "Article URL: https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html Comments URL: https://news.ycombinator.com/item?id=49243397 Points: 205 # Comments: 171",
+          "published_at": "2026-08-10T13:29:12Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "13ad16cda374",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 131 # Comments: 76",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "816a08b8d6afc258",
+          "title": "Humanising LLM Outputs Is Dumb",
+          "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+          "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 131 # Comments: 76",
+          "published_at": "2026-08-10T13:35:40Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7fe8abc50086",
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 91 # Comments: 13",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "70a3f71fcee81f52",
+          "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+          "summary": "Article URL: https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs Comments URL: https://news.ycombinator.com/item?id=49244085 Points: 91 # Comments: 13",
+          "published_at": "2026-08-10T14:20:41Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "3e1a2894d41fe5a6",
+          "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+          "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c1j1kjy7gewo Comments URL: https://news.ycombinator.com/item?id=49245023 Points: 286 # Comments: 436",
+          "published_at": "2026-08-10T15:32:04Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1b3aebd31638",
+      "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive Comments URL: https://news.ycombinator.com/item?id=49245251 Points: 152 # Comments: 61",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "845683e04fcb226d",
+          "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+          "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive Comments URL: https://news.ycombinator.com/item?id=49245251 Points: 152 # Comments: 61",
+          "published_at": "2026-08-10T15:49:48Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0885b041ae33",
+      "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
+      "summary": "Article URL: https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR Comments URL: https://news.ycombinator.com/item?id=49245318 Points: 58 # Comments: 21",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "77546d2bd98f6f87",
+          "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
+          "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
+          "summary": "Article URL: https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR Comments URL: https://news.ycombinator.com/item?id=49245318 Points: 58 # Comments: 21",
+          "published_at": "2026-08-10T15:53:01Z",
+          "fetched_at": "2026-08-10T23:39:16.796406Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
