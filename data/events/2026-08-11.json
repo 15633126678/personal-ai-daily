@@ -1,0 +1,278 @@
+{
+  "events": [
+    {
+      "id": "5ed872d7c82b",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6a1bd86362791016",
+          "title": "What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "published_at": "2026-08-10T17:00:00Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "10581fd5977c",
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "4e730871994fa83c",
+          "title": "Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "published_at": "2026-08-11T10:00:00Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "232ff2138137",
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8b9a4b7badf9e902",
+          "title": "Daybreak models are now available on AWS",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "published_at": "2026-08-11T10:00:00Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "d1caa11b3ab3",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "cdd7e6f831f7d46b",
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "summary": "",
+          "published_at": "2026-08-10T16:25:36Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "a4d19e70c81e1ec9",
+          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "summary": "",
+          "published_at": "2026-08-11T13:37:10Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b50a8a281fd1",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 275 # Comments: 43",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "dad58a5b9b5c0474",
+          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+          "url": "https://stolen-thoughts.com",
+          "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 456 # Comments: 199",
+          "published_at": "2026-08-11T13:22:00Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ec87bf22b6668790",
+          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 275 # Comments: 43",
+          "published_at": "2026-08-11T14:50:33Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "3df39f471875af18",
+          "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+          "url": "https://github.com/TheRealYT/git-knife",
+          "summary": "Article URL: https://github.com/TheRealYT/git-knife Comments URL: https://news.ycombinator.com/item?id=49259611 Points: 121 # Comments: 84",
+          "published_at": "2026-08-11T15:09:34Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "11ad76e6aa3d",
+      "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
+      "summary": "Article URL: https://writemd.app/ Comments URL: https://news.ycombinator.com/item?id=49258011 Points: 72 # Comments: 65",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "cb86d76517ea5044",
+          "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
+          "url": "https://writemd.app",
+          "summary": "Article URL: https://writemd.app/ Comments URL: https://news.ycombinator.com/item?id=49258011 Points: 72 # Comments: 65",
+          "published_at": "2026-08-11T13:30:39Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "97c569dd10b2",
+      "title": "Manus will return to operating as an independent company",
+      "summary": "Article URL: https://manus.im/blog/a-note-to-our-users Comments URL: https://news.ycombinator.com/item?id=49258764 Points: 125 # Comments: 66",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3b0b40b39242de25",
+          "title": "Manus will return to operating as an independent company",
+          "url": "https://manus.im/blog/a-note-to-our-users",
+          "summary": "Article URL: https://manus.im/blog/a-note-to-our-users Comments URL: https://news.ycombinator.com/item?id=49258764 Points: 125 # Comments: 66",
+          "published_at": "2026-08-11T14:14:53Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1354388bcd16",
+      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+      "summary": "Hi HN! We’re Zack and Tommy the Co-Founders of Keet ( https://trykeet.com ). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time. Tommy and I met in linear algebra class in college and spent the next 4 years taking classes together. Our friendship was formed around learning new things. In school, someone else designs the curriculum, delivers the content, and writes the assessments. All you have to do is show up. Learning without this structure was frustrating, and there was a lot of friction to get started. Zack has a coffee obsession and struggled to assemble youtube videos, conversations with ChatGPT, and the books he was reading into a coherent understanding of all of the different variables that go into brewing a cup of coffee. His attempts gave him the freedom to follow his curiosity, but the instructional design was difficult. Every piece of content either presumed some prerequisite knowledge or none at all. Keet is our attempt at providing the autonomy to teach yourself anything while adding a structure conducive to learning. It finds a custom starting point and sequences lessons in a logical order. We have found Keet most useful in the following scenarios: - You have a subject matter interest that you enjoy passively learning about. (i.e. you really enjoy learning about medieval history and generate courses on ",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e92734eb947487e8",
+          "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+          "url": "https://www.trykeet.com",
+          "summary": "Hi HN! We’re Zack and Tommy the Co-Founders of Keet ( https://trykeet.com ). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time. Tommy and I met in linear algebra class in college and spent the next 4 years taking classes together. Our friendship was formed around learning new things. In school, someone else designs the curriculum, delivers the content, and writes the assessments. All you have to do is show up. Learning without this structure was frustrating, and there was a lot of friction to get started. Zack has a coffee obsession and struggled to assemble youtube videos, conversations with ChatGPT, and the books he was reading into a coherent understanding of all of the different variables that go into brewing a cup of coffee. His attempts gave him the freedom to follow his curiosity, but the instructional design was difficult. Every piece of content either presumed some prerequisite knowledge or none at all. Keet is our attempt at providing the autonomy to teach yourself anything while adding a structure conducive to learning. It finds a custom starting point and sequences lessons in a logical order. We have found Keet most useful in the following scenarios: - You have a subject matter interest that you enjoy passively learning about. (i.e. you really enjoy learning about medieval history and generate courses on ",
+          "published_at": "2026-08-11T14:48:37Z",
+          "fetched_at": "2026-08-11T23:46:23.519262Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
