@@ -1,0 +1,323 @@
+{
+  "events": [
+    {
+      "id": "761fecbb39a8",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "summary": "AMIE promotional video",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "41575f29c5713aac",
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "summary": "AMIE promotional video",
+          "published_at": "2026-08-11T17:00:00Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "7cdf8e78e72298ee",
+          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "summary": "",
+          "published_at": "2026-08-12T14:00:51Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 3.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.55,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "eba6528bccb4",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8d6f0fdc17d9b91d",
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "url": "https://openai.com/index/ringcentral",
+          "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+          "published_at": "2026-08-12T00:00:00Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "3a25e890437d2380",
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+          "published_at": "2026-08-12T06:00:00Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "51becb07a8b1",
+      "title": "Pixel 11 Pro Fold",
+      "summary": "Article URL: https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/ Comments URL: https://news.ycombinator.com/item?id=49273330 Points: 89 # Comments: 126",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "55c4dd34c723cd44",
+          "title": "Pixel 11 Pro Fold",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold",
+          "summary": "Article URL: https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/ Comments URL: https://news.ycombinator.com/item?id=49273330 Points: 89 # Comments: 126",
+          "published_at": "2026-08-12T14:52:27Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "ad4cc86bc3da",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 217 # Comments: 142",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8c5fd3b630f3aa89",
+          "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+          "url": "https://knownagents.com/insights",
+          "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 217 # Comments: 142",
+          "published_at": "2026-08-12T14:02:46Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9d86f8984281",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "summary": "Article URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html Comments URL: https://news.ycombinator.com/item?id=49272655 Points: 217 # Comments: 28",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a45c914fe11f100f",
+          "title": "Tim King, AmigaDOS developer, has died",
+          "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+          "summary": "Article URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html Comments URL: https://news.ycombinator.com/item?id=49272655 Points: 217 # Comments: 28",
+          "published_at": "2026-08-12T14:09:11Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ce7dc79a1742",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 736 # Comments: 120",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "097acbe87d97b32b",
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+          "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 736 # Comments: 120",
+          "published_at": "2026-08-12T14:22:30Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a3e1808eb566",
+      "title": "License plate reader searches should require a warrant",
+      "summary": "Article URL: https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/ Comments URL: https://news.ycombinator.com/item?id=49273165 Points: 517 # Comments: 318",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "680b6e4614d56085",
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant",
+          "summary": "Article URL: https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/ Comments URL: https://news.ycombinator.com/item?id=49273165 Points: 517 # Comments: 318",
+          "published_at": "2026-08-12T14:43:39Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0df34cfd5f97",
+      "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+      "summary": "Article URL: https://job-boards.greenhouse.io/givecampus/jobs/4112793009 Comments URL: https://news.ycombinator.com/item?id=49273395 Points: 0 # Comments: 0",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "cde5cc2302cd3a4b",
+          "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+          "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+          "summary": "Article URL: https://job-boards.greenhouse.io/givecampus/jobs/4112793009 Comments URL: https://news.ycombinator.com/item?id=49273395 Points: 0 # Comments: 0",
+          "published_at": "2026-08-12T14:55:27Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "adc7722e3266",
+      "title": "Qwen3.8-2.4T",
+      "summary": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8 Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 453 # Comments: 95",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1ee9b2fcff554d7e",
+          "title": "Qwen3.8-2.4T",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8 Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 453 # Comments: 95",
+          "published_at": "2026-08-12T15:01:17Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "623c5f5769ac",
+      "title": "Grok 4.6",
+      "summary": "Article URL: https://x.ai/news/grok-4-6 Comments URL: https://news.ycombinator.com/item?id=49274027 Points: 357 # Comments: 366",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "91b60b41d65a4487",
+          "title": "Grok 4.6",
+          "url": "https://x.ai/news/grok-4-6",
+          "summary": "Article URL: https://x.ai/news/grok-4-6 Comments URL: https://news.ycombinator.com/item?id=49274027 Points: 357 # Comments: 366",
+          "published_at": "2026-08-12T15:32:50Z",
+          "fetched_at": "2026-08-12T23:47:33.932538Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
