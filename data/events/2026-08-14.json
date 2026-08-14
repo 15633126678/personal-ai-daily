@@ -1,0 +1,252 @@
+{
+  "events": [
+    {
+      "id": "20edd800be40",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "The video shows Sheets canvas in action.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "e90c9c65394d8e9c",
+          "title": "Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "summary": "The video shows Sheets canvas in action.",
+          "published_at": "2026-08-13T16:45:00Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "6fefe85a7bd7e680",
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "summary": "",
+          "published_at": "2026-08-13T17:16:04Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 3.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.55,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "462d7ba6fd96",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "summary": "State of Open Models: Summer 2026 Observations",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6195ac27d8232e77",
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "summary": "",
+          "published_at": "2026-08-14T00:00:00Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e2e41e0b709f",
+      "title": "Every Fucking Website (2020)",
+      "summary": "Article URL: https://lxe.github.io/everywebsite/ Comments URL: https://news.ycombinator.com/item?id=49299222 Points: 704 # Comments: 394",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "110bd801fe6d3d7a",
+          "title": "Every Fucking Website (2020)",
+          "url": "https://lxe.github.io/everywebsite",
+          "summary": "Article URL: https://lxe.github.io/everywebsite/ Comments URL: https://news.ycombinator.com/item?id=49299222 Points: 704 # Comments: 394",
+          "published_at": "2026-08-14T14:31:08Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "73ef393ed4c9",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 237 # Comments: 147",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0db5d0bc3c0a031e",
+          "title": "Google is making private AI practical with homomorphic encryption",
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+          "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 237 # Comments: 147",
+          "published_at": "2026-08-14T15:43:10Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "3fdf2b63e441",
+      "title": "Qwen 3.8 27B",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 802 # Comments: 526",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "cb29ab1bba41802a",
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 802 # Comments: 526",
+          "published_at": "2026-08-14T15:00:00Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "cd34ddc921bc",
+      "title": "Seven books I keep close because I love them",
+      "summary": "Article URL: https://blog.plover.com/2026/08/02/ Comments URL: https://news.ycombinator.com/item?id=49299675 Points: 283 # Comments: 127",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9fddf16d3801a43c",
+          "title": "Seven books I keep close because I love them",
+          "url": "https://blog.plover.com/2026/08/02",
+          "summary": "Article URL: https://blog.plover.com/2026/08/02/ Comments URL: https://news.ycombinator.com/item?id=49299675 Points: 283 # Comments: 127",
+          "published_at": "2026-08-14T15:03:26Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "69a69e4ee000",
+      "title": "Introducing Toast 1",
+      "summary": "Article URL: https://www.mixedbread.com/blog/toast-1 Comments URL: https://news.ycombinator.com/item?id=49299746 Points: 170 # Comments: 57",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "eb99270e984b7df4",
+          "title": "Introducing Toast 1",
+          "url": "https://www.mixedbread.com/blog/toast-1",
+          "summary": "Article URL: https://www.mixedbread.com/blog/toast-1 Comments URL: https://news.ycombinator.com/item?id=49299746 Points: 170 # Comments: 57",
+          "published_at": "2026-08-14T15:07:57Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1797fc5fbfd8",
+      "title": "AI by Hand",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 168 # Comments: 14",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fe9edc2095c1f60d",
+          "title": "AI by Hand",
+          "url": "https://www.byhand.ai",
+          "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 168 # Comments: 14",
+          "published_at": "2026-08-14T15:58:59Z",
+          "fetched_at": "2026-08-14T23:26:17.074324Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
