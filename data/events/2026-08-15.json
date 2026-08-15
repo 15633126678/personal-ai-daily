@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": "083afde7e639",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 193 # Comments: 64",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5707d5275d031627",
+          "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+          "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235",
+          "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 193 # Comments: 64",
+          "published_at": "2026-08-15T14:04:49Z",
+          "fetched_at": "2026-08-15T23:24:34.591868Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ef7814231d39",
+      "title": "A spectre is haunting Unicode",
+      "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 148 # Comments: 44",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fd52cf4ea5ded92a",
+          "title": "A spectre is haunting Unicode",
+          "url": "https://www.dampfkraft.com/ghost-characters.html",
+          "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 148 # Comments: 44",
+          "published_at": "2026-08-15T14:34:04Z",
+          "fetched_at": "2026-08-15T23:24:34.591868Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ea79171f49f0",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 312 # Comments: 211",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e510e7b16eecac7d",
+          "title": "Semaglutide linked to lower predicted dementia risk",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 312 # Comments: 211",
+          "published_at": "2026-08-15T15:58:53Z",
+          "fetched_at": "2026-08-15T23:24:34.591868Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
