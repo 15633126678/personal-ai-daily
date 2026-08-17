@@ -1,0 +1,191 @@
+{
+  "events": [
+    {
+      "id": "a61793895ba0",
+      "title": "New policy ideas for the Intelligence Age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b7e4b426286612ae",
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+          "published_at": "2026-08-17T03:15:00Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "6465a64aa5ea04f4",
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+          "published_at": "2026-08-17T05:30:00Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "3feaa51ecdb175c2",
+          "title": "Get closer to the game with Gemini and Pixel",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+          "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+          "published_at": "2026-08-17T08:00:00Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "25f716e9e2bf",
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "936e9198e7231078",
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+          "published_at": "2026-08-17T05:00:00Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "b6a087bfe5f8",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 298 # Comments: 122",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7cd8a175a40819b9",
+          "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 298 # Comments: 122",
+          "published_at": "2026-08-17T14:18:38Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "19b4e69d3634",
+      "title": "How to put 170 atoms in an atom",
+      "summary": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/ Comments URL: https://news.ycombinator.com/item?id=49331474 Points: 96 # Comments: 21",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f691cdc3881981cc",
+          "title": "How to disable or avoid intrusive AI",
+          "url": "https://www.librarian.net/notoai",
+          "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 236 # Comments: 130",
+          "published_at": "2026-08-17T14:07:56Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "112df847e759a3fb",
+          "title": "How to put 170 atoms in an atom",
+          "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom",
+          "summary": "Article URL: https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/ Comments URL: https://news.ycombinator.com/item?id=49331474 Points: 96 # Comments: 21",
+          "published_at": "2026-08-17T14:21:25Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "11bf835f89cf",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers. The result is that you use voice agents running last quarter's models while better and cheaper options are available. Before founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: \"we can literally go to this dashboard, switch the model, and it will do it for us.\" How it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, an",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3115cb8f7b129c3f",
+          "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+          "url": "https://speko.ai",
+          "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers. The result is that you use voice agents running last quarter's models while better and cheaper options are available. Before founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: \"we can literally go to this dashboard, switch the model, and it will do it for us.\" How it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, an",
+          "published_at": "2026-08-17T15:36:18Z",
+          "fetched_at": "2026-08-17T23:26:27.480527Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
