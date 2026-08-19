@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "id": "5ad13cde2634",
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "14434bf2fd4d0c06",
+          "title": "Strengthening democratic oversight in national security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+          "published_at": "2026-08-18T19:00:00Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "109dd36c21ab",
+      "title": "ChatGPT Ads expands across Europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "18da8bfc1e0decb7",
+          "title": "ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "published_at": "2026-08-18T22:00:00Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "c042ecadc4454170",
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "published_at": "2026-08-19T07:00:00Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "bd54ba1fe8da",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "summary": "How Much Memory Does Your Agent Actually Need?",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "f2683b1da6428494",
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "summary": "",
+          "published_at": "2026-08-18T18:09:38Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c235ed2e8de8",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "5a38ceab24a570fc",
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "summary": "",
+          "published_at": "2026-08-19T13:48:49Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "94f836b4d271",
+      "title": "PostgreSQL for Everything",
+      "summary": "Article URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/ Comments URL: https://news.ycombinator.com/item?id=49361279 Points: 282 # Comments: 178",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a97a02fda6f18fa5",
+          "title": "PostgreSQL for Everything",
+          "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything",
+          "summary": "Article URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/ Comments URL: https://news.ycombinator.com/item?id=49361279 Points: 282 # Comments: 178",
+          "published_at": "2026-08-19T13:21:21Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "32d28d85748c",
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "summary": "Article URL: https://ornith.ai/ornith_1_5.html Comments URL: https://news.ycombinator.com/item?id=49362401 Points: 159 # Comments: 53",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c5c4f39258895738",
+          "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "summary": "Article URL: https://ornith.ai/ornith_1_5.html Comments URL: https://news.ycombinator.com/item?id=49362401 Points: 159 # Comments: 53",
+          "published_at": "2026-08-19T14:48:39Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ccd8db021a7c",
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "summary": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees Comments URL: https://news.ycombinator.com/item?id=49362934 Points: 447 # Comments: 222",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "52e5acd3b1fceceb",
+          "title": "Mathematics in the age of AI",
+          "url": "https://arxiv.org/abs/2608.16753",
+          "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 104 # Comments: 92",
+          "published_at": "2026-08-19T15:14:25Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "8ac7cd3fa80d0798",
+          "title": "Remote workers report the highest well-being in study of 7,700 employees",
+          "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+          "summary": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees Comments URL: https://news.ycombinator.com/item?id=49362934 Points: 447 # Comments: 222",
+          "published_at": "2026-08-19T15:32:08Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6a2144d72a9f",
+      "title": "Casio F-B100W-1A",
+      "summary": "Article URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/ Comments URL: https://news.ycombinator.com/item?id=49362887 Points: 244 # Comments: 195",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9da3929b19eb80ab",
+          "title": "Casio F-B100W-1A",
+          "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A",
+          "summary": "Article URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/ Comments URL: https://news.ycombinator.com/item?id=49362887 Points: 244 # Comments: 195",
+          "published_at": "2026-08-19T15:28:01Z",
+          "fetched_at": "2026-08-19T23:26:57.608031Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
