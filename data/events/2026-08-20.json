@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "id": "f5bea2268823",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "971da21a3ac32a67",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "published_at": "2026-08-19T19:00:00Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "cc2ab9fa27e3",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "ec2332dc6523ff28",
+          "title": "Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+          "published_at": "2026-08-20T07:00:00Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "3b03f10bf600",
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a2085781e1bf989a",
+          "title": "5 new ways to level up your learning with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+          "published_at": "2026-08-19T19:00:00Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.25,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "24d4f8dd74c7",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1476f459afd654a9",
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "url": "https://openai.com/index/stampli",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "published_at": "2026-08-20T00:00:00Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4521aff3394b",
+      "title": "Every Model Cheats",
+      "summary": "https://arxiv.org/abs/2607.21763 Comments URL: https://news.ycombinator.com/item?id=49374635 Points: 74 # Comments: 55",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7436279b8061ea98",
+          "title": "Every Model Cheats",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "summary": "https://arxiv.org/abs/2607.21763 Comments URL: https://news.ycombinator.com/item?id=49374635 Points: 74 # Comments: 55",
+          "published_at": "2026-08-20T13:56:59Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9e73f16c1dea",
+      "title": "Hacking with Claude on a $27 smart watch",
+      "summary": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 78 # Comments: 44",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6758f1854962bd7f",
+          "title": "Hacking with Claude on a $27 smart watch",
+          "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+          "summary": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 78 # Comments: 44",
+          "published_at": "2026-08-20T14:08:09Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "6eb7a19441fc0b3f",
+          "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 164 # Comments: 175",
+          "published_at": "2026-08-20T15:26:02Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "632fc1135e64d9ef",
+          "title": "How to compromise your system with a job interview",
+          "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+          "summary": "Article URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview Comments URL: https://news.ycombinator.com/item?id=49376332 Points: 113 # Comments: 87",
+          "published_at": "2026-08-20T15:50:57Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a01950463357",
+      "title": "Anti-AI fonts are useless and harmful",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 94 # Comments: 65",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7834cff455d69cea",
+          "title": "Anti-AI fonts are useless and harmful",
+          "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+          "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 94 # Comments: 65",
+          "published_at": "2026-08-20T15:06:53Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ae4772eaea1b",
+      "title": "Linux 7.2",
+      "summary": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 181 # Comments: 59",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2581cdcfbb3eec50",
+          "title": "Linux 7.2",
+          "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+          "summary": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 181 # Comments: 59",
+          "published_at": "2026-08-20T15:46:18Z",
+          "fetched_at": "2026-08-20T23:29:27.912143Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
