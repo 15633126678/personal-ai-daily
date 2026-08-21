@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "id": "ffd175ff3374",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "summary": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b41fa9c74f86007c",
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "summary": "",
+          "published_at": "2026-08-20T16:52:57Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3c0af9975b37",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "Measuring benchmark optimization in speech recognition",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8de96fd631a45d0c",
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "summary": "",
+          "published_at": "2026-08-21T00:00:00Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b62bb754d77b",
+      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+      "summary": "Article URL: https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md Comments URL: https://news.ycombinator.com/item?id=49389493 Points: 14 # Comments: 0",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "da1a2848d4d8ef04",
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "url": "https://kagi.com/changelog",
+          "summary": "Article URL: https://kagi.com/changelog#11296 Comments URL: https://news.ycombinator.com/item?id=49388154 Points: 953 # Comments: 327",
+          "published_at": "2026-08-21T13:56:37Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "1a6facfbbba1164a",
+          "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+          "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+          "summary": "Article URL: https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md Comments URL: https://news.ycombinator.com/item?id=49389493 Points: 14 # Comments: 0",
+          "published_at": "2026-08-21T15:21:10Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "253d42639b7c",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "summary": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 169 # Comments: 120",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6b053df98d791830",
+          "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+          "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+          "summary": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 169 # Comments: 120",
+          "published_at": "2026-08-21T14:31:52Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "9d40e01855b7",
+      "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "summary": "Article URL: https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/ Comments URL: https://news.ycombinator.com/item?id=49388095 Points: 50 # Comments: 2",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "db77e340f4321cb5",
+          "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+          "url": "https://arxiv.org/abs/2608.18214",
+          "summary": "Article URL: https://arxiv.org/abs/2608.18214 Comments URL: https://news.ycombinator.com/item?id=49387856 Points: 94 # Comments: 32",
+          "published_at": "2026-08-21T13:35:17Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "e9949891c34503c2",
+          "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+          "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout",
+          "summary": "Article URL: https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/ Comments URL: https://news.ycombinator.com/item?id=49388095 Points: 50 # Comments: 2",
+          "published_at": "2026-08-21T13:52:53Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f6ba3b331f0b",
+      "title": "Felony Bench",
+      "summary": "Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 451 # Comments: 208",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c9c7b3d83bf62a11",
+          "title": "Felony Bench",
+          "url": "https://www.felonybench.com",
+          "summary": "Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 451 # Comments: 208",
+          "published_at": "2026-08-21T15:17:04Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1f881e428691",
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "summary": "Article URL: https://pointinthecloud.com/2026-08-19-144600.html Comments URL: https://news.ycombinator.com/item?id=49389441 Points: 104 # Comments: 25",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7a51ccf5a9bdd623",
+          "title": "I ran Photoshop on a £0.60 computer chip",
+          "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+          "summary": "Article URL: https://pointinthecloud.com/2026-08-19-144600.html Comments URL: https://news.ycombinator.com/item?id=49389441 Points: 104 # Comments: 25",
+          "published_at": "2026-08-21T15:17:47Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c9d2e9ee048b",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "summary": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 91 # Comments: 19",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8d34fe45581bd67d",
+          "title": "How we made a text-to-speech model respond in sub-50 ms",
+          "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier",
+          "summary": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 91 # Comments: 19",
+          "published_at": "2026-08-21T15:51:10Z",
+          "fetched_at": "2026-08-21T23:28:00.198412Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
