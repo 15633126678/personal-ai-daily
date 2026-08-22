@@ -1,0 +1,307 @@
+{
+  "events": [
+    {
+      "id": "3333cd075df6",
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b32289d4648859a2",
+          "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+          "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+          "summary": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0",
+          "published_at": "2026-08-21T17:00:23Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "b3dc2fa6f68176fd",
+          "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+          "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+          "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0",
+          "published_at": "2026-08-21T21:00:48Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "46e520e762f2",
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=49392536 Points: 63 # Comments: 8",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a3cdf0c6bc31edb5",
+          "title": "One night in Uzbekistan: Why was this one data point so influential?",
+          "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan",
+          "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=49392536 Points: 63 # Comments: 8",
+          "published_at": "2026-08-21T19:05:50Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d06a9fc3c747",
+      "title": "A week of using Codex more than Claude",
+      "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 103 # Comments: 106",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1536afba24ca4ca0",
+          "title": "A week of using Codex more than Claude",
+          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+          "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 103 # Comments: 106",
+          "published_at": "2026-08-21T19:51:48Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "dc842f97dfc4",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work. What I built OzBrain to do: + Create a central place for agent reasoned knowledge to live + Be agnostic about what apps/agents connect to it + Capture everything and track it so I can audit it + Enable teams, collaborators or partners to share brains + Handle conflicts so many agents in the same article doesn’t blow up + Refactor knowledge into more token friendly chunks and map the index well + Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link + Keep user data safe and secure ++ Be easy enough to use that you don’t have to have any technical knowledge Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that. Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really f",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "188344c0b7d9a384",
+          "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+          "url": "https://ozbrain.com",
+          "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work. What I built OzBrain to do: + Create a central place for agent reasoned knowledge to live + Be agnostic about what apps/agents connect to it + Capture everything and track it so I can audit it + Enable teams, collaborators or partners to share brains + Handle conflicts so many agents in the same article doesn’t blow up + Refactor knowledge into more token friendly chunks and map the index well + Close the knowledge loop so new thinking supersedes old thinking across the corpus. Don’t erase, depreciate and link + Keep user data safe and secure ++ Be easy enough to use that you don’t have to have any technical knowledge Some among us will always build their own custom solutions, but there are millions of tech professionals and small business owners that will use agents heavily and need a solution. So I’m trying to build that. Isn’t this like gBrain? Yes, similar. I think it’s like AWS vs Vercel. AWS is very powerful, configurable, and useful if you’re technical and want to invest the time into really f",
+          "published_at": "2026-08-21T23:09:06Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "dae4e0a54f49fc69",
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 414 # Comments: 1144",
+          "published_at": "2026-08-22T06:16:57Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "8d7001728c7cc153",
+          "title": "Munder Difflin – Agent harness to run an office of your clones",
+          "url": "https://munderdiffl.in",
+          "summary": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 240 # Comments: 112",
+          "published_at": "2026-08-22T09:49:14Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "818340134fe1",
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "summary": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 112 # Comments: 54",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "34e0cdae14043936",
+          "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "summary": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 112 # Comments: 54",
+          "published_at": "2026-08-22T09:49:57Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9dff9e2ca926",
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 189 # Comments: 82",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "56124054d0413c20",
+          "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+          "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber",
+          "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 189 # Comments: 82",
+          "published_at": "2026-08-22T13:24:06Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "2bc947523af1",
+      "title": "New MCP Roadmap",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 167 # Comments: 120",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7dec5965fe02a4f4",
+          "title": "New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 167 # Comments: 120",
+          "published_at": "2026-08-22T13:31:34Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "eeb1eac01a09",
+      "title": "A Friendly Introduction to Racket",
+      "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 175 # Comments: 80",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d88030d91f21a3cb",
+          "title": "A Friendly Introduction to Racket",
+          "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket",
+          "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 175 # Comments: 80",
+          "published_at": "2026-08-22T14:08:19Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "94cbfec59280",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 279 # Comments: 90",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e2101c1356db80ac",
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 279 # Comments: 90",
+          "published_at": "2026-08-22T14:54:07Z",
+          "fetched_at": "2026-08-22T23:24:42.163533Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
