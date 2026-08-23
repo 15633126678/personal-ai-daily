@@ -1,0 +1,443 @@
+{
+  "events": [
+    {
+      "id": "155bd54d97da",
+      "title": "Things I want in a modern relational query language",
+      "summary": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 19 # Comments: 7",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2bb02a4e63709802",
+          "title": "Things I want in a modern relational query language",
+          "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language",
+          "summary": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 19 # Comments: 7",
+          "published_at": "2026-08-22T18:38:41Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4cd5601ca954",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ef5d637155cb71a6",
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 32",
+          "published_at": "2026-08-22T19:07:46Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "551ddd2ea264bdcf",
+          "title": "The Art and Beauty of Blade Runner (2015)",
+          "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner",
+          "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 136 # Comments: 68",
+          "published_at": "2026-08-23T00:56:03Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "bd00b127a5400574",
+          "title": "Fast and Hard Code",
+          "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code",
+          "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 44",
+          "published_at": "2026-08-23T05:39:06Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "49ff201c30e43f62",
+          "title": "The End of an Athlon",
+          "url": "http://www.os2museum.com/wp/the-end-of-an-athlon",
+          "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 143 # Comments: 57",
+          "published_at": "2026-08-23T05:51:01Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "41cc0c0e28fac5b2",
+          "title": "JIT Compiling Code in 5μs",
+          "url": "https://malisper.me/jit-compiling-code-in-5-us",
+          "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 123 # Comments: 78",
+          "published_at": "2026-08-23T06:04:51Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "de8fd3a286a6e311",
+          "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+          "url": "https://skylens.yantraai.app",
+          "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17",
+          "published_at": "2026-08-23T09:27:40Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "2003f75f8dcb4f54",
+          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+          "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model",
+          "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
+          "published_at": "2026-08-23T10:02:51Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "c50eb114d19d829d",
+          "title": "My favorite nonfiction books about cults, scams, and schemes",
+          "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+          "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
+          "published_at": "2026-08-23T13:51:10Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "5c063df25fba0980",
+          "title": "Death to px, long live ch",
+          "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch",
+          "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
+          "published_at": "2026-08-23T13:56:27Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "3fbb892a2e861396",
+          "title": "Authoritarianism of Code",
+          "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code",
+          "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
+          "published_at": "2026-08-23T14:36:38Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6a2c9b34c69c",
+      "title": "NanoGPT Speedrun Frontier",
+      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 127 # Comments: 31",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e8853b02e78cc847",
+          "title": "NanoGPT Speedrun Frontier",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 127 # Comments: 31",
+          "published_at": "2026-08-22T22:14:27Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "452406a838b1",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 154 # Comments: 55",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7ace04a3d0edb8d3",
+          "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+          "url": "https://martypc.net",
+          "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 154 # Comments: 55",
+          "published_at": "2026-08-23T03:13:16Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "348fefb2b3fd",
+      "title": "To become a better writer, read as much as you can",
+      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a3151f077ed5e2f1",
+          "title": "To become a better writer, read as much as you can",
+          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
+          "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208",
+          "published_at": "2026-08-23T03:32:25Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a6f27893d1f4",
+      "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+      "summary": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 24 # Comments: 6",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d8333e4e9b730454",
+          "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+          "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+          "summary": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 24 # Comments: 6",
+          "published_at": "2026-08-23T06:07:06Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f3f7d258d936",
+      "title": "Iranian hackers shut down UK power plant for 4 days",
+      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8cff65c7bba491d2",
+          "title": "Iranian hackers shut down UK power plant for 4 days",
+          "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant",
+          "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
+          "published_at": "2026-08-23T10:03:01Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4c9eb06bb0b6",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "11377bc7e5d96f30",
+          "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+          "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59",
+          "published_at": "2026-08-23T10:14:48Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "97bed6a1d518",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4b8e7d5063496967",
+          "title": "Malware infects Android-based automotive head unit firmware",
+          "url": "https://securelist.com/android-head-unit-malware/121106",
+          "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
+          "published_at": "2026-08-23T13:05:38Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0063f70b0606",
+      "title": "What Is a Harness?",
+      "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "287b4b7ec832d74e",
+          "title": "What Is a Harness?",
+          "url": "https://earendil.com/posts/what-is-a-harness",
+          "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
+          "published_at": "2026-08-23T14:24:21Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "af2faa282a9b",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c6fbace5e747d494",
+          "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+          "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras",
+          "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+          "published_at": "2026-08-23T14:38:25Z",
+          "fetched_at": "2026-08-23T23:25:04.677595Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
