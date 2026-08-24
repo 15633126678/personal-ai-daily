@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "0b5440c1a182",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "da36a5582dc91b20",
+          "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "published_at": "2026-08-24T12:00:00Z",
+          "fetched_at": "2026-08-24T23:25:56.852271Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "09289a7adf62",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 410 # Comments: 416",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "03a8cd269b2b4372",
+          "title": "Coding expertise is going to collapse from AI reliance",
+          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+          "summary": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 410 # Comments: 416",
+          "published_at": "2026-08-24T15:52:33Z",
+          "fetched_at": "2026-08-24T23:25:56.852271Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
