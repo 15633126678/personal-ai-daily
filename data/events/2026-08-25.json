@@ -1,0 +1,236 @@
+{
+  "events": [
+    {
+      "id": "6c9de6f46cbb",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "3fd3c5c15867e636",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+          "published_at": "2026-08-25T00:00:00Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "c8c4d1ae2623",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "124559b8593cbed9",
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "url": "https://openai.com/index/introducing-admin-plugin",
+          "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+          "published_at": "2026-08-25T00:00:00Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "30aa69bebc0ccf5b",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+          "published_at": "2026-08-25T07:00:00Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "6b0aad99771439c7",
+          "title": "The full stack behind abundant intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "published_at": "2026-08-25T07:05:00Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "65791e91db0c",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b7e36ffcde895599",
+          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "summary": "",
+          "published_at": "2026-08-25T00:00:00Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4aef3460b03c",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "46ab67b6efca5b83",
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "summary": "",
+          "published_at": "2026-08-25T11:39:24Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "df629a510157",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "Granite 4.2 LLMs: How They're Built",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "fb6615779c1e53ac",
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "summary": "",
+          "published_at": "2026-08-25T15:14:14Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ed4a386409e4",
+      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+      "summary": "Article URL: https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance Comments URL: https://news.ycombinator.com/item?id=49435641 Points: 25 # Comments: 14",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "22a0dda2988dff79",
+          "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+          "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+          "summary": "Article URL: https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance Comments URL: https://news.ycombinator.com/item?id=49435641 Points: 25 # Comments: 14",
+          "published_at": "2026-08-25T15:18:22Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "aa9b78743e60",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room! So now it can answer car questions such as \"when should I add oil and what kind of oil?\" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them. For example, if car breaks and can't move the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something. Comments URL: https://news.ycombinator.com/item?id=49435675 Points: 81 # Comments: 16",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d4b63de74c8f5175",
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "url": "https://github.com/ThinkOffApp/CarWatch",
+          "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room! So now it can answer car questions such as \"when should I add oil and what kind of oil?\" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them. For example, if car breaks and can't move the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something. Comments URL: https://news.ycombinator.com/item?id=49435675 Points: 81 # Comments: 16",
+          "published_at": "2026-08-25T15:20:20Z",
+          "fetched_at": "2026-08-25T23:28:09.559202Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
