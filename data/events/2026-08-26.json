@@ -1,0 +1,133 @@
+{
+  "events": [
+    {
+      "id": "b6135a4bfe72",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "c3c36caa3096e34a",
+          "title": "5 ways to upgrade your home decor with Google Search",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+          "published_at": "2026-08-25T16:00:00Z",
+          "fetched_at": "2026-08-27T04:25:50.153774Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "4ff6623105475a79",
+          "title": "How loveholidays is making everyone a builder with Codex",
+          "url": "https://openai.com/index/loveholidays",
+          "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+          "published_at": "2026-08-26T00:00:00Z",
+          "fetched_at": "2026-08-27T04:25:50.153774Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "1dc171f4297f5913",
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "summary": "",
+          "published_at": "2026-08-26T00:00:00Z",
+          "fetched_at": "2026-08-27T04:25:50.153774Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "9b49264981d280da",
+          "title": "Learning never stops: How AI makes learning continuous",
+          "url": "https://openai.com/index/learning-never-stops",
+          "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+          "published_at": "2026-08-26T10:00:00Z",
+          "fetched_at": "2026-08-27T04:25:50.153774Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 3,
+      "importance": 4.2,
+      "credibility": 5.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 11.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "550cf338012e",
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "33708150fa80f249",
+          "title": "The Hugging Face incident and the road ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+          "published_at": "2026-08-26T00:00:00Z",
+          "fetched_at": "2026-08-27T04:25:50.153774Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 2.4,
+      "total_score": 9.6,
+      "personal_reason": "涉及关注实体：OpenAI, Hugging Face",
+      "inference": null
+    },
+    {
+      "id": "c719c692d5d3",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "73f5435f3f8bbf89",
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+          "published_at": "2026-08-26T10:00:00Z",
+          "fetched_at": "2026-08-27T04:25:50.153774Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
