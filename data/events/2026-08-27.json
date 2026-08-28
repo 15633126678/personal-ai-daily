@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "11558d9206ae",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "9df7ca430bcdbb8d",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+          "published_at": "2026-08-27T03:00:00Z",
+          "fetched_at": "2026-08-28T06:49:23.157608Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "0773638c8196",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d97b437e78c634e4",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+          "published_at": "2026-08-27T09:00:00Z",
+          "fetched_at": "2026-08-28T06:49:23.157608Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
