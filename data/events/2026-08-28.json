@@ -1,0 +1,278 @@
+{
+  "events": [
+    {
+      "id": "97be8ebfbf89",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "90a610e48d460b39",
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "summary": "",
+          "published_at": "2026-08-28T00:00:00Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "0800406a6118c6ee",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+          "published_at": "2026-08-28T06:00:00Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "afbf12ab5a2b",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "53517f118e7a0b48",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+          "published_at": "2026-08-28T02:00:00Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "770e8415cd51",
+      "title": "3 new ways to plan and book travel in Search",
+      "summary": "Graphic depicting new travel features for AI Mode in Search",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "7e74f80064320d6e",
+          "title": "3 new ways to plan and book travel in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
+          "summary": "Graphic depicting new travel features for AI Mode in Search",
+          "published_at": "2026-08-27T16:00:00Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3e871db8522a",
+      "title": "U.S. sanctions against the A/I Collective",
+      "summary": "Earlier: US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 515 # Comments: 489",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1639f97474ff25e9",
+          "title": "U.S. sanctions against the A/I Collective",
+          "url": "https://www.inventati.org",
+          "summary": "Earlier: US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 515 # Comments: 489",
+          "published_at": "2026-08-28T12:58:53Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "2e07a0c55d5222e6",
+          "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+          "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung",
+          "summary": "Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 112 # Comments: 73",
+          "published_at": "2026-08-28T14:30:33Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "a6da8d901c5e7851",
+          "title": "Just the rumour of a bug is enough to find an exploit these days",
+          "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+          "summary": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 276 # Comments: 98",
+          "published_at": "2026-08-28T15:58:46Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7d878a2c8e63",
+      "title": "Htmx 4.0",
+      "summary": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 563 # Comments: 138",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1f32dd338106797b",
+          "title": "Htmx 4.0",
+          "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+          "summary": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 563 # Comments: 138",
+          "published_at": "2026-08-28T13:28:56Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "5418cb730b6d",
+      "title": "GUIs should be fully keyboard-driven",
+      "summary": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 664 # Comments: 324",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a597277d600af142",
+          "title": "GUIs should be fully keyboard-driven",
+          "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+          "summary": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 664 # Comments: 324",
+          "published_at": "2026-08-28T15:17:09Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f64885577714",
+      "title": "GLM-5.3 is now open-weight",
+      "summary": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 617 # Comments: 217",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ca70a7eb1bd7d697",
+          "title": "GLM-5.3 is now open-weight",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 617 # Comments: 217",
+          "published_at": "2026-08-28T15:20:13Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f228fa7bb3d4",
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "summary": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 112 # Comments: 48",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "603aea2013e338f6",
+          "title": "EasyEffects can improve laptop speaker sound quality",
+          "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality",
+          "summary": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 112 # Comments: 48",
+          "published_at": "2026-08-28T15:23:10Z",
+          "fetched_at": "2026-08-29T04:04:20.720855Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
