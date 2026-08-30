@@ -1,0 +1,181 @@
+{
+  "events": [
+    {
+      "id": "762e2473daf1",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "summary": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 379 # Comments: 103",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fa37435bcd1b6dc3",
+          "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "summary": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 379 # Comments: 103",
+          "published_at": "2026-08-28T23:02:21Z",
+          "fetched_at": "2026-08-30T01:09:59.392067Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "7424af40d29f",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 205 # Comments: 58",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3ae0694450208fd0",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 205 # Comments: 58",
+          "published_at": "2026-08-29T01:24:13Z",
+          "fetched_at": "2026-08-30T01:09:59.392067Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "9ffab76c4925",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 244 # Comments: 92",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6b4b67734efdce58",
+          "title": "Samsung's Processing-in-Memory (PIM)",
+          "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+          "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 244 # Comments: 92",
+          "published_at": "2026-08-29T06:06:51Z",
+          "fetched_at": "2026-08-30T01:09:59.392067Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "67223243d6e1",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 66 # Comments: 42",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "69ec7886d71e4b38",
+          "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+          "url": "https://uecker.codeberg.page/2026-08-29.html",
+          "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 66 # Comments: 42",
+          "published_at": "2026-08-29T14:20:33Z",
+          "fetched_at": "2026-08-30T01:09:59.392067Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "78c8f983a634",
+      "title": "Quantifying Colour",
+      "summary": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 65 # Comments: 7",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e9b0dcc5ab8f504b",
+          "title": "Quantifying Colour",
+          "url": "https://ekunazanu.foo/lab/quantifying-colour",
+          "summary": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 65 # Comments: 7",
+          "published_at": "2026-08-29T15:43:53Z",
+          "fetched_at": "2026-08-30T01:09:59.392067Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4b0ef1ea8522",
+      "title": "Nancy Grace Roman Space Telescope",
+      "summary": "https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 115 # Comments: 56",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1fce4d2f5c9eda86",
+          "title": "Nancy Grace Roman Space Telescope",
+          "url": "https://science.nasa.gov/mission/roman-space-telescope",
+          "summary": "https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 115 # Comments: 56",
+          "published_at": "2026-08-29T15:48:02Z",
+          "fetched_at": "2026-08-30T01:09:59.392067Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
