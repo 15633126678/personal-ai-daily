@@ -1,0 +1,294 @@
+{
+  "events": [
+    {
+      "id": "bf0f1ec29e5d",
+      "title": "Creepy Crawlies",
+      "summary": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies Comments URL: https://news.ycombinator.com/item?id=49491791 Points: 910 # Comments: 420",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f2af8548664405d1",
+          "title": "Creepy Crawlies",
+          "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+          "summary": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies Comments URL: https://news.ycombinator.com/item?id=49491791 Points: 910 # Comments: 420",
+          "published_at": "2026-08-29T17:49:01Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "491b67ed0ddf",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "summary": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 190 # Comments: 56",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bb0cebbb8379ddef",
+          "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+          "url": "https://arxiv.org/abs/1804.07389",
+          "summary": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 190 # Comments: 56",
+          "published_at": "2026-08-30T08:23:26Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "419a30e8c6d6",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "summary": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 204 # Comments: 83",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "635cc597f6ea5c3a",
+          "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+          "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118",
+          "summary": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 204 # Comments: 83",
+          "published_at": "2026-08-30T08:51:39Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3030197bfbc7",
+      "title": "Hacking IKEA Furniture",
+      "summary": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 263 # Comments: 177",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "056c767375706a80",
+          "title": "Hacking IKEA Furniture",
+          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture",
+          "summary": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 263 # Comments: 177",
+          "published_at": "2026-08-30T11:39:43Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7c76e792922f",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "summary": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement Comments URL: https://news.ycombinator.com/item?id=49499394 Points: 351 # Comments: 147",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b869e9577a2859d1",
+          "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+          "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+          "summary": "Article URL: https://www.muppetlabs.com/~breadbox/software/windows.html Comments URL: https://news.ycombinator.com/item?id=49497819 Points: 49 # Comments: 12",
+          "published_at": "2026-08-30T11:41:40Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "f37660965ef22c9d",
+          "title": "Zig: Pointer Stability for ArrayLists",
+          "url": "https://ziglang.org/devlog/2026",
+          "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27 Comments URL: https://news.ycombinator.com/item?id=49499095 Points: 83 # Comments: 53",
+          "published_at": "2026-08-30T14:41:53Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "cb3219d4f3f0d6f3",
+          "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+          "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+          "summary": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement Comments URL: https://news.ycombinator.com/item?id=49499394 Points: 351 # Comments: 147",
+          "published_at": "2026-08-30T15:12:40Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c43b3173f6c3",
+      "title": "Automating Immersive Reading",
+      "summary": "Article URL: https://smoores.dev/post/automating_immersive_reading/ Comments URL: https://news.ycombinator.com/item?id=49497854 Points: 90 # Comments: 36",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "659d2093b7ad1f0e",
+          "title": "Automating Immersive Reading",
+          "url": "https://smoores.dev/post/automating_immersive_reading",
+          "summary": "Article URL: https://smoores.dev/post/automating_immersive_reading/ Comments URL: https://news.ycombinator.com/item?id=49497854 Points: 90 # Comments: 36",
+          "published_at": "2026-08-30T11:46:23Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "541001f183cd",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "summary": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/ Comments URL: https://news.ycombinator.com/item?id=49498978 Points: 256 # Comments: 304",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3089f785896159a4",
+          "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+          "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish",
+          "summary": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/ Comments URL: https://news.ycombinator.com/item?id=49498978 Points: 256 # Comments: 304",
+          "published_at": "2026-08-30T14:29:25Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e2f901ebf298",
+      "title": "Startup Anti-Patterns",
+      "summary": "Article URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/ Comments URL: https://news.ycombinator.com/item?id=49499831 Points: 74 # Comments: 32",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7688a64bb1cbfcd2",
+          "title": "Startup Anti-Patterns",
+          "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series",
+          "summary": "Article URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/ Comments URL: https://news.ycombinator.com/item?id=49499831 Points: 74 # Comments: 32",
+          "published_at": "2026-08-30T15:57:30Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "75eb87a9c323",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "summary": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 396 # Comments: 400",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "24c4c6fdd0ca792f",
+          "title": "Omarchy: Any User Process Can Escalate to Root",
+          "url": "https://0xcc.io/posts/omarchy-root-creds",
+          "summary": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 396 # Comments: 400",
+          "published_at": "2026-08-30T15:59:49Z",
+          "fetched_at": "2026-08-31T01:14:11.403544Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
