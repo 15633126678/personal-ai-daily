@@ -1,0 +1,246 @@
+{
+  "events": [
+    {
+      "id": "3b3c668e79b1",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "418f93c8c5130e76",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "url": "https://openai.com/index/polimill",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+          "published_at": "2026-08-31T07:00:00Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "576d3e0be4bc",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "94e957d0fd96c70c",
+          "title": "A milestone in expanding access to AI",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+          "published_at": "2026-08-31T04:00:00Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "dc6bd180778d",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "summary": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https://github.com/Hebbian-Robotics/hflow ), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together. Here’s a demo of HFlow in action: https://www.youtube.com/watch?v=xni0GwV-xAw Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data. Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models. An HFlow pipeline consists of transformations, checks, labels, and enri",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7d5ee0d53009adeb",
+          "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+          "url": "https://github.com/Hebbian-Robotics/hflow",
+          "summary": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https://github.com/Hebbian-Robotics/hflow ), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together. Here’s a demo of HFlow in action: https://www.youtube.com/watch?v=xni0GwV-xAw Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data. Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models. An HFlow pipeline consists of transformations, checks, labels, and enri",
+          "published_at": "2026-08-31T15:02:41Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "4aed1db9f0c271ab",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "url": "https://usealmanac.com",
+          "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company. We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to. This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, then feeding it context myself, and ultimately struggling with Hermes's default memory. At the same time, we saw our YC batchmates struggling with the same problem, and we saw an opportunity. So we built Almanac. This is how it works. You sign up, you get a Hermes agent straight out of the box. You have a one-click connect to any account (Gmail, Calendar, Granola, PostHog, etc). You have personal accounts (only accessible by you) and also shared accounts (accessible by everyone in the company). The consequence being I can never see my cofounders' accounts. The “brain” of this agent is wikis. We pull in information from your connected sources, and start organizing this information in two wikis. A personal one, for you, which understands who you are, what your preferences are, the people in your life, and the things going on in your life. The second wiki is a company wiki, which includes what the company is, what you’re working on, what the roadmap is, and what the blockers of the company are. Your",
+          "published_at": "2026-08-31T15:34:34Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 2.4,
+      "total_score": 6.15,
+      "personal_reason": "涉及关注实体：Meta, GitHub",
+      "inference": null
+    },
+    {
+      "id": "3337c9751820",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 291 # Comments: 341",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4fdc2f3d044db6a6",
+          "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+          "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+          "summary": "https://archive.is/zUA3D Comments URL: https://news.ycombinator.com/item?id=49500504 Points: 66 # Comments: 70",
+          "published_at": "2026-08-30T17:05:32Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "7d65028feed3e76c",
+          "title": "Internet centralization and the original sin of NAT",
+          "url": "https://dreamstation.systems/personal/ntppost.html",
+          "summary": "Article URL: https://dreamstation.systems/personal/ntppost.html Comments URL: https://news.ycombinator.com/item?id=49504905 Points: 177 # Comments: 139",
+          "published_at": "2026-08-31T02:23:03Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "8f21beded0875ce1",
+          "title": "I think the military commissary's freezers were hacked",
+          "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+          "summary": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 244 # Comments: 149",
+          "published_at": "2026-08-31T11:45:48Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "5edaf23de1c6b363",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+          "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 291 # Comments: 341",
+          "published_at": "2026-08-31T12:41:22Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "7088a69a40afc986",
+          "title": "ChatGPT Work Tool and Skill Reference",
+          "url": "https://codex-tool-reference.simonw.chatgpt.site",
+          "summary": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49510000 Points: 183 # Comments: 51",
+          "published_at": "2026-08-31T14:07:15Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "2434f31fd231",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 203 # Comments: 23",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fec5b98ae5733182",
+          "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+          "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+          "summary": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 203 # Comments: 23",
+          "published_at": "2026-08-30T22:37:01Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0c112b42706d",
+      "title": "Playa Phone",
+      "summary": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 495 # Comments: 182",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ea1ec602c0d72257",
+          "title": "Playa Phone",
+          "url": "https://playaphone.com",
+          "summary": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 495 # Comments: 182",
+          "published_at": "2026-08-31T14:52:26Z",
+          "fetched_at": "2026-09-01T01:43:59.455088Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
