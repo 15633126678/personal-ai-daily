@@ -1,0 +1,385 @@
+{
+  "events": [
+    {
+      "id": "5cbcfc38b85b",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "4e3ff960e422a624",
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "summary": "",
+          "published_at": "2026-09-03T00:00:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "25fd94d0c188e424",
+          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "summary": "",
+          "published_at": "2026-09-03T00:00:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "2b53cd0773d861e2",
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "summary": "",
+          "published_at": "2026-09-03T13:13:48Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "ea433d1b708893c2",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "published_at": "2026-09-03T13:15:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "aed35a8a6fb1",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "7d7c06a109c8d85a",
+          "title": "Safety overview: GPT-6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "published_at": "2026-09-03T00:00:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "2a5c058481f32b15",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "published_at": "2026-09-03T12:00:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "426e2db1cee5e13f",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "published_at": "2026-09-03T12:00:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0597742882e5",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "Give Your Coding Agents a Memory You Own",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a5059c1bf0edd101",
+          "title": "Give Your Coding Agents a Memory You Own",
+          "url": "https://huggingface.co/blog/funes",
+          "summary": "",
+          "published_at": "2026-09-03T00:00:00Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "22ee6cc08582",
+      "title": "Audacity 4.0",
+      "summary": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0 Comments URL: https://news.ycombinator.com/item?id=49548395 Points: 1041 # Comments: 233",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "60972860f7c9ad76",
+          "title": "Audacity 4.0",
+          "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+          "summary": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0 Comments URL: https://news.ycombinator.com/item?id=49548395 Points: 1041 # Comments: 233",
+          "published_at": "2026-09-03T10:53:08Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "a539ead59739",
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 272 # Comments: 187",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9a5dab91b60e58b5",
+          "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+          "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+          "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 272 # Comments: 187",
+          "published_at": "2026-09-03T11:01:04Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "fb48c6b5abfb",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and shipping it took a few more weekends and evenings. I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation. \"Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.\" Please post any questions. I am also releasing the original game for free. Comments URL: https://news.ycombinator.com/item?id=49550375 Points: 185 # Comments: 57",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9b09f6dfd2fde208",
+          "title": "GPS glitched across the US by as much as 33 feet",
+          "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+          "summary": "Article URL: https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before Comments URL: https://news.ycombinator.com/item?id=49544618 Points: 108 # Comments: 52",
+          "published_at": "2026-09-03T00:49:07Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "1f42ef62b5bc3229",
+          "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+          "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and shipping it took a few more weekends and evenings. I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation. \"Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.\" Please post any questions. I am also releasing the original game for free. Comments URL: https://news.ycombinator.com/item?id=49550375 Points: 185 # Comments: 57",
+          "published_at": "2026-09-03T14:28:18Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "972c1353fd653758",
+          "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+          "url": "https://news.ycombinator.com/item?id=49550479",
+          "summary": "Hi everyone, Wanted to share a game I built. It's called Unscramble! and I believe it's the simplest word building game. Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap again to deselect. Faster you go, better you score. If you enter anagrams of the word it's looking for, it gives you extra points. If you are stuck, you can either \"Ask Friend\" or get Hint. You get extra points for getting the word fast but you don't get penalized for taking too long. I believe the simplicity of the game along with big touch buttons makes it perfect for one handed use. There's 6 difficulty levels in the game, and settings for things like toggling the timer, relaxing background music, sound effects, haptic feedback, removing the background animation. If you want to try: https://apps.apple.com/ca/app/unscramble-word-anagram-relax/... Would love to hear feedback to improve it. Comments URL: https://news.ycombinator.com/item?id=49550479 Points: 6 # Comments: 0",
+          "published_at": "2026-09-03T14:37:21Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "2e208458944767fc",
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "url": "https://anyhumanever.com",
+          "summary": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 457 # Comments: 229",
+          "published_at": "2026-09-03T14:51:10Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "31ec0611af63ab43",
+          "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+          "url": "https://news.ycombinator.com/item?id=49551096",
+          "summary": "https://status.openai.com https://status.claude.com https://status.x.ai ChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 comments) Claude outage – Resolved - https://news.ycombinator.com/item?id=49549676 (146 comments) Grok outage - https://news.ycombinator.com/item?id=49551589 (142 comments) Comments URL: https://news.ycombinator.com/item?id=49551096 Points: 325 # Comments: 520",
+          "published_at": "2026-09-03T15:07:01Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c8aaa416d687",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 183 # Comments: 53",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f7f83c65384a3987",
+          "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+          "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+          "summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 183 # Comments: 53",
+          "published_at": "2026-09-03T01:11:22Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "796783496e0f",
+      "title": ".name Termination",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 1304 # Comments: 369",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9998246838374419",
+          "title": ".name Termination",
+          "url": "https://neil.fraser.name/news/2026/09/03",
+          "summary": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 1304 # Comments: 369",
+          "published_at": "2026-09-03T14:54:39Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6696e6ae3fea",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "summary": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 246 # Comments: 82",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9b89ede643010e2a",
+          "title": "K2 Horizon: A connected fleet of six open models",
+          "url": "https://ifm.ai/blog/k2",
+          "summary": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 246 # Comments: 82",
+          "published_at": "2026-09-03T15:36:43Z",
+          "fetched_at": "2026-09-04T00:52:08.025161Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
