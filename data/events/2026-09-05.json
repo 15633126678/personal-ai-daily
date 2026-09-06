@@ -1,0 +1,252 @@
+{
+  "events": [
+    {
+      "id": "e53cab085428",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "summary": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 126 # Comments: 14",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6bb09cb9424bc23e",
+          "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+          "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory",
+          "summary": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 126 # Comments: 14",
+          "published_at": "2026-09-05T13:31:05Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "0c9f451f4b6c",
+      "title": "Can AI design circuit boards yet?",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 376 # Comments: 206",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d6f41107735f9124",
+          "title": "Can AI design circuit boards yet?",
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+          "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 376 # Comments: 206",
+          "published_at": "2026-09-04T19:48:29Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1b8cfb31e5af",
+      "title": "Statichost.eu – European static site hosting",
+      "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 441 # Comments: 201",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2929e83a952dc0e8",
+          "title": "Statichost.eu – European static site hosting",
+          "url": "https://www.statichost.eu",
+          "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 441 # Comments: 201",
+          "published_at": "2026-09-04T20:34:49Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1494f0950744",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 741 # Comments: 438",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ac1db6413acc657c",
+          "title": "Actively exploited sandbox RCE in all Chromium versions",
+          "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+          "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 741 # Comments: 438",
+          "published_at": "2026-09-04T21:52:01Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0b9be1b5d25e",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 271 # Comments: 84",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d8029c480b33c116",
+          "title": "Nitter has more working instances than before the takedowns",
+          "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+          "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 617 # Comments: 294",
+          "published_at": "2026-09-05T00:04:16Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "6f63d759e687ff6f",
+          "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+          "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250",
+          "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 271 # Comments: 84",
+          "published_at": "2026-09-05T13:36:38Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "52d18b16f230",
+      "title": "Terpstra Keyboard",
+      "summary": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 112 # Comments: 53",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "24b46b3000434491",
+          "title": "Terpstra Keyboard",
+          "url": "http://terpstrakeyboard.com",
+          "summary": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 112 # Comments: 53",
+          "published_at": "2026-09-05T10:33:01Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "434a340f1f76",
+      "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+      "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 74 # Comments: 9",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0024cfb0ab99d67b",
+          "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+          "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime",
+          "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 74 # Comments: 9",
+          "published_at": "2026-09-05T12:23:51Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b3f788e0511b",
+      "title": ".gitignore Everything by Default",
+      "summary": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 153 # Comments: 155",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "dfc0f4c08271504d",
+          "title": ".gitignore Everything by Default",
+          "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+          "summary": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 153 # Comments: 155",
+          "published_at": "2026-09-05T13:19:42Z",
+          "fetched_at": "2026-09-06T00:44:15.522392Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
