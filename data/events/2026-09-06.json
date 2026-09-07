@@ -1,0 +1,239 @@
+{
+  "events": [
+    {
+      "id": "3a9c7a999999",
+      "title": "An Alien Mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "57983ca02e217a1d",
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "published_at": "2026-09-06T09:00:00Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4c2daf27d4e5",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 103 # Comments: 73",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9906fb483199361c",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "summary": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 103 # Comments: 73",
+          "published_at": "2026-09-06T15:08:44Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "835223e161ee",
+      "title": "Doomscrolling Ourselves to Death",
+      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 359 # Comments: 256",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5804434d2a67efae",
+          "title": "Doomscrolling Ourselves to Death",
+          "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+          "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 359 # Comments: 256",
+          "published_at": "2026-09-06T11:53:40Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "396b17c5341e",
+      "title": "Your intellectual fly is open (2025)",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 503 # Comments: 322",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b010ad825e7236a3",
+          "title": "Your intellectual fly is open (2025)",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+          "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 503 # Comments: 322",
+          "published_at": "2026-09-06T11:56:43Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ac7d161158e1",
+      "title": "Icy Moons Are Ocean Worlds",
+      "summary": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 38 # Comments: 3",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "54fddcc64d380476",
+          "title": "Icy Moons Are Ocean Worlds",
+          "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+          "summary": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 38 # Comments: 3",
+          "published_at": "2026-09-06T13:07:52Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d63f56602642",
+      "title": "Asahi Linux on M3",
+      "summary": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 343 # Comments: 189",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f1cae3e1ce726c35",
+          "title": "Asahi Linux on M3",
+          "url": "https://asahilinux.org/2026/09/m2-episode-1",
+          "summary": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 343 # Comments: 189",
+          "published_at": "2026-09-06T14:08:59Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "09432c175f00",
+      "title": "A/I shuts down – Stay human",
+      "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 508 # Comments: 364",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "afb86cde49ffdff0",
+          "title": "A/I shuts down – Stay human",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 508 # Comments: 364",
+          "published_at": "2026-09-06T14:34:34Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3ad0bb447fd0",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "summary": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 100 # Comments: 4",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "79b6f8d2ac8a0857",
+          "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+          "summary": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 100 # Comments: 4",
+          "published_at": "2026-09-06T15:44:24Z",
+          "fetched_at": "2026-09-07T00:48:00.118350Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
