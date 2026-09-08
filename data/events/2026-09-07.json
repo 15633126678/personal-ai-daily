@@ -1,0 +1,194 @@
+{
+  "events": [
+    {
+      "id": "55f84949df9f",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "48119b25501792fc",
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+          "published_at": "2026-09-07T00:00:00Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "62cd4b3120d5",
+      "title": "bzip3",
+      "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 370 # Comments: 105",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2aa52af3caaf65c4",
+          "title": "bzip3",
+          "url": "https://github.com/iczelia/bzip3",
+          "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 370 # Comments: 105",
+          "published_at": "2026-09-07T13:35:13Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "0cbc18792a7c",
+      "title": "The Dataflow Model Revisited",
+      "summary": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p... Comments URL: https://news.ycombinator.com/item?id=49589190 Points: 81 # Comments: 14",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8843ca31ffd9a46a",
+          "title": "The Dataflow Model Revisited",
+          "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+          "summary": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p... Comments URL: https://news.ycombinator.com/item?id=49589190 Points: 81 # Comments: 14",
+          "published_at": "2026-09-06T18:10:53Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "e8f77c3d6a5b5706",
+          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+          "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+          "summary": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 475 # Comments: 706",
+          "published_at": "2026-09-07T00:22:04Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d8459413d656",
+      "title": "Keep Our Servers Running",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 946 # Comments: 244",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8532676c9d5a092e",
+          "title": "Keep Our Servers Running",
+          "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september",
+          "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 946 # Comments: 244",
+          "published_at": "2026-09-07T03:29:51Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7e3ba9304c4f",
+      "title": "Live map of public transport in Belgium",
+      "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 185 # Comments: 77",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a084679be9309c2c",
+          "title": "Live map of public transport in Belgium",
+          "url": "https://openbaarvervoerbelgie.be",
+          "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 185 # Comments: 77",
+          "published_at": "2026-09-07T09:02:47Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "296fa943e5b0",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 220 # Comments: 80",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "31fc8e173699fd1e",
+          "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+          "url": "https://mathathonchallenge.com/index.html",
+          "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 220 # Comments: 80",
+          "published_at": "2026-09-07T09:26:53Z",
+          "fetched_at": "2026-09-08T01:01:40.302972Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
