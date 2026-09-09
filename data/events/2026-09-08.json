@@ -1,0 +1,375 @@
+{
+  "events": [
+    {
+      "id": "db8f35ae3a66",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a1cc47dc7551a2e8",
+          "title": "Funding grants for new research into AI and teen development",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+          "published_at": "2026-09-08T09:00:00Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "2e5536c1e895a5c9",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "summary": "",
+          "published_at": "2026-09-08T14:23:07Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "8f4e56efb7e5",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "2bb7bba5e588bfb3",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+          "published_at": "2026-09-08T00:00:00Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "2754ca25b551",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "868469565bd8cb06",
+          "title": "1Password increases engineering productivity 21% with Codex",
+          "url": "https://openai.com/index/1password",
+          "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+          "published_at": "2026-09-08T00:00:00Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8b5304d57eed",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8262bdc9e55d7bbf",
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+          "published_at": "2026-09-08T10:00:00Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "4ab1d0b8991306b5",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+          "published_at": "2026-09-08T13:00:00Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "43ab8c83b45b",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1b1b913f04a0676a",
+          "title": "Introducing ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+          "published_at": "2026-09-08T11:30:00Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "021eceb8ba19",
+      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+      "summary": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 78 # Comments: 11",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4da03a000108918e",
+          "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 304 # Comments: 241",
+          "published_at": "2026-09-08T14:13:26Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "88ffcb9c9fa0a88e",
+          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "summary": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 78 # Comments: 11",
+          "published_at": "2026-09-08T14:14:15Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "eca23f01d9f17e17",
+          "title": "The two Christian saints who are the Buddha",
+          "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha",
+          "summary": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 215 # Comments: 149",
+          "published_at": "2026-09-08T14:44:25Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "190ed4f63f1a65fe",
+          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas",
+          "summary": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 482 # Comments: 115",
+          "published_at": "2026-09-08T14:55:45Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "23ebad532682",
+      "title": "Show HN: Copperhead – Cursor for circuit boards",
+      "summary": "Article URL: https://copperhead.sh/ Comments URL: https://news.ycombinator.com/item?id=49610059 Points: 204 # Comments: 78",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3840748aea6b5980",
+          "title": "Show HN: Copperhead – Cursor for circuit boards",
+          "url": "https://copperhead.sh",
+          "summary": "Article URL: https://copperhead.sh/ Comments URL: https://news.ycombinator.com/item?id=49610059 Points: 204 # Comments: 78",
+          "published_at": "2026-09-08T13:26:45Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "2456f6719c90",
+      "title": "DaVinci Resolve 21.1",
+      "summary": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 345 # Comments: 154",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "426b988f7921ff28",
+          "title": "DaVinci Resolve 21.1",
+          "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+          "summary": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 345 # Comments: 154",
+          "published_at": "2026-09-08T13:36:53Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "5a2a78f31dda",
+      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 92 # Comments: 27",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c99696f05331d193",
+          "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+          "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked",
+          "summary": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 207 # Comments: 104",
+          "published_at": "2026-09-08T14:49:19Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "06aacaef4e5558aa",
+          "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+          "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound",
+          "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 92 # Comments: 27",
+          "published_at": "2026-09-08T14:54:29Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9e7291dcc517",
+      "title": "C*: Unifying Programming and Verification in C (2025)",
+      "summary": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 69 # Comments: 41",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bb3ebada31248793",
+          "title": "C*: Unifying Programming and Verification in C (2025)",
+          "url": "https://arxiv.org/abs/2504.02246",
+          "summary": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 69 # Comments: 41",
+          "published_at": "2026-09-08T15:56:56Z",
+          "fetched_at": "2026-09-09T01:06:58.421950Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
