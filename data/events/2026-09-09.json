@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "id": "afa0f32a9d1b",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "3436bbf0a4d0cef3",
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+          "published_at": "2026-09-08T17:00:00Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ebe72c7eefb6",
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "53a53e349a7f0c0b",
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "published_at": "2026-09-09T11:00:00Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "88b17f98436461ef",
+          "title": "The AI policy window is open. We need to act.",
+          "url": "https://openai.com/index/ai-policy-window",
+          "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+          "published_at": "2026-09-09T13:00:00Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a831a4f0e0e5",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "5a81ea7a670174e5",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "summary": "",
+          "published_at": "2026-09-09T15:36:24Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "50f6c5995d0c",
+      "title": "How I advertise malicious software on Google Ads",
+      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 353 # Comments: 213",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ebafff1fabe04b95",
+          "title": "How I advertise malicious software on Google Ads",
+          "url": "https://xlii.space/eng/malicious-software-on-google-ads",
+          "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 353 # Comments: 213",
+          "published_at": "2026-09-09T11:43:21Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "389ea327c2fd",
+      "title": "What will our economic future look like?",
+      "summary": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 168 # Comments: 320",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9f4ab1371fd4605d",
+          "title": "What will our economic future look like?",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "summary": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 168 # Comments: 320",
+          "published_at": "2026-09-09T13:38:23Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Anthropic",
+      "inference": null
+    },
+    {
+      "id": "efe234770e8b",
+      "title": "Planet Labs' open satellite feed",
+      "summary": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 141 # Comments: 26",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "13dbf5bc062abd30",
+          "title": "Desert Ant Labs: local, fast models that run on device",
+          "url": "https://desertant.com/blog/introducing-desert-ant-labs",
+          "summary": "Article URL: https://desertant.com/blog/introducing-desert-ant-labs/ Comments URL: https://news.ycombinator.com/item?id=49624823 Points: 382 # Comments: 91",
+          "published_at": "2026-09-09T11:39:46Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "9e0d5870dfce3faa",
+          "title": "Planet Labs' open satellite feed",
+          "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+          "summary": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 141 # Comments: 26",
+          "published_at": "2026-09-09T15:44:09Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "68d716977cc3",
+      "title": "Shopify acquires Tailwind",
+      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 873 # Comments: 348",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "62a105990a8e8db6",
+          "title": "Shopify acquires Tailwind",
+          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 873 # Comments: 348",
+          "published_at": "2026-09-09T13:27:11Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f198a9a2e576",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 334 # Comments: 117",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fde62fb0e77f6c55",
+          "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+          "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 334 # Comments: 117",
+          "published_at": "2026-09-09T14:37:47Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ed89be2ecc4d",
+      "title": "No Man's Sky Cosmos",
+      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 284 # Comments: 304",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "54db092f3809fb3e",
+          "title": "No Man's Sky Cosmos",
+          "url": "https://www.nomanssky.com/cosmos-update",
+          "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 284 # Comments: 304",
+          "published_at": "2026-09-09T15:47:42Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8a5a7f8dd184",
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 151 # Comments: 49",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5e0c3f3c01e6c7d0",
+          "title": "GNU Radio in the browser",
+          "url": "https://gnuradioworld.com",
+          "summary": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 165 # Comments: 23",
+          "published_at": "2026-09-09T15:53:06Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "54ab8cd51b2737a6",
+          "title": "Understanding the recent DDoS attack against Read the Docs",
+          "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack",
+          "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 151 # Comments: 49",
+          "published_at": "2026-09-09T15:55:53Z",
+          "fetched_at": "2026-09-10T00:55:35.399878Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
