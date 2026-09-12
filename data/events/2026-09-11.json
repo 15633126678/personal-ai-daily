@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "e47c292a0045",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "59512e659fb53299",
+          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+          "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+          "published_at": "2026-09-10T16:00:00Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "a01597e889989638",
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+          "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+          "published_at": "2026-09-10T16:00:00Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "d2cbcf1f3b3e3884",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+          "published_at": "2026-09-11T10:00:00Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "c8c7c14fa7ad",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 311 # Comments: 292",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4da3a66825958f51",
+          "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+          "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+          "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 311 # Comments: 292",
+          "published_at": "2026-09-11T00:42:41Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "386d77d6c122",
+      "title": "Claude is only available to people over 18 years",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 565 # Comments: 595",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2ed39673391fde83",
+          "title": "Claude is only available to people over 18 years",
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 565 # Comments: 595",
+          "published_at": "2026-09-11T10:48:00Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "478cea8e965f",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 145 # Comments: 72",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a087973718ee56b2",
+          "title": "RTK reports token savings, but our cost benchmarks disagree",
+          "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper",
+          "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 145 # Comments: 72",
+          "published_at": "2026-09-11T11:15:13Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "74608133ae2c",
+      "title": "Rune is now open source",
+      "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 140 # Comments: 54",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "05d95e1d623cb7e8",
+          "title": "Rune is now open source",
+          "url": "https://rune.build/blog/rune-is-now-open-source",
+          "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 140 # Comments: 54",
+          "published_at": "2026-09-11T15:31:47Z",
+          "fetched_at": "2026-09-12T00:58:05.775463Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
