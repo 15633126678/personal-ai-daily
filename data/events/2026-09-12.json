@@ -1,0 +1,275 @@
+{
+  "events": [
+    {
+      "id": "4034ca04dc46",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "01c958b6dd34912e",
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "published_at": "2026-09-11T16:00:00Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "06efed57684e",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 220 # Comments: 31",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "14851ae0943025e5",
+          "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+          "url": "https://eiln.github.io/posts/ane.html",
+          "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 220 # Comments: 31",
+          "published_at": "2026-09-12T07:54:03Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "492b2021919e",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html Comments URL: https://news.ycombinator.com/item?id=49672365 Points: 79 # Comments: 17",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e5c13a41b015983e",
+          "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+          "url": "https://snap.berkeley.edu",
+          "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 176 # Comments: 111",
+          "published_at": "2026-09-11T17:36:11Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "e125727d1875f52d",
+          "title": "A Mathematical Framework for Transformer Circuits (2021)",
+          "url": "https://transformer-circuits.pub/2021/framework/index.html",
+          "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html Comments URL: https://news.ycombinator.com/item?id=49672365 Points: 79 # Comments: 17",
+          "published_at": "2026-09-12T13:56:58Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ab52064b2590",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a... Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 171 # Comments: 44",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ae4f0ced20b51c9a",
+          "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+          "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+          "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a... Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 171 # Comments: 44",
+          "published_at": "2026-09-11T21:16:48Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3c996dfc3147",
+      "title": "Navier-Stokes Announcement",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 317 # Comments: 253",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "091e18fc6062cd41",
+          "title": "Navier-Stokes Announcement",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 317 # Comments: 253",
+          "published_at": "2026-09-12T04:09:43Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d02923879fd6",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/ Comments URL: https://news.ycombinator.com/item?id=49671237 Points: 50 # Comments: 29",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2f45139cedfaea27",
+          "title": "The worst spam emails: iLands AI agent hustle",
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 101 # Comments: 49",
+          "published_at": "2026-09-12T11:13:38Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "3b3cd459dc33e644",
+          "title": "How Trail of Bits helps verify the integrity of Signal chats",
+          "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats",
+          "summary": "Article URL: https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/ Comments URL: https://news.ycombinator.com/item?id=49671237 Points: 50 # Comments: 29",
+          "published_at": "2026-09-12T11:27:55Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "216c6eb13adff003",
+          "title": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 523 # Comments: 727",
+          "published_at": "2026-09-12T14:10:49Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "13074953cffe77b9",
+          "title": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 375 # Comments: 259",
+          "published_at": "2026-09-12T15:08:27Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ddf7adce8b70b9cd",
+          "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+          "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+          "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 86 # Comments: 24",
+          "published_at": "2026-09-12T15:49:52Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "dcd221476ded",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "summary": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 89 # Comments: 17",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b43c6a4cb0d5018d",
+          "title": "I made a build visualizer to understand Bun's compile times",
+          "url": "https://lalitm.com/post/buildprof",
+          "summary": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 89 # Comments: 17",
+          "published_at": "2026-09-12T14:45:28Z",
+          "fetched_at": "2026-09-13T00:42:33.895796Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
