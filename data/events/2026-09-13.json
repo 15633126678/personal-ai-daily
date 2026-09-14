@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "6c3a7e4be613",
+      "title": "CUDA for AMD on Windows",
+      "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 134 # Comments: 67",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "cac4457f6a13d01e",
+          "title": "CUDA for AMD on Windows",
+          "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+          "summary": "Article URL: https://github.com/Speedstu/CUDA-for-AMD-Windows Comments URL: https://news.ycombinator.com/item?id=49684356 Points: 134 # Comments: 67",
+          "published_at": "2026-09-13T14:25:13Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "20aa4107d545",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 364 # Comments: 173",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5a3795e75a115493",
+          "title": "Data collected by cars and sold to third parties",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "summary": "https://web.archive.org/web/20260913134705/https://www.theve... https://archive.ph/TWEVZ Comments URL: https://news.ycombinator.com/item?id=49683953 Points: 280 # Comments: 149",
+          "published_at": "2026-09-13T13:45:08Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "a49dc1cc1e0e6ec8",
+          "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+          "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+          "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 364 # Comments: 173",
+          "published_at": "2026-09-13T14:28:36Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "da5f114bad23d7d1",
+          "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+          "url": "https://cpak.it",
+          "summary": "Article URL: https://cpak.it/ Comments URL: https://news.ycombinator.com/item?id=49684778 Points: 47 # Comments: 18",
+          "published_at": "2026-09-13T15:02:56Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6648e4a7fef0",
+      "title": "Making Startups Powerful",
+      "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 150 # Comments: 68",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "44d8a88c1c8de01d",
+          "title": "Making Startups Powerful",
+          "url": "https://paulgraham.com/powerful.html",
+          "summary": "Article URL: https://paulgraham.com/powerful.html Comments URL: https://news.ycombinator.com/item?id=49684196 Points: 150 # Comments: 68",
+          "published_at": "2026-09-13T14:09:53Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a7db9d40445a",
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 57 # Comments: 33",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fadd26e879a4c252",
+          "title": "Libraries Run Rust Inside Python (With PyO3)",
+          "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python",
+          "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 57 # Comments: 33",
+          "published_at": "2026-09-13T15:24:05Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a0577cfcc44a",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 340 # Comments: 173",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2f4a93df8d900bf6",
+          "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 340 # Comments: 173",
+          "published_at": "2026-09-13T15:44:38Z",
+          "fetched_at": "2026-09-14T00:50:39.250931Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
