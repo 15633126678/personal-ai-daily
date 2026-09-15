@@ -1,0 +1,165 @@
+{
+  "events": [
+    {
+      "id": "7b37f5bf466b",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d73b063768fa6735",
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "published_at": "2026-09-14T12:00:00Z",
+          "fetched_at": "2026-09-15T01:16:57.943014Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "84fcb67bb4e9",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "851e5a80aa13eeda",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "published_at": "2026-09-14T00:00:00Z",
+          "fetched_at": "2026-09-15T01:16:57.943014Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "86979560dbf1",
+      "title": "Principles for Fast Tokio Applications",
+      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 158 # Comments: 41",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ab508a5a5fadeba3",
+          "title": "Principles for Fast Tokio Applications",
+          "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications",
+          "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 158 # Comments: 41",
+          "published_at": "2026-09-14T15:27:56Z",
+          "fetched_at": "2026-09-15T01:16:57.943014Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "66131a755ff14881",
+          "title": "A Beginning for Mathematics",
+          "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics",
+          "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 166 # Comments: 94",
+          "published_at": "2026-09-14T15:33:07Z",
+          "fetched_at": "2026-09-15T01:16:57.943014Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "739b3031f9ec",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 20 # Comments: 4",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "05542bdaf6914ede",
+          "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
+          "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 20 # Comments: 4",
+          "published_at": "2026-09-14T14:29:23Z",
+          "fetched_at": "2026-09-15T01:16:57.943014Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "64fe894fe1b8",
+      "title": "Dario, Please",
+      "summary": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 264 # Comments: 138",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d4e8fde6f53ebf11",
+          "title": "Dario, Please",
+          "url": "https://pop.rdi.sh/dario-please",
+          "summary": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 264 # Comments: 138",
+          "published_at": "2026-09-14T14:50:32Z",
+          "fetched_at": "2026-09-15T01:16:57.943014Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
