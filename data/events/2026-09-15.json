@@ -1,0 +1,175 @@
+{
+  "events": [
+    {
+      "id": "639f01119c6b",
+      "title": "DevFest is back",
+      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "f203c0840e10dc75",
+          "title": "DevFest is back",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+          "published_at": "2026-09-14T16:00:00Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.25,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "056b277c940a",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "480162003d4eae54",
+          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+          "published_at": "2026-09-14T19:00:00Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "a75f24b4dad0f6fe",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+          "published_at": "2026-09-15T13:00:00Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.25,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "1a846f33846c",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "summary": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file. The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed. Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features. One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp. I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files. You can try it ",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c7c0472ad0a73168",
+          "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+          "url": "https://withcapsule.app",
+          "summary": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file. The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed. Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features. One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp. I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files. You can try it ",
+          "published_at": "2026-09-15T13:31:40Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "0085b2808a2623e6",
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "url": "https://github.com/pizza-bot-app/pizza-bot",
+          "summary": "Hi HN - long-time lurker (since 2012!), first time poster. Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source. Pizza Bot started as an internal passion project I worked on with a small team at Amazon. The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved). This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza",
+          "published_at": "2026-09-15T15:20:26Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ee1a1ba31f124cd3",
+          "title": "Cartesian – AI 3D Modeling for Design",
+          "url": "https://www.formas.ai/cartesian",
+          "summary": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 87 # Comments: 74",
+          "published_at": "2026-09-15T15:26:45Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "91bde8da5b4b",
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "summary": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/ Comments URL: https://news.ycombinator.com/item?id=49713262 Points: 125 # Comments: 67",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "51230d379e44000f",
+          "title": "The Inference Hardware Revolution of 2026",
+          "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+          "summary": "Article URL: https://spectrum.ieee.org/inference-hardware-revolution Comments URL: https://news.ycombinator.com/item?id=49713024 Points: 103 # Comments: 9",
+          "published_at": "2026-09-15T14:24:08Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "db6298cf100e6c20",
+          "title": "The CSS Zen Garden dream, finally shipped",
+          "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped",
+          "summary": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/ Comments URL: https://news.ycombinator.com/item?id=49713262 Points: 125 # Comments: 67",
+          "published_at": "2026-09-15T14:40:08Z",
+          "fetched_at": "2026-09-16T01:10:59.757547Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
