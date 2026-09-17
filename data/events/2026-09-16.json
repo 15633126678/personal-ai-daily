@@ -1,0 +1,381 @@
+{
+  "events": [
+    {
+      "id": "8603eb567ba0",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8c2a426559207a9d",
+          "title": "Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "published_at": "2026-09-16T13:00:00Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "2fd1d6a3e895",
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6f1f7c32dec88c34",
+          "title": "How workers are unlocking new ways of working",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "published_at": "2026-09-16T09:00:00Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "ec2f604ddc5e799a",
+          "title": "How to connect AI usage to business value",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "published_at": "2026-09-16T12:00:00Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "61767f45de45",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8c01389f7e16ac3e",
+          "title": "AI for Societal Impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+          "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+          "published_at": "2026-09-15T16:00:00Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "fd9cb5a1885c517a",
+          "title": "AI for everyone in every language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+          "summary": "Animation of several words in different languages slowly zooming past",
+          "published_at": "2026-09-15T16:00:00Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "fc29702331e4",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "afa6e0467a0aad5e",
+          "title": "Building AI to accelerate science and improve lives",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+          "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+          "published_at": "2026-09-15T16:00:00Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "691aff243f6c",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Your Agent Aced the Task. Will It Do It Again?",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "4ef49f59dc192790",
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "summary": "",
+          "published_at": "2026-09-15T16:00:44Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "96ab4b3245ba",
+      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49725541 Points: 0 # Comments: 0",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e3a6c9c48ba290c2",
+          "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+          "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+          "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49725541 Points: 0 # Comments: 0",
+          "published_at": "2026-09-16T12:01:09Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "de485888c5c3",
+      "title": "I replaced my brown-noise browser tab with a menu bar app",
+      "summary": "Article URL: https://oldmanrahul.com/2026/09/14/hush/ Comments URL: https://news.ycombinator.com/item?id=49726501 Points: 19 # Comments: 7",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9bde5e2f06a48f98",
+          "title": "I replaced my brown-noise browser tab with a menu bar app",
+          "url": "https://oldmanrahul.com/2026/09/14/hush",
+          "summary": "Article URL: https://oldmanrahul.com/2026/09/14/hush/ Comments URL: https://news.ycombinator.com/item?id=49726501 Points: 19 # Comments: 7",
+          "published_at": "2026-09-16T13:11:57Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ce21d09023fb",
+      "title": "Hackers Got Inside a Flock Camera",
+      "summary": "https://micahflee.com/flock-cameras-are-riddled-with-securit... Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 460 # Comments: 217",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0a343a7e690599f5",
+          "title": "Hackers Got Inside a Flock Camera",
+          "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works",
+          "summary": "https://micahflee.com/flock-cameras-are-riddled-with-securit... Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 460 # Comments: 217",
+          "published_at": "2026-09-16T13:18:47Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "bfb225e9a0ca",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 180 # Comments: 49",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "54580386071dd652",
+          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+          "url": "https://arxiv.org/abs/2609.14858",
+          "summary": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 180 # Comments: 49",
+          "published_at": "2026-09-16T13:44:40Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "fc15ade32d70",
+      "title": "Anatomy of a Texture",
+      "summary": "I just uploaded a new article describing how a modern video game texture is stored in graphics memory, why it's done this way, and how it may differ between platforms. It is called Anatomy of a Texture. Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 73 # Comments: 12",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e81a8454953889a1",
+          "title": "Anatomy of a Texture",
+          "url": "https://agentlien.github.io/texture",
+          "summary": "I just uploaded a new article describing how a modern video game texture is stored in graphics memory, why it's done this way, and how it may differ between platforms. It is called Anatomy of a Texture. Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 73 # Comments: 12",
+          "published_at": "2026-09-16T14:28:28Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "733f204a3b90",
+      "title": "The DeepMind Institute",
+      "summary": "Article URL: https://institute.deepmind.com/ Comments URL: https://news.ycombinator.com/item?id=49727659 Points: 140 # Comments: 43",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bf69c3f9d8f36eca",
+          "title": "The DeepMind Institute",
+          "url": "https://institute.deepmind.com",
+          "summary": "Article URL: https://institute.deepmind.com/ Comments URL: https://news.ycombinator.com/item?id=49727659 Points: 140 # Comments: 43",
+          "published_at": "2026-09-16T14:32:11Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d5c20ee42914",
+      "title": "Small programming tricks",
+      "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 388 # Comments: 181",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "887aa0d7696c1e51",
+          "title": "Small programming tricks",
+          "url": "https://will-keleher.com/posts/small-programming-tricks-matter",
+          "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 388 # Comments: 181",
+          "published_at": "2026-09-16T15:56:47Z",
+          "fetched_at": "2026-09-17T01:12:31.677750Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
