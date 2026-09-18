@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "id": "6b20deb319a4",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a8a40dafc20d6b2f",
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "published_at": "2026-09-16T16:00:00Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "1e26765715f1",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "827a0c403a3c663f",
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "published_at": "2026-09-16T17:00:00Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "9f8ab16e3d87d968",
+          "title": "Introducing Astra for Law",
+          "url": "https://openai.com/index/astra-for-law",
+          "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+          "published_at": "2026-09-17T00:00:00Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "b505dd164a05",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "9568b057a58f6efb",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "url": "https://openai.com/index/cooley-gopublic",
+          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+          "published_at": "2026-09-17T12:00:00Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "937c4af46b2c",
+      "title": "How GLM built its own inference infrastructure",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 375 # Comments: 262",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2ad5f45b6c6933a0",
+          "title": "How GLM built its own inference infrastructure",
+          "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+          "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 375 # Comments: 262",
+          "published_at": "2026-09-17T08:27:09Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c7ea8f02aab9",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "summary": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 200 # Comments: 289",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2d73aaac668c7cab",
+          "title": "Why I didn’t sign the Fields medallists’ letter",
+          "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter",
+          "summary": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 200 # Comments: 289",
+          "published_at": "2026-09-17T08:51:51Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "dc3e56b903207a9f",
+          "title": "The American Religion of Self-Storage Facilities",
+          "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+          "summary": "https://archive.ph/F77tj Comments URL: https://news.ycombinator.com/item?id=49740260 Points: 186 # Comments: 325",
+          "published_at": "2026-09-17T13:12:28Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c5717fae1cc9",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups. Comments URL: https://news.ycombinator.com/item?id=49740105 Points: 178 # Comments: 91",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5ed0b811e804a9ac",
+          "title": "Show HN: Share your AI Setup, Learn from others",
+          "url": "https://mysetup.ai",
+          "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups. Comments URL: https://news.ycombinator.com/item?id=49740105 Points: 178 # Comments: 91",
+          "published_at": "2026-09-17T13:01:44Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7b709bd2a1d7",
+      "title": "Rate limits on GitLab.com are changing",
+      "summary": "Article URL: https://about.gitlab.com/blog/rate-limit-change-2026/ Comments URL: https://news.ycombinator.com/item?id=49742353 Points: 149 # Comments: 106",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0f224815ad6024b6",
+          "title": "Rate limits on GitLab.com are changing",
+          "url": "https://about.gitlab.com/blog/rate-limit-change-2026",
+          "summary": "Article URL: https://about.gitlab.com/blog/rate-limit-change-2026/ Comments URL: https://news.ycombinator.com/item?id=49742353 Points: 149 # Comments: 106",
+          "published_at": "2026-09-17T15:33:54Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "69a554c433c8",
+      "title": "CrowdSec Source Code Leak",
+      "summary": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 127 # Comments: 35",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0fe3d04052245866",
+          "title": "CrowdSec Source Code Leak",
+          "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+          "summary": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 127 # Comments: 35",
+          "published_at": "2026-09-17T15:34:01Z",
+          "fetched_at": "2026-09-18T01:08:11.882640Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
