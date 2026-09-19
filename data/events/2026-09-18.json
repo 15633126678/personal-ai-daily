@@ -1,0 +1,365 @@
+{
+  "events": [
+    {
+      "id": "f8be69de62ae",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "9216d00dc64be216",
+          "title": "Co-creating the future of fashion with Google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+          "summary": "Jane Wade and Sergio Hudson",
+          "published_at": "2026-09-18T13:00:00Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "1291efcd16308d82",
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+          "published_at": "2026-09-18T14:00:00Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.25,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "09af510b74ad",
+      "title": "Making global data easier to explore",
+      "summary": "UN System Data Commons Data webpage",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "0336e7999662e71e",
+          "title": "Making global data easier to explore",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "summary": "UN System Data Commons Data webpage",
+          "published_at": "2026-09-17T20:00:00Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "221d26e53f96",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The key features: 1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo). 2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k. 3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost. 4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, al",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2b21b7cd5f037521",
+          "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+          "url": "https://cactuscompute.com/needle",
+          "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The key features: 1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo). 2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k. 3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost. 4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, al",
+          "published_at": "2026-09-18T00:11:44Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：DeepSeek",
+      "inference": null
+    },
+    {
+      "id": "271c6fdda83c",
+      "title": "I vibed a proof of Conway's conjecture",
+      "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 206 # Comments: 181",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4d294c1932d0a0e2",
+          "title": "I vibed a proof of Conway's conjecture",
+          "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture",
+          "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 206 # Comments: 181",
+          "published_at": "2026-09-18T14:36:10Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "4047c0499646",
+      "title": "Minimal Phone 2",
+      "summary": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 174 # Comments: 167",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6e36ba552bfe3bdf",
+          "title": "Minimal Phone 2",
+          "url": "https://minimalcompany.com",
+          "summary": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 174 # Comments: 167",
+          "published_at": "2026-09-18T02:00:25Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "77e2bc1e8de4",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "summary": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 103 # Comments: 53",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "97e1e0cf40a7aa0a",
+          "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+          "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+          "summary": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 99 # Comments: 20",
+          "published_at": "2026-09-18T02:56:48Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "545e5610cb399c77",
+          "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+          "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload",
+          "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 250 # Comments: 89",
+          "published_at": "2026-09-18T06:11:17Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "3f6e45485955ea08",
+          "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+          "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged",
+          "summary": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 103 # Comments: 53",
+          "published_at": "2026-09-18T15:12:07Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "bb6dc2cbd74e",
+      "title": "OpenJev",
+      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 547 # Comments: 244",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3ab2532cbc38b78e",
+          "title": "OpenJev",
+          "url": "https://openjev.com",
+          "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 547 # Comments: 244",
+          "published_at": "2026-09-18T09:42:22Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c37d7ef8c3b4",
+      "title": "Cekura (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us Comments URL: https://news.ycombinator.com/item?id=49753131 Points: 0 # Comments: 0",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e915f13629c9a084",
+          "title": "Cekura (YC F24) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+          "summary": "Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us Comments URL: https://news.ycombinator.com/item?id=49753131 Points: 0 # Comments: 0",
+          "published_at": "2026-09-18T12:00:10Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "99ba0bf057a7",
+      "title": "Cloudflare Quick Tunnels",
+      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 550 # Comments: 240",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2b7d3e1d22752064",
+          "title": "Cloudflare Quick Tunnels",
+          "url": "https://try.cloudflare.com",
+          "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 550 # Comments: 240",
+          "published_at": "2026-09-18T14:18:41Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8507cd3225c3",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "summary": "https://arxiv.org/abs/2510.20765 Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 69 # Comments: 18",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "92a894768a05138d",
+          "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+          "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918",
+          "summary": "https://arxiv.org/abs/2510.20765 Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 69 # Comments: 18",
+          "published_at": "2026-09-18T14:41:02Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8e805dd6ae45",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "summary": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 182 # Comments: 151",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8b17e18142ab0e02",
+          "title": "North Korean nuclear test sets off years of earthquakes",
+          "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+          "summary": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 182 # Comments: 151",
+          "published_at": "2026-09-18T14:45:32Z",
+          "fetched_at": "2026-09-19T01:02:36.008335Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}

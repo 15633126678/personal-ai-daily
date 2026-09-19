@@ -1,0 +1,72 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>每日 AI 简报 · 2026-09-18</title><style>
+:root{--ink:#102a43;--muted:#627d98;--paper:#f5f1e8;--card:#fffdf7;--accent:#d34a24;--line:#d9d2c3}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.75 Georgia,"Noto Serif SC",serif}body:before{content:"";display:block;height:7px;background:var(--accent)}nav{max-width:960px;margin:auto;padding:24px}nav a{color:var(--ink);font-weight:700;text-decoration:none}.hero,main,article{max-width:960px;margin:auto;padding:48px 24px}.hero{padding-top:80px}.eyebrow{font:700 12px/1.2 Arial;letter-spacing:.2em;color:var(--accent)}h1{font-size:clamp(42px,8vw,86px);line-height:1.03;margin:.2em 0}h2{border-top:1px solid var(--line);padding-top:24px;margin-top:48px}h3{margin-top:36px}a{color:#9b351b}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}.card{display:flex;min-height:190px;flex-direction:column;padding:24px;background:var(--card);border:1px solid var(--line);text-decoration:none;color:var(--ink);box-shadow:0 8px 24px #102a4310}.card strong{font-size:24px;line-height:1.25;margin:14px 0;flex:1}.card span,.card small{color:var(--accent);font-family:Arial}article{background:var(--card);margin-bottom:60px;box-shadow:0 10px 40px #102a4312}blockquote{border-left:4px solid var(--accent);margin-left:0;padding-left:18px;color:var(--muted)}@media(max-width:600px){body{font-size:16px}.hero{padding-top:42px}article{box-shadow:none}}
+</style></head><body><nav><a href="../index.html">← 日报首页</a></nav><article><h1>每日 AI 简报 · 2026-09-18</h1>
+<blockquote>
+<p>昨日 AI 重点，预计阅读 3–6 分钟。</p>
+</blockquote>
+<h2>AI 重点</h2>
+<h3>New experts join Google’s AI &amp; Economy team</h3>
+<p>Text "AI &amp; Economy Research Program" all over a green grid background, with the Google G logo in the bottom right corner</p>
+<p><strong>来源：</strong> <a href="https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week">Google AI</a> · <a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench">Google AI</a><br />
+<strong>评分：</strong> 8.2 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=f8be69de62ae&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=f8be69de62ae&amp;value=not_important">不重要</a></p>
+<h3>Making global data easier to explore</h3>
+<p>UN System Data Commons Data webpage</p>
+<p><strong>来源：</strong> <a href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform">Google AI</a><br />
+<strong>评分：</strong> 7.0 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=09af510b74ad&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=09af510b74ad&amp;value=not_important">不重要</a></p>
+<h3>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</h3>
+<p>Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The key features: 1) Automation (tool calls &amp; structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo). 2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k. 3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost. 4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, al</p>
+<p><strong>来源：</strong> <a href="https://cactuscompute.com/needle">Hacker News</a><br />
+<strong>评分：</strong> 5.0 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=221d26e53f96&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=221d26e53f96&amp;value=not_important">不重要</a></p>
+<h3>I vibed a proof of Conway's conjecture</h3>
+<p>https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 206 # Comments: 181</p>
+<p><strong>来源：</strong> <a href="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture">Hacker News</a><br />
+<strong>评分：</strong> 5.0 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=271c6fdda83c&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=271c6fdda83c&amp;value=not_important">不重要</a></p>
+<h3>Minimal Phone 2</h3>
+<p>Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 174 # Comments: 167</p>
+<p><strong>来源：</strong> <a href="https://minimalcompany.com">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=4047c0499646&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=4047c0499646&amp;value=not_important">不重要</a></p>
+<h2>与你最相关</h2>
+<h3>New experts join Google’s AI &amp; Economy team</h3>
+<p><strong>为什么值得关注：</strong> 涉及关注实体：Google</p>
+<p><a href="https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week">Google AI</a> · <a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench">Google AI</a></p>
+<h3>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</h3>
+<p><strong>为什么值得关注：</strong> 涉及关注实体：DeepSeek</p>
+<p><a href="https://cactuscompute.com/needle">Hacker News</a></p>
+<h3>I vibed a proof of Conway's conjecture</h3>
+<p><strong>为什么值得关注：</strong> 涉及关注实体：GitHub</p>
+<p><a href="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture">Hacker News</a></p>
+<h2>科技商业</h2>
+<h3>Two parallel neural ectoderm progenitors contribute to the developing brain</h3>
+<p>https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 103 # Comments: 53</p>
+<p><strong>来源：</strong> <a href="https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157">Hacker News</a> · <a href="https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload">Hacker News</a> · <a href="https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=77e2bc1e8de4&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=77e2bc1e8de4&amp;value=not_important">不重要</a></p>
+<h3>OpenJev</h3>
+<p>Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 547 # Comments: 244</p>
+<p><strong>来源：</strong> <a href="https://openjev.com">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=bb6dc2cbd74e&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=bb6dc2cbd74e&amp;value=not_important">不重要</a></p>
+<h3>Cekura (YC F24) Is Hiring</h3>
+<p>Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us Comments URL: https://news.ycombinator.com/item?id=49753131 Points: 0 # Comments: 0</p>
+<p><strong>来源：</strong> <a href="https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=c37d7ef8c3b4&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=c37d7ef8c3b4&amp;value=not_important">不重要</a></p>
+<h3>Cloudflare Quick Tunnels</h3>
+<p>Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 550 # Comments: 240</p>
+<p><strong>来源：</strong> <a href="https://try.cloudflare.com">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=99ba0bf057a7&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=99ba0bf057a7&amp;value=not_important">不重要</a></p>
+<h3>Mathematicians Build Long-Awaited Graph Sandwich</h3>
+<p>https://arxiv.org/abs/2510.20765 Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 69 # Comments: 18</p>
+<p><strong>来源：</strong> <a href="https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=8507cd3225c3&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=8507cd3225c3&amp;value=not_important">不重要</a></p>
+<h3>North Korean nuclear test sets off years of earthquakes</h3>
+<p>https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 182 # Comments: 151</p>
+<p><strong>来源：</strong> <a href="https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes">Hacker News</a><br />
+<strong>评分：</strong> 3.8 · <strong>反馈：</strong> <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=8e805dd6ae45&amp;value=important">重要</a> / <a href="https://github.com/15633126678/personal-ai-daily/issues/new?template=feedback.yml&amp;event_id=8e805dd6ae45&amp;value=not_important">不重要</a></p>
+<h2>值得继续观察</h2>
+<ul>
+<li>New experts join Google’s AI &amp; Economy team</li>
+<li>Making global data easier to explore</li>
+<li>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</li>
+</ul>
+<h2>运行说明</h2>
+<p>以下来源本次获取失败，系统已降级继续生成：Microsoft AI。</p>
+<h2>免责声明</h2>
+<p>内容由 AI 辅助整理，可能存在遗漏或错误，请以链接中的原始信息为准。事实摘要、媒体观点与标注为“AI 推断”的内容应分别理解；本文不构成医疗、法律或投资建议。</p></article></body></html>
