@@ -1,0 +1,207 @@
+{
+  "events": [
+    {
+      "id": "340021b9e02d",
+      "title": "The Lamentable Later Life of Lemmings",
+      "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 12 # Comments: 6",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f2bddff58251296f",
+          "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+          "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+          "summary": "https://www.nature.com/articles/s41593-026-02433-7 Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 611 # Comments: 236",
+          "published_at": "2026-09-19T05:48:50Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "7d4b675c956ff0f6",
+          "title": "The Lamentable Later Life of Lemmings",
+          "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings",
+          "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 12 # Comments: 6",
+          "published_at": "2026-09-19T15:17:12Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "bcddd4683517",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 363 # Comments: 166",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4df28e92e6fe218c",
+          "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+          "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+          "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 363 # Comments: 166",
+          "published_at": "2026-09-19T06:41:44Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b62db486b8a2",
+      "title": "AI-generated posters don’t have to be horrible",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1349 # Comments: 761",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1daadcb040738357",
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1349 # Comments: 761",
+          "published_at": "2026-09-19T09:20:58Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "aaac929efe4b",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1071 # Comments: 252",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "edc138a5ff8fc489",
+          "title": "I built non-autoregressive decision models with RL a year ago",
+          "url": "https://laya.convaiinnovations.com",
+          "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1071 # Comments: 252",
+          "published_at": "2026-09-19T10:46:58Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d035ecd02106",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "summary": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored. We wondered how far we could go with a small model trained to only make these kinds of decisions. Our inspiration was Typesafe's Jev and its System One Model framing. This is a nod to the dichotomy between thinking quickly, automatically, and intuitively (system 1) vs. thinking slowly, analytically (system 2), as described by Daniel Kahneman. The interesting question for us was: what happens if you give a model an interface of current context, and a set of possible choices, and you ask it to return a probability for each choice? This kind of model does not generate output token by token like most LLMs do, but rather scores the options you give it, which you can check, trust, and use to drive your app's behavior. CUA-S1 is our answer for narrow, specialized decision models for computer use. Our first release is CUA-S1-FORMS. We built this from ideas and code in jevlike, and then trained a second model just to handle form interactions. It has 706k parameters, and the original checkpoint is 2.8 MB. The first training",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "feb29b9d6f9b5af9",
+          "title": "Tin: full-text search for Postgres",
+          "url": "https://planetscale.com/blog/introducing-tin",
+          "summary": "Article URL: https://planetscale.com/blog/introducing-tin Comments URL: https://news.ycombinator.com/item?id=49766611 Points: 186 # Comments: 71",
+          "published_at": "2026-09-19T13:52:06Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "77900f8ae80bd3e8",
+          "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Hello HN! We're Dillon and Francesco from Cua. We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored. We wondered how far we could go with a small model trained to only make these kinds of decisions. Our inspiration was Typesafe's Jev and its System One Model framing. This is a nod to the dichotomy between thinking quickly, automatically, and intuitively (system 1) vs. thinking slowly, analytically (system 2), as described by Daniel Kahneman. The interesting question for us was: what happens if you give a model an interface of current context, and a set of possible choices, and you ask it to return a probability for each choice? This kind of model does not generate output token by token like most LLMs do, but rather scores the options you give it, which you can check, trust, and use to drive your app's behavior. CUA-S1 is our answer for narrow, specialized decision models for computer use. Our first release is CUA-S1-FORMS. We built this from ideas and code in jevlike, and then trained a second model just to handle form interactions. It has 706k parameters, and the original checkpoint is 2.8 MB. The first training",
+          "published_at": "2026-09-19T15:52:51Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "71d775b2a70b",
+      "title": "Brood War Bench",
+      "summary": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 135 # Comments: 64",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0c41f4e6ff3a836c",
+          "title": "Brood War Bench",
+          "url": "https://bw.swerdlow.dev/report",
+          "summary": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 135 # Comments: 64",
+          "published_at": "2026-09-19T14:44:02Z",
+          "fetched_at": "2026-09-20T00:50:43.869020Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
