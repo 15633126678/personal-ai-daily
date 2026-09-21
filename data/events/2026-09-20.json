@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "id": "fd832309ed1b",
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "summary": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0 Comments URL: https://news.ycombinator.com/item?id=49777106 Points: 127 # Comments: 24",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a100ab133bf49466",
+          "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+          "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+          "summary": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0 Comments URL: https://news.ycombinator.com/item?id=49777106 Points: 127 # Comments: 24",
+          "published_at": "2026-09-20T15:58:52Z",
+          "fetched_at": "2026-09-21T00:56:15.367948Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "282764fc93f3",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ Comments URL: https://news.ycombinator.com/item?id=49776729 Points: 566 # Comments: 305",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "204a0efb50d0eac0",
+          "title": "ChatGPT now knows what you do on other websites via ad collector",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ Comments URL: https://news.ycombinator.com/item?id=49776729 Points: 566 # Comments: 305",
+          "published_at": "2026-09-20T15:18:44Z",
+          "fetched_at": "2026-09-21T00:56:15.367948Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "631f3dfe68ad5441",
+          "title": "What's been going on in w64devkit the past year",
+          "url": "https://nullprogram.com/blog/2026/09/20",
+          "summary": "Article URL: https://nullprogram.com/blog/2026/09/20/ Comments URL: https://news.ycombinator.com/item?id=49776796 Points: 12 # Comments: 1",
+          "published_at": "2026-09-20T15:25:41Z",
+          "fetched_at": "2026-09-21T00:56:15.367948Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
