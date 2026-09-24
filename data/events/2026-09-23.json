@@ -1,0 +1,282 @@
+{
+  "events": [
+    {
+      "id": "3aa0fe297537",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8c9b3ccceb8f7efc",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+          "published_at": "2026-09-23T12:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "ccf8f4f317b4",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "77df1facbd74db71",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+          "published_at": "2026-09-22T18:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "925d09a5a001bbb3",
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "published_at": "2026-09-22T21:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "b77de7dffee7c5b7",
+          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+          "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+          "published_at": "2026-09-23T00:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "edf8b07ee1a1adac",
+          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+          "url": "https://openai.com/index/airbnb-gpt-6-astra",
+          "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+          "published_at": "2026-09-23T01:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "52257932400861fb",
+          "title": "Introducing MentalHealthBench",
+          "url": "https://openai.com/index/introducing-mentalhealthbench",
+          "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+          "published_at": "2026-09-23T10:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "689c207b680aa4a3",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+          "published_at": "2026-09-23T12:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "d3a6eea58ba5672f",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+          "published_at": "2026-09-23T12:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "cefeac142e39a761",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "published_at": "2026-09-23T12:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "164c76793cdda6d7",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+          "published_at": "2026-09-23T13:00:00Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "31d3bf906aab",
+      "title": "Gemini 3.8 text-to-speech",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/ Comments URL: https://news.ycombinator.com/item?id=49817615 Points: 249 # Comments: 121",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6f6394c65e11d047",
+          "title": "Gemini 3.8 text-to-speech",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/ Comments URL: https://news.ycombinator.com/item?id=49817615 Points: 249 # Comments: 121",
+          "published_at": "2026-09-23T15:29:23Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "749c869f601e",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "summary": "Article URL: https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol Comments URL: https://news.ycombinator.com/item?id=49817524 Points: 121 # Comments: 47",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2fa0f40a96057863",
+          "title": "I don't want the details",
+          "url": "https://michaelheap.com/i-dont-want-the-details",
+          "summary": "Article URL: https://michaelheap.com/i-dont-want-the-details/ Comments URL: https://news.ycombinator.com/item?id=49815466 Points: 344 # Comments: 193",
+          "published_at": "2026-09-23T13:04:44Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ea588abf0c7be961",
+          "title": "Fixing the Portobello Police Station Clock",
+          "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+          "summary": "Article URL: https://pointinthecloud.com/2026-04-11-211700.html Comments URL: https://news.ycombinator.com/item?id=49817469 Points: 378 # Comments: 85",
+          "published_at": "2026-09-23T15:18:53Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "4efbb8191cb2178c",
+          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+          "summary": "Article URL: https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol Comments URL: https://news.ycombinator.com/item?id=49817524 Points: 121 # Comments: 47",
+          "published_at": "2026-09-23T15:23:05Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "45bec2a1be8f",
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "summary": "Article URL: https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/ Comments URL: https://news.ycombinator.com/item?id=49816374 Points: 306 # Comments: 194",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "eddc8cc0f9d9312d",
+          "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+          "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries",
+          "summary": "Article URL: https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/ Comments URL: https://news.ycombinator.com/item?id=49816374 Points: 306 # Comments: 194",
+          "published_at": "2026-09-23T14:04:34Z",
+          "fetched_at": "2026-09-24T01:15:05.520377Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
