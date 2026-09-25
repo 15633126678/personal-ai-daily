@@ -1,0 +1,349 @@
+{
+  "events": [
+    {
+      "id": "babe8125f227",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "summary": "Google Beam promotional animation",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b0b9f2fc236bfc33",
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
+          "summary": "Google Beam promotional animation",
+          "published_at": "2026-09-23T18:00:00Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "f6ac9f2775f6c601",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "summary": "",
+          "published_at": "2026-09-23T18:41:40Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "3ed9d598573da93a",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "summary": "",
+          "published_at": "2026-09-24T14:08:57Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 3.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.75,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "af1a893cf5a3",
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "484bb65c12caed03",
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+          "published_at": "2026-09-23T16:00:00Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "fdcca14feed8",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "summary": "https://www.nytimes.com/2026/09/24/technology/google-suncatc... ( https://archive.ph/BGFnP ) Comments URL: https://news.ycombinator.com/item?id=49830606 Points: 95 # Comments: 190",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8a16ddd7f4dbfd19",
+          "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts",
+          "summary": "https://www.nytimes.com/2026/09/24/technology/google-suncatc... ( https://archive.ph/BGFnP ) Comments URL: https://news.ycombinator.com/item?id=49830606 Points: 95 # Comments: 190",
+          "published_at": "2026-09-24T13:53:29Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "c770578408c3",
+      "title": "Geothermal heat map of US hot springs",
+      "summary": "Article URL: https://www.soakingsprings.com/hot-springs/geothermal-map Comments URL: https://news.ycombinator.com/item?id=49821835 Points: 82 # Comments: 33",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "79aa34b28beb1b32",
+          "title": "Geothermal heat map of US hot springs",
+          "url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+          "summary": "Article URL: https://www.soakingsprings.com/hot-springs/geothermal-map Comments URL: https://news.ycombinator.com/item?id=49821835 Points: 82 # Comments: 33",
+          "published_at": "2026-09-23T20:12:10Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4db6e4b8521d",
+      "title": "Toyota is taking the Corolla electric",
+      "summary": "Article URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/ Comments URL: https://news.ycombinator.com/item?id=49823568 Points: 204 # Comments: 318",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7f9dd435f2ef45f7",
+          "title": "Toyota is taking the Corolla electric",
+          "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric",
+          "summary": "Article URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/ Comments URL: https://news.ycombinator.com/item?id=49823568 Points: 204 # Comments: 318",
+          "published_at": "2026-09-23T22:37:28Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "114ddcf961c4f5a7",
+          "title": "Two-tier encryption in the UK",
+          "url": "https://macanorak.com/two-tier-encryption-in-the-uk",
+          "summary": "Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/ Comments URL: https://news.ycombinator.com/item?id=49828731 Points: 374 # Comments: 367",
+          "published_at": "2026-09-24T10:39:19Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9d82b1f1a392",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "summary": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM. Comments URL: https://news.ycombinator.com/item?id=49823738 Points: 459 # Comments: 63",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "0e48e126d69f19d1",
+          "title": "Show HN: Make cursed fonts like Times New Bastard",
+          "url": "https://bastardica.mitpit.com",
+          "summary": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM. Comments URL: https://news.ycombinator.com/item?id=49823738 Points: 459 # Comments: 63",
+          "published_at": "2026-09-23T22:53:28Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "78632b78238c",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 73 # Comments: 128",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "abc4ac2aaa948667",
+          "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "url": "https://transluce.org/agent-activity",
+          "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 242 # Comments: 232",
+          "published_at": "2026-09-24T05:21:10Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "5e352289c31e360c",
+          "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+          "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+          "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 73 # Comments: 128",
+          "published_at": "2026-09-24T15:09:38Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "12a716eaf87b",
+      "title": "Nokia Design Archive (2025)",
+      "summary": "Article URL: https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c Comments URL: https://news.ycombinator.com/item?id=49828385 Points: 209 # Comments: 116",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ff1e7b1b2138d4d5",
+          "title": "Nokia Design Archive (2025)",
+          "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+          "summary": "Article URL: https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c Comments URL: https://news.ycombinator.com/item?id=49828385 Points: 209 # Comments: 116",
+          "published_at": "2026-09-24T09:49:33Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0ffd7462119a",
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "summary": "https://arstechnica.com/security/2026/09/theres-a-new-way-to... Comments URL: https://news.ycombinator.com/item?id=49831098 Points: 49 # Comments: 6",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a30ef12abc69a967",
+          "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+          "url": "https://eprint.iacr.org/2026/2131.pdf",
+          "summary": "https://arstechnica.com/security/2026/09/theres-a-new-way-to... Comments URL: https://news.ycombinator.com/item?id=49831098 Points: 49 # Comments: 6",
+          "published_at": "2026-09-24T14:26:32Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "91fc9186b2e1",
+      "title": "F-Droid 2.0",
+      "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 912 # Comments: 260",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "546975b8abe83f7e",
+          "title": "F-Droid 2.0",
+          "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+          "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 912 # Comments: 260",
+          "published_at": "2026-09-24T15:26:12Z",
+          "fetched_at": "2026-09-25T01:16:59.393875Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
