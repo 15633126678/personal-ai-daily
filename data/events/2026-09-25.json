@@ -1,0 +1,220 @@
+{
+  "events": [
+    {
+      "id": "1bf8a64497c9",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "summary": "Article URL: https://github.com/git-bug/git-bug Comments URL: https://news.ycombinator.com/item?id=49843174 Points: 303 # Comments: 100",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "1794b01b5126bbc7",
+          "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+          "url": "https://github.com/git-bug/git-bug",
+          "summary": "Article URL: https://github.com/git-bug/git-bug Comments URL: https://news.ycombinator.com/item?id=49843174 Points: 303 # Comments: 100",
+          "published_at": "2026-09-25T11:38:31Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "c1eeba117e54",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "summary": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon. I've spent endless hours playing this game as a child so building this was a ton of fun. I open sourced everything in case you want to hack on it yourself here: https://github.com/christianmat/jev-pokemon The game is being streamed live including the tokens and cost - hopefully we get all the badges and don't get stuck in a cave :) Comments URL: https://news.ycombinator.com/item?id=49845172 Points: 147 # Comments: 66",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6207eb7f45af4dfd",
+          "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+          "url": "https://hackeratlas.com",
+          "summary": "I built a tool to explore HN topics and how they change over time. Currently covers 2024 to today. Is it useful? What's missing? Comments URL: https://news.ycombinator.com/item?id=49844497 Points: 5 # Comments: 0",
+          "published_at": "2026-09-25T13:37:54Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "398bf5c7ee0922a3",
+          "title": "What happens when you analyze your favorite college football team like the CIA?",
+          "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+          "summary": "Article URL: https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia Comments URL: https://news.ycombinator.com/item?id=49844642 Points: 36 # Comments: 22",
+          "published_at": "2026-09-25T13:47:21Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ee5d9b01ef31929d",
+          "title": "Show HN: Jev Plays Pokémon Red",
+          "url": "https://jev-pokemon.vercel.app",
+          "summary": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon. I've spent endless hours playing this game as a child so building this was a ton of fun. I open sourced everything in case you want to hack on it yourself here: https://github.com/christianmat/jev-pokemon The game is being streamed live including the tokens and cost - hopefully we get all the badges and don't get stuck in a cave :) Comments URL: https://news.ycombinator.com/item?id=49845172 Points: 147 # Comments: 66",
+          "published_at": "2026-09-25T14:28:07Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "e89c7f5eec6b7204",
+          "title": "Gravity seems holographic. What does that mean for reality?",
+          "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925",
+          "summary": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?id=49845998 Points: 119 # Comments: 122",
+          "published_at": "2026-09-25T15:31:02Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "c012f28b4276",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 78 # Comments: 66",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c545e3574f61c6ab",
+          "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+          "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 78 # Comments: 66",
+          "published_at": "2026-09-25T14:07:08Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Microsoft",
+      "inference": null
+    },
+    {
+      "id": "763d58008178",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 379 # Comments: 692",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9c9edbeda6c11952",
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 379 # Comments: 692",
+          "published_at": "2026-09-25T15:29:25Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Anthropic",
+      "inference": null
+    },
+    {
+      "id": "43ec799ed526",
+      "title": "Platform-independent SIMD in Go",
+      "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 359 # Comments: 133",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "aa322795f638d79b",
+          "title": "Platform-independent SIMD in Go",
+          "url": "https://go.dev/blog/simd-experiment",
+          "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 359 # Comments: 133",
+          "published_at": "2026-09-25T11:47:06Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "798d2fe1e491",
+      "title": "First Principles Thinking",
+      "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 213 # Comments: 97",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f5e0067e06b0b23f",
+          "title": "First Principles Thinking",
+          "url": "https://sunilsadasivan.com/writing/first-principles-thinking",
+          "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 213 # Comments: 97",
+          "published_at": "2026-09-25T13:55:37Z",
+          "fetched_at": "2026-09-26T01:19:15.347638Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
