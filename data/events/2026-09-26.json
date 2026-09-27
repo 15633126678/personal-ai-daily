@@ -1,0 +1,275 @@
+{
+  "events": [
+    {
+      "id": "0b2c7a0c0ce5",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "794516609b5bcb0e",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "url": "https://openai.com/index/proaction",
+          "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "published_at": "2026-09-25T19:00:00Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "5bae3e20641a",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "summary": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass. In the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya. Still, in terms of costs per decision, Jev is several x better than our setup. In turn, our setup supports vision inputs. Comments URL: https://news.ycombinator.com/item?id=49857656 Points: 15 # Comments: 6",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bec794a6ede08f4e",
+          "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+          "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+          "summary": "Article URL: https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html Comments URL: https://news.ycombinator.com/item?id=49849820 Points: 57 # Comments: 38",
+          "published_at": "2026-09-25T20:53:54Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "2dd21c7ccb70cd6c",
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "url": "https://gultsch.de/posts/breaking-up-with-google-play",
+          "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 635 # Comments: 250",
+          "published_at": "2026-09-26T10:55:56Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "f023e6a5c741ff5c",
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "summary": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass. In the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya. Still, in terms of costs per decision, Jev is several x better than our setup. In turn, our setup supports vision inputs. Comments URL: https://news.ycombinator.com/item?id=49857656 Points: 15 # Comments: 6",
+          "published_at": "2026-09-26T15:49:04Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "70bf8b2514ae",
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "summary": "Article URL: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html Comments URL: https://news.ycombinator.com/item?id=49852905 Points: 14 # Comments: 7",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a51dcfbbe3a95e9a",
+          "title": "Generate fonts where every LLM token is the same width",
+          "url": "https://ampdot.mesh.host/token-space-fonts.html",
+          "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 23 # Comments: 6",
+          "published_at": "2026-09-26T00:30:03Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "0a281a7e8527f02b",
+          "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+          "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+          "summary": "Article URL: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html Comments URL: https://news.ycombinator.com/item?id=49852905 Points: 14 # Comments: 7",
+          "published_at": "2026-09-26T03:23:31Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ff9d6a44ca69299f",
+          "title": "Fifteen years later, the Apple Cards origin story",
+          "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+          "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 339 # Comments: 86",
+          "published_at": "2026-09-26T09:13:41Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "2527d56b9bfe",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "summary": "Article URL: https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/ Comments URL: https://news.ycombinator.com/item?id=49852143 Points: 24 # Comments: 10",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e727306fc5bd065c",
+          "title": "How one Twitch chat message became code execution on a streamer’s PC",
+          "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc",
+          "summary": "Article URL: https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/ Comments URL: https://news.ycombinator.com/item?id=49852143 Points: 24 # Comments: 10",
+          "published_at": "2026-09-26T01:13:38Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "518ce1516f30fe61",
+          "title": "How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 153 # Comments: 207",
+          "published_at": "2026-09-26T09:41:58Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6ae026795b30",
+      "title": "Reading’s Bayeux Tapestry",
+      "summary": "Article URL: https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html Comments URL: https://news.ycombinator.com/item?id=49855276 Points: 12 # Comments: 1",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d576fdd1f61c0cff",
+          "title": "Reading’s Bayeux Tapestry",
+          "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+          "summary": "Article URL: https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html Comments URL: https://news.ycombinator.com/item?id=49855276 Points: 12 # Comments: 1",
+          "published_at": "2026-09-26T10:48:40Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "186bf3278234",
+      "title": "Go Concurrency Distilled",
+      "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 20 # Comments: 4",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "13085e8c75a9d63d",
+          "title": "Go Concurrency Distilled",
+          "url": "https://antonz.org/go-concurrency-distilled",
+          "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 20 # Comments: 4",
+          "published_at": "2026-09-26T14:34:49Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c50689b24372",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 105 # Comments: 32",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "94ae19b3eeb79481",
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 105 # Comments: 32",
+          "published_at": "2026-09-26T15:56:34Z",
+          "fetched_at": "2026-09-27T01:13:09.548471Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
