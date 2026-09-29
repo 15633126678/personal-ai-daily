@@ -1,0 +1,262 @@
+{
+  "events": [
+    {
+      "id": "890818f87ff7",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "93debcf76b72be8b",
+          "title": "Are you a Codex Original?",
+          "url": "https://openai.com/form/codex-originals",
+          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+          "published_at": "2026-09-28T00:00:00Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "02e73e7cb43a",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1f9086a48eac9fc6",
+          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+          "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+          "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+          "published_at": "2026-09-28T00:00:00Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "7d15e54be87e48a2",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "published_at": "2026-09-28T07:00:00Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1467d6ccc34f",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "Holo4: powering generalist computer-use agents",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "2cb85282a8b80d2a",
+          "title": "Holo4: powering generalist computer-use agents",
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "summary": "",
+          "published_at": "2026-09-28T09:44:05Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "5c9e403ec169",
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "summary": "Article URL: https://twitter.com/AliAbunimah/status/2103890594137309425 Comments URL: https://news.ycombinator.com/item?id=49879645 Points: 239 # Comments: 130",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f795f56b540da926",
+          "title": "Cf: The Agentic CLI for the Cloudflare API",
+          "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch",
+          "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/ Comments URL: https://news.ycombinator.com/item?id=49879577 Points: 123 # Comments: 52",
+          "published_at": "2026-09-28T15:28:13Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "0bcf3f95fbc7ec91",
+          "title": "Updated Google Maps shows destruction of the city of Rafah",
+          "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+          "summary": "Article URL: https://twitter.com/AliAbunimah/status/2103890594137309425 Comments URL: https://news.ycombinator.com/item?id=49879645 Points: 239 # Comments: 130",
+          "published_at": "2026-09-28T15:32:18Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "be4db4ece7729bbc",
+          "title": "Hijacking the PS5's RTMP stream",
+          "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream",
+          "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/ Comments URL: https://news.ycombinator.com/item?id=49879702 Points: 197 # Comments: 66",
+          "published_at": "2026-09-28T15:35:23Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "2fb090653a93c5d5",
+          "title": "Pirating the Pirates",
+          "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+          "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 424 # Comments: 226",
+          "published_at": "2026-09-28T15:54:15Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "3c6f7a989013",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”. To demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link. While there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than pixel-based videos (just a few seconds from click to playback) - Cost: Our cost per video is ~$0.04. (Excluding image generation, which some videos utilize. Quickly blows up the cost) - Easy editing: the above benefits also make AI-assisted editing cheap & fast Our hypothesis is that if video creation goes from “dollars and minutes” to “cents and seconds”, a bunch of new use cases will be unlocked. Here are some we see already: - A video explanation of every single Pull Request (we do this internally) - Give every page in your internal/extrernal docs a video - Turn a complex article into a video in ~4 seconds (via our Chrome extension) - Course creators can quickly draft lessons before recording the real thing - People also create a lot of personal stuff stories for their kids, wedding invitations, birthdays, etc The stack is based on an open-source programming language (Imba) created by o",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "912c3e742fb2528f",
+          "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+          "url": "https://hn.watch",
+          "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”. To demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link. While there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than pixel-based videos (just a few seconds from click to playback) - Cost: Our cost per video is ~$0.04. (Excluding image generation, which some videos utilize. Quickly blows up the cost) - Easy editing: the above benefits also make AI-assisted editing cheap & fast Our hypothesis is that if video creation goes from “dollars and minutes” to “cents and seconds”, a bunch of new use cases will be unlocked. Here are some we see already: - A video explanation of every single Pull Request (we do this internally) - Give every page in your internal/extrernal docs a video - Turn a complex article into a video in ~4 seconds (via our Chrome extension) - Course creators can quickly draft lessons before recording the real thing - People also create a lot of personal stuff stories for their kids, wedding invitations, birthdays, etc The stack is based on an open-source programming language (Imba) created by o",
+          "published_at": "2026-09-28T15:16:13Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d6c557f029e2",
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "summary": "Article URL: https://www.thisamericanlife.org/897/transcript Comments URL: https://news.ycombinator.com/item?id=49879697 Points: 298 # Comments: 183",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7e5a34a42148bf7f",
+          "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+          "url": "https://www.thisamericanlife.org/897/transcript",
+          "summary": "Article URL: https://www.thisamericanlife.org/897/transcript Comments URL: https://news.ycombinator.com/item?id=49879697 Points: 298 # Comments: 183",
+          "published_at": "2026-09-28T15:35:09Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a8f20a43830a",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 109 # Comments: 148",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7113d0f4ca8d2b35",
+          "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+          "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+          "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49879883 Points: 109 # Comments: 148",
+          "published_at": "2026-09-28T15:46:36Z",
+          "fetched_at": "2026-09-29T02:31:23.015472Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
