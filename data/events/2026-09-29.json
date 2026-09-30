@@ -1,0 +1,362 @@
+{
+  "events": [
+    {
+      "id": "3efbe72d8736",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b173aff47a3e08e2",
+          "title": "Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "published_at": "2026-09-28T19:00:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "1d36ec168992ba15",
+          "title": "How we will do better for Australia",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "published_at": "2026-09-28T19:00:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "5c7175ed488aa58e",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "summary": "",
+          "published_at": "2026-09-29T13:07:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "d8ed866fdd45a516",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "summary": "",
+          "published_at": "2026-09-29T15:30:38Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "c86cc5f02ffb",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d4b8dfb5e0598412",
+          "title": "Introducing dots",
+          "url": "https://openai.com/index/introducing-dots",
+          "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "published_at": "2026-09-29T00:00:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "bd1c50ebe0721f4a",
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "published_at": "2026-09-29T10:00:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "3cb13fbfbe82",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "270f64ac4efe9d58",
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "published_at": "2026-09-29T10:00:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "cdef918e6d22",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6b707342a14cfdef",
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+          "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "published_at": "2026-09-28T19:00:00Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "919bc78b0c54",
+      "title": "PS5 Relapse Exploit",
+      "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit Comments URL: https://news.ycombinator.com/item?id=49895304 Points: 233 # Comments: 127",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d06650e7297db23e",
+          "title": "PS5 Relapse Exploit",
+          "url": "https://github.com/ntfargo/Relapse-Exploit",
+          "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit Comments URL: https://news.ycombinator.com/item?id=49895304 Points: 233 # Comments: 127",
+          "published_at": "2026-09-29T15:44:41Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "f04e92eb6403",
+      "title": "Everybody’s home. No one’s coming over",
+      "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 726 # Comments: 663",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "aa847c656d961311",
+          "title": "Everybody’s home. No one’s coming over",
+          "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+          "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 726 # Comments: 663",
+          "published_at": "2026-09-29T11:14:45Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9799843cc210",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 437 # Comments: 253",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "df1d9d9524673a8f",
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+          "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 437 # Comments: 253",
+          "published_at": "2026-09-29T12:43:29Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "efd7b0c57f6b",
+      "title": "Show HN: NSL – WSL for Linux",
+      "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months. Comments URL: https://news.ycombinator.com/item?id=49894351 Points: 82 # Comments: 62",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "67c59c7e0d98712c",
+          "title": "Backblaze drive stats for Q2 2026",
+          "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026",
+          "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/ Comments URL: https://news.ycombinator.com/item?id=49893002 Points: 73 # Comments: 9",
+          "published_at": "2026-09-29T13:34:20Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "f85bd04136ff8c85",
+          "title": "Show HN: NSL – WSL for Linux",
+          "url": "https://frostyard.github.io/nsl",
+          "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX. NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months. Comments URL: https://news.ycombinator.com/item?id=49894351 Points: 82 # Comments: 62",
+          "published_at": "2026-09-29T14:51:36Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a1e2592c78d9",
+      "title": "Ask HN: What are you reading?",
+      "summary": "I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough. I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working... Comments URL: https://news.ycombinator.com/item?id=49893157 Points: 130 # Comments: 356",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b4d6ce9b826ac44b",
+          "title": "Ask HN: What are you reading?",
+          "url": "https://news.ycombinator.com/item?id=49893157",
+          "summary": "I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough. I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working... Comments URL: https://news.ycombinator.com/item?id=49893157 Points: 130 # Comments: 356",
+          "published_at": "2026-09-29T13:44:43Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4b44e7fe54c9",
+      "title": "America.gov",
+      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 342 # Comments: 280",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "54c400e614a87886",
+          "title": "America.gov",
+          "url": "https://america.gov",
+          "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 342 # Comments: 280",
+          "published_at": "2026-09-29T14:04:57Z",
+          "fetched_at": "2026-09-30T01:54:08.791045Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
