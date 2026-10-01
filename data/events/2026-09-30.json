@@ -1,0 +1,223 @@
+{
+  "events": [
+    {
+      "id": "f6e14988748c",
+      "title": "Helping small businesses put AI to work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "84426df134c70ed6",
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "published_at": "2026-09-30T10:00:00Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "ee89fa007094",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "614384c194a98fc2",
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "published_at": "2026-09-30T10:30:00Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "4c3b6a33f53c",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "77eea666183fd04c",
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "url": "https://huggingface.co/blog/open-tts-leaderboard",
+          "summary": "",
+          "published_at": "2026-09-30T00:00:00Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7a2b37c3f699",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/ Comments URL: https://news.ycombinator.com/item?id=49908962 Points: 132 # Comments: 51",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9b6864d57e485210",
+          "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+          "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering",
+          "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/ Comments URL: https://news.ycombinator.com/item?id=49908962 Points: 132 # Comments: 51",
+          "published_at": "2026-09-30T13:50:50Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4cf6f1a2b858",
+      "title": "What TLA+ can and can't check",
+      "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/ Comments URL: https://news.ycombinator.com/item?id=49909056 Points: 141 # Comments: 31",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9edc7c8c440050ba",
+          "title": "What TLA+ can and can't check",
+          "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check",
+          "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/ Comments URL: https://news.ycombinator.com/item?id=49909056 Points: 141 # Comments: 31",
+          "published_at": "2026-09-30T13:57:06Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "552ccc847770",
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is wrong, so just saying \"there's a mistake\" every time doesn't work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa's harness is stable and has many evaluation steps to catch inconsistencies and prompt injections. You can play one on the homepage without signing up. The part that surprised me: it's hard to get an LLM to be wrong on purpose. Half the time it gives you the right answer and calls it wrong, or a \"mistake\" that's actually correct. So every case gets checked before a kid sees it. Where it can, a plain arithmetic check redoes the math exactly. A second model also solves the problem without seeing Errol's work. If anything disagrees, the case is thrown away. The weak spot is that the second model can make the same mistake as the first. The arithmetic check is there for that, but it only works on English cases so far. German and Greek write decimals with a comma and I haven't got the parsing right yet. What I'd really like to know: does finding someone else's mistake teach anything that solving the problem yourself doesn't? I'm not sure, and I'd like to hear from people who teach. Comments URL: https://news.ycombinator.com/item?id=49909648 Points:",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "25bae9beabbd4587",
+          "title": "A brief history of the Bloomberg terminal",
+          "url": "https://spectrum.ieee.org/bloomberg-terminal",
+          "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 226 # Comments: 91",
+          "published_at": "2026-09-30T14:34:07Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "5e5e775ac4de4df9",
+          "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+          "url": "https://lathoa.ai/en",
+          "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is wrong, so just saying \"there's a mistake\" every time doesn't work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa's harness is stable and has many evaluation steps to catch inconsistencies and prompt injections. You can play one on the homepage without signing up. The part that surprised me: it's hard to get an LLM to be wrong on purpose. Half the time it gives you the right answer and calls it wrong, or a \"mistake\" that's actually correct. So every case gets checked before a kid sees it. Where it can, a plain arithmetic check redoes the math exactly. A second model also solves the problem without seeing Errol's work. If anything disagrees, the case is thrown away. The weak spot is that the second model can make the same mistake as the first. The arithmetic check is there for that, but it only works on English cases so far. German and Greek write decimals with a comma and I haven't got the parsing right yet. What I'd really like to know: does finding someone else's mistake teach anything that solving the problem yourself doesn't? I'm not sure, and I'd like to hear from people who teach. Comments URL: https://news.ycombinator.com/item?id=49909648 Points:",
+          "published_at": "2026-09-30T14:38:57Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "16209c904423",
+      "title": "Coltrane's Tone Circle",
+      "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/ Comments URL: https://news.ycombinator.com/item?id=49909908 Points: 26 # Comments: 6",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c8b84ab2e325be49",
+          "title": "Coltrane's Tone Circle",
+          "url": "https://jtomschroeder.com/blog/tone-circle",
+          "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/ Comments URL: https://news.ycombinator.com/item?id=49909908 Points: 26 # Comments: 6",
+          "published_at": "2026-09-30T14:59:42Z",
+          "fetched_at": "2026-10-01T01:54:36.470794Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
