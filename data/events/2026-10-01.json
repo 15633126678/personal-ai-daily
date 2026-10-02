@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "9dee38d4a346",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "f9319283a523a803",
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "url": "https://openai.com/index/the-den-family-social",
+          "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+          "published_at": "2026-10-01T00:00:00Z",
+          "fetched_at": "2026-10-02T02:04:21.040892Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "48ba7f02b1cf",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "summary": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "dcfcd7a02b8fa9f9",
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "summary": "",
+          "published_at": "2026-10-01T15:01:43Z",
+          "fetched_at": "2026-10-02T02:04:21.040892Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
