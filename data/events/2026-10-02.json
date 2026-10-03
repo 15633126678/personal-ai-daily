@@ -1,0 +1,327 @@
+{
+  "events": [
+    {
+      "id": "083e8e7d96d1",
+      "title": "The eternal complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "20ffb210b47048bb",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "published_at": "2026-10-01T16:00:00Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "a75b0d274b181c04",
+          "title": "The eternal complement",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "published_at": "2026-10-01T17:00:00Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "639e04a57d5fe58c",
+          "title": "The latest AI news we announced in September 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "summary": "A video showing the September AI updates",
+          "published_at": "2026-10-02T15:00:00Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "7882fe904f783027",
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "summary": "",
+          "published_at": "2026-10-02T15:19:50Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 3,
+      "importance": 4.2,
+      "credibility": 5.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 10.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "17777cb0fcb4",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "825d969fbe5263ea",
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "url": "https://openai.com/index/chatham-financial",
+          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "published_at": "2026-10-02T00:00:00Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "b15d9b468dd2",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1b72e7ec00f49470",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "summary": "",
+          "published_at": "2026-10-02T04:01:31Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ff40ae0021bb",
+      "title": "Blogging with Gleam, Org-Mode and Pandoc",
+      "summary": "Article URL: https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/ Comments URL: https://news.ycombinator.com/item?id=49932340 Points: 55 # Comments: 12",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8edd9c96b41e9987",
+          "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+          "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+          "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 196 # Comments: 43",
+          "published_at": "2026-10-02T11:07:17Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "b6437a145c0e2166",
+          "title": "Blogging with Gleam, Org-Mode and Pandoc",
+          "url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc",
+          "summary": "Article URL: https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/ Comments URL: https://news.ycombinator.com/item?id=49932340 Points: 55 # Comments: 12",
+          "published_at": "2026-10-02T11:34:28Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "e753674de110fbac",
+          "title": "With most information hidden, the game Stratego had stumped AI until now",
+          "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+          "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 177 # Comments: 85",
+          "published_at": "2026-10-02T14:11:24Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "a7cc7baed331aeed",
+          "title": "The Forgetful CPU (Linux on M4)",
+          "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+          "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 98 # Comments: 31",
+          "published_at": "2026-10-02T14:22:12Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "29ba051d2b8d00b3",
+          "title": "One month coding with GLM 5.3 Flash",
+          "url": "https://wagtail.org/blog/one-month-on-glm-53-flash",
+          "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 109 # Comments: 84",
+          "published_at": "2026-10-02T15:29:15Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "2764c9028eb4",
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/ Comments URL: https://news.ycombinator.com/item?id=49932191 Points: 45 # Comments: 49",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "875bfe9b94fb845b",
+          "title": "Our Project Suncatcher prototype satellite is in orbit",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/ Comments URL: https://news.ycombinator.com/item?id=49932191 Points: 45 # Comments: 49",
+          "published_at": "2026-10-02T11:13:02Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "1a062668b526",
+      "title": "F.02 Decommission",
+      "summary": "https://www.youtube.com/watch?v=pfAh5oQDPDM Comments URL: https://news.ycombinator.com/item?id=49932079 Points: 65 # Comments: 25",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b8f658e44ec036df",
+          "title": "F.02 Decommission",
+          "url": "https://www.figure.ai/news/f-02-decommission",
+          "summary": "https://www.youtube.com/watch?v=pfAh5oQDPDM Comments URL: https://news.ycombinator.com/item?id=49932079 Points: 65 # Comments: 25",
+          "published_at": "2026-10-02T10:57:27Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a657bd524064",
+      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+      "summary": "Article URL: https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216 Comments URL: https://news.ycombinator.com/item?id=49932911 Points: 41 # Comments: 11",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8b8c4cc0b3e866fc",
+          "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+          "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+          "summary": "Article URL: https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216 Comments URL: https://news.ycombinator.com/item?id=49932911 Points: 41 # Comments: 11",
+          "published_at": "2026-10-02T12:46:50Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "5f9702c71e214e52",
+          "title": "Venice’s failed war against Constantinople led to the first bond market",
+          "url": "https://bigthink.com/books/a-fabulous-debt",
+          "summary": "Article URL: https://bigthink.com/books/a-fabulous-debt/ Comments URL: https://news.ycombinator.com/item?id=49933230 Points: 70 # Comments: 23",
+          "published_at": "2026-10-02T13:17:47Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "04cd52a356d7ad0f",
+          "title": "The Legend of von Neumann (1973) [pdf]",
+          "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+          "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 243 # Comments: 140",
+          "published_at": "2026-10-02T13:18:32Z",
+          "fetched_at": "2026-10-03T01:48:17.137491Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
