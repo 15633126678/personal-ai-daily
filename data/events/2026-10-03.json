@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "id": "189a21cfab97",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "ba5f2f29e9c976f5",
+          "title": "A model guide for the GPT-6 family",
+          "url": "https://openai.com/index/practical-guide-building-gpt-6",
+          "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "published_at": "2026-10-02T16:15:00Z",
+          "fetched_at": "2026-10-04T02:27:57.585671Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f07aacb7c21a",
+      "title": "FTL: A new operating system for clouds",
+      "summary": "https://github.com/nuta/ftl Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 150 # Comments: 60",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d7b2b03eb4a9336e",
+          "title": "FTL: A new operating system for clouds",
+          "url": "https://ftl-os.org",
+          "summary": "https://github.com/nuta/ftl Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 150 # Comments: 60",
+          "published_at": "2026-10-03T15:02:36Z",
+          "fetched_at": "2026-10-04T02:27:57.585671Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "06a8f8f1bd91",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "summary": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 518 # Comments: 302",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e82904d028fa8c8f",
+          "title": "Kolibri: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "summary": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 518 # Comments: 302",
+          "published_at": "2026-10-03T09:36:04Z",
+          "fetched_at": "2026-10-04T02:27:57.585671Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b7eab887cef3",
+      "title": "Docker has always used microVMs (well since 2016)",
+      "summary": "Article URL: https://dave.recoil.org/docker-has-always-used-microvms/ Comments URL: https://news.ycombinator.com/item?id=49945352 Points: 21 # Comments: 15",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "134736a9d2fc3ef8",
+          "title": "Docker has always used microVMs (well since 2016)",
+          "url": "https://dave.recoil.org/docker-has-always-used-microvms",
+          "summary": "Article URL: https://dave.recoil.org/docker-has-always-used-microvms/ Comments URL: https://news.ycombinator.com/item?id=49945352 Points: 21 # Comments: 15",
+          "published_at": "2026-10-03T15:55:31Z",
+          "fetched_at": "2026-10-04T02:27:57.585671Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
