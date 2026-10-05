@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "id": "91e5e135bee2",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "The Agent Said It Was Done. The Database Disagreed.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "be6798e030a0cac9",
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "summary": "",
+          "published_at": "2026-10-03T22:56:48Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e1583bee1737",
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 128 # Comments: 30",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b0ff4b1025b3654b",
+          "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+          "url": "https://github.com/PowderworksCode/headstart",
+          "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 128 # Comments: 30",
+          "published_at": "2026-10-04T06:26:57Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 2.4,
+      "total_score": 6.15,
+      "personal_reason": "涉及关注实体：Meta, GitHub",
+      "inference": null
+    },
+    {
+      "id": "b4901c7f341d",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 612 # Comments: 285",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "65327bed42a3362d",
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata",
+          "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 612 # Comments: 285",
+          "published_at": "2026-10-04T12:51:53Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "a7b8b984079a",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 131 # Comments: 71",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "119a28fedbd6abf0",
+          "title": "Surely you have ultra-wideband radios on your bins too?",
+          "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out",
+          "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 131 # Comments: 71",
+          "published_at": "2026-10-03T20:27:44Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d924c7f7c27d",
+      "title": "'Neanderthals Among Us' review",
+      "summary": "Article URL: https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review Comments URL: https://news.ycombinator.com/item?id=49947565 Points: 55 # Comments: 48",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "aafca34d07150acd",
+          "title": "'Neanderthals Among Us' review",
+          "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+          "summary": "Article URL: https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review Comments URL: https://news.ycombinator.com/item?id=49947565 Points: 55 # Comments: 48",
+          "published_at": "2026-10-03T20:41:15Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c195692679ce",
+      "title": "Tell HN: Bob Cringely has died",
+      "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed. Comments URL: https://news.ycombinator.com/item?id=49949438 Points: 817 # Comments: 176",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "25ab9194ad6d1376",
+          "title": "Tell HN: Bob Cringely has died",
+          "url": "https://news.ycombinator.com/item?id=49949438",
+          "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed. Comments URL: https://news.ycombinator.com/item?id=49949438 Points: 817 # Comments: 176",
+          "published_at": "2026-10-04T00:50:52Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "0cfc0a95d15816a8",
+          "title": "Bill Draper has died",
+          "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+          "summary": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 80 # Comments: 19",
+          "published_at": "2026-10-04T12:21:35Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "04a0c8aaa07e",
+      "title": "Why don't more developers “use the platform”?",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 277 # Comments: 288",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a59dfaf1664f503b",
+          "title": "Why don't more developers “use the platform”?",
+          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform",
+          "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 277 # Comments: 288",
+          "published_at": "2026-10-04T04:10:47Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c6e8055f370a",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 49 # Comments: 15",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f68bd3c8bd3048b8",
+          "title": "How to scale intent, quality, and artistry with AI [video]",
+          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+          "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 49 # Comments: 15",
+          "published_at": "2026-10-04T08:41:58Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "e7d7df44a1f52a49",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 139 # Comments: 65",
+          "published_at": "2026-10-04T09:24:52Z",
+          "fetched_at": "2026-10-05T01:45:19.987274Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
