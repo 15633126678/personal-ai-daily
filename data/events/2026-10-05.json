@@ -1,0 +1,152 @@
+{
+  "events": [
+    {
+      "id": "bd2aeed90b5b",
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "fae2b87d51d0dc3b",
+          "title": "Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+          "published_at": "2026-10-05T10:00:00Z",
+          "fetched_at": "2026-10-06T02:47:18.140005Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "c3762b051da0",
+      "title": "Our approach to EU text provenance rules",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "babed4f73e0b2f7f",
+          "title": "Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+          "published_at": "2026-10-05T15:00:00Z",
+          "fetched_at": "2026-10-06T02:47:18.140005Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "23ca4979a231",
+      "title": "Web Search API",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 491 # Comments: 223",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "482ce9232fe2ee09",
+          "title": "Web Search API",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api",
+          "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 491 # Comments: 223",
+          "published_at": "2026-10-05T10:47:06Z",
+          "fetched_at": "2026-10-06T02:47:18.140005Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e11f2cc0d887",
+      "title": "The lamps in my house",
+      "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 136 # Comments: 67",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c8f9513c425ab532",
+          "title": "The lamps in my house",
+          "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house",
+          "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 136 # Comments: 67",
+          "published_at": "2026-10-05T14:12:14Z",
+          "fetched_at": "2026-10-06T02:47:18.140005Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0f9e332b46fa",
+      "title": "Making a GTK application in Haskell, part 1",
+      "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 135 # Comments: 33",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9bb2f474ef489719",
+          "title": "Making a GTK application in Haskell, part 1",
+          "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1",
+          "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 135 # Comments: 33",
+          "published_at": "2026-10-05T14:23:47Z",
+          "fetched_at": "2026-10-06T02:47:18.140005Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
