@@ -1,0 +1,107 @@
+{
+  "events": [
+    {
+      "id": "e7e5ba2b0a26",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "13e8e0912208d718",
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+          "published_at": "2026-10-06T12:00:00Z",
+          "fetched_at": "2026-10-07T02:10:43.307423Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 2.4,
+      "total_score": 9.6,
+      "personal_reason": "涉及关注实体：OpenAI, GitHub",
+      "inference": null
+    },
+    {
+      "id": "f00ea5edfa45",
+      "title": "Advancing computer use with Ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "722ab04703c303ff",
+          "title": "Advancing computer use with Ironclad",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "published_at": "2026-10-06T10:00:00Z",
+          "fetched_at": "2026-10-07T02:10:43.307423Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "25603b9f07cc333a",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "url": "https://openai.com/index/jump-trading",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "published_at": "2026-10-06T12:00:00Z",
+          "fetched_at": "2026-10-07T02:10:43.307423Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "9f7ecb6f75f9",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "summary": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "2fd6cf565e27d66d",
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "summary": "",
+          "published_at": "2026-10-06T06:44:39Z",
+          "fetched_at": "2026-10-07T02:10:43.307423Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
