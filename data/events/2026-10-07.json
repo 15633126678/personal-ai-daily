@@ -1,0 +1,375 @@
+{
+  "events": [
+    {
+      "id": "fd9d10ccac6b",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "7b66ac50a24b5861",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "published_at": "2026-10-06T16:00:00Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "916a3279540fd4a6",
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone",
+          "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+          "published_at": "2026-10-07T00:00:00Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "120ccf5eb8d6f612",
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "url": "https://openai.com/index/radisson",
+          "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+          "published_at": "2026-10-07T07:00:00Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "c35a7b85b06fd58a",
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+          "published_at": "2026-10-07T12:00:00Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "c5da9225ca322620",
+          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "summary": "",
+          "published_at": "2026-10-07T12:45:31Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.7,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "15b2ae30a8e9",
+      "title": "Google Playground: Create and play custom games",
+      "summary": "https://labs.google/playground Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 123 # Comments: 201",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "87873ee83db37aea",
+          "title": "Google Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "summary": "https://labs.google/playground Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 123 # Comments: 201",
+          "published_at": "2026-10-07T12:28:36Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "2f33d42795c1",
+      "title": "SynthID Detector",
+      "summary": "https://blog.google/innovation-and-ai/models-and-research/go... Comments URL: https://news.ycombinator.com/item?id=49993188 Points: 94 # Comments: 84",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a55e3a4d96412372",
+          "title": "SynthID Detector",
+          "url": "https://synthid.com",
+          "summary": "https://blog.google/innovation-and-ai/models-and-research/go... Comments URL: https://news.ycombinator.com/item?id=49993188 Points: 94 # Comments: 84",
+          "published_at": "2026-10-07T14:16:44Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "88fecfdcb5fb",
+      "title": "The art of defusing a second world war bomb",
+      "summary": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb Comments URL: https://news.ycombinator.com/item?id=49987858 Points: 114 # Comments: 90",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "638e423b2991fbea",
+          "title": "The art of defusing a second world war bomb",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+          "summary": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb Comments URL: https://news.ycombinator.com/item?id=49987858 Points: 114 # Comments: 90",
+          "published_at": "2026-10-07T03:43:14Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "b8ccee30cb46c826",
+          "title": "Animated ASCII Art for Web Pages",
+          "url": "https://ascii.rest",
+          "summary": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=49993857 Points: 299 # Comments: 58",
+          "published_at": "2026-10-07T15:05:37Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "70ec296c407434cb",
+          "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+          "url": "https://bigwords.page",
+          "summary": "Article URL: https://bigwords.page/ Comments URL: https://news.ycombinator.com/item?id=49994443 Points: 376 # Comments: 113",
+          "published_at": "2026-10-07T15:44:21Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1ca98a032136",
+      "title": "Shipping JPEG XL in Chrome",
+      "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 494 # Comments: 319",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "adb58104b4c9bc70",
+          "title": "Shipping JPEG XL in Chrome",
+          "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+          "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 494 # Comments: 319",
+          "published_at": "2026-10-07T11:25:02Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "73305a398497",
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 164 # Comments: 161",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "254807e70e520d97",
+          "title": "House with 15m underground tunnels for sale for 300k",
+          "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k",
+          "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 164 # Comments: 161",
+          "published_at": "2026-10-07T12:57:10Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "85612cf13875",
+      "title": "Anti-patterns in software blogging",
+      "summary": "Article URL: https://refactoringenglish.com/blog/anti-patterns-software-blogging/ Comments URL: https://news.ycombinator.com/item?id=49992257 Points: 212 # Comments: 121",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "592b2d22e7ab3fe0",
+          "title": "Anti-patterns in software blogging",
+          "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging",
+          "summary": "Article URL: https://refactoringenglish.com/blog/anti-patterns-software-blogging/ Comments URL: https://news.ycombinator.com/item?id=49992257 Points: 212 # Comments: 121",
+          "published_at": "2026-10-07T13:08:26Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0c4fa1fda1d6",
+      "title": "Why were Victorian elites so effective?",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/ Comments URL: https://news.ycombinator.com/item?id=49993908 Points: 103 # Comments: 174",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "87cf7409550c6daa",
+          "title": "Why were Victorian elites so effective?",
+          "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians",
+          "summary": "Article URL: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/ Comments URL: https://news.ycombinator.com/item?id=49993908 Points: 103 # Comments: 174",
+          "published_at": "2026-10-07T15:09:33Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "9d01e505067c",
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "summary": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees Comments URL: https://news.ycombinator.com/item?id=49993914 Points: 491 # Comments: 354",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "21965a4318bfbef5",
+          "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+          "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+          "summary": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees Comments URL: https://news.ycombinator.com/item?id=49993914 Points: 491 # Comments: 354",
+          "published_at": "2026-10-07T15:09:59Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "64cea2e92387",
+      "title": "Navier–Stokes Lost in Translation",
+      "summary": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/item?id=49994145 Points: 257 # Comments: 159",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9c33c6e007d99359",
+          "title": "Navier–Stokes Lost in Translation",
+          "url": "https://arxiv.org/abs/2610.08144",
+          "summary": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/item?id=49994145 Points: 257 # Comments: 159",
+          "published_at": "2026-10-07T15:24:38Z",
+          "fetched_at": "2026-10-08T02:36:27.241245Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
