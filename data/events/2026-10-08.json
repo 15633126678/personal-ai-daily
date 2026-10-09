@@ -1,0 +1,294 @@
+{
+  "events": [
+    {
+      "id": "f881b294b7f4",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "351a3936345bfa3a",
+          "title": "Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "published_at": "2026-10-08T00:00:00Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "53960175fb4e",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d0b337f22f099a7f",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "url": "https://openai.com/index/pollo-ai",
+          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "published_at": "2026-10-08T12:00:00Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "d37616640b5a",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a13e16f89e5be705",
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "published_at": "2026-10-08T12:00:00Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a5988d969f7e",
+      "title": "Multimodal open d1 decision models for the edge",
+      "summary": "Multimodal open d1 decision models for the edge",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b077ae3baa4076b7",
+          "title": "Multimodal open d1 decision models for the edge",
+          "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "summary": "",
+          "published_at": "2026-10-07T16:54:33Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "64decf2600f05fe6",
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "summary": "",
+          "published_at": "2026-10-08T00:00:00Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "40215980aadc",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 453 # Comments: 382",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "22d88b2e37cbbe67",
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out",
+          "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 453 # Comments: 382",
+          "published_at": "2026-10-08T00:14:48Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：DeepSeek",
+      "inference": null
+    },
+    {
+      "id": "a0271f5e165a",
+      "title": "US man given prison sentence for bot-farming music streams",
+      "summary": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sent... Comments URL: https://news.ycombinator.com/item?id=50000985 Points: 121 # Comments: 195",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f24bee21ecb5a8ee",
+          "title": "US man given prison sentence for bot-farming music streams",
+          "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams",
+          "summary": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sent... Comments URL: https://news.ycombinator.com/item?id=50000985 Points: 121 # Comments: 195",
+          "published_at": "2026-10-08T01:33:17Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "48977b22e43c",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 364 # Comments: 186",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "17a0e16a666590c2",
+          "title": "Yes, and",
+          "url": "https://htmx.org/essays/yes-and",
+          "summary": "Article URL: https://htmx.org/essays/yes-and/ Comments URL: https://news.ycombinator.com/item?id=50003796 Points: 209 # Comments: 74",
+          "published_at": "2026-10-08T09:48:18Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "07cc57089a5fb3f1",
+          "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+          "url": "https://quesma.com/blog/invisible-cities-one-shot",
+          "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 364 # Comments: 186",
+          "published_at": "2026-10-08T12:00:20Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ddc67466c0ca",
+      "title": "Beauty in DVD Menus",
+      "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 269 # Comments: 149",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3b45e89fa4d29170",
+          "title": "Beauty in DVD Menus",
+          "url": "https://vale.rocks/posts/dvd-menus",
+          "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 269 # Comments: 149",
+          "published_at": "2026-10-08T13:22:01Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3e8c3ec17175",
+      "title": "Orkut.com",
+      "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 153 # Comments: 111",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "99ee09931072646d",
+          "title": "Orkut.com",
+          "url": "https://orkut.com",
+          "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 153 # Comments: 111",
+          "published_at": "2026-10-08T14:09:53Z",
+          "fetched_at": "2026-10-09T02:51:08.395080Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
