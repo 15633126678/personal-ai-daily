@@ -1,0 +1,149 @@
+{
+  "events": [
+    {
+      "id": "dbdbc8c7cc6a",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8b148cf79b1b84cb",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle",
+          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "published_at": "2026-10-08T16:00:00Z",
+          "fetched_at": "2026-10-10T02:11:34.124584Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "c2bd9140cf451f0f",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "url": "https://openai.com/index/sophos",
+          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "published_at": "2026-10-09T07:00:00Z",
+          "fetched_at": "2026-10-10T02:11:34.124584Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "0f1eab57236c05e2",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "url": "https://openai.com/index/asana-browser-agent",
+          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "published_at": "2026-10-09T07:00:00Z",
+          "fetched_at": "2026-10-10T02:11:34.124584Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "0f22dca6905c",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "Impactful scheduling for GPU clusters",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a45cab2b414bcf3b",
+          "title": "Impactful scheduling for GPU clusters",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "summary": "",
+          "published_at": "2026-10-09T15:20:29Z",
+          "fetched_at": "2026-10-10T02:11:34.124584Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "dd38a887e250",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "summary": "Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 12 # Comments: 1",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6d24578c00eda76e",
+          "title": "Can you use autoregressive diffusion to generate market data?",
+          "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data",
+          "summary": "Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 12 # Comments: 1",
+          "published_at": "2026-10-09T14:56:13Z",
+          "fetched_at": "2026-10-10T02:11:34.124584Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "69f040acffc6",
+      "title": "Triple-A Minesweeper",
+      "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 671 # Comments: 122",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "e7e928a64337facd",
+          "title": "Triple-A Minesweeper",
+          "url": "https://minesweeper.mikelacher.com",
+          "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 671 # Comments: 122",
+          "published_at": "2026-10-09T15:51:05Z",
+          "fetched_at": "2026-10-10T02:11:34.124584Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
