@@ -1,0 +1,352 @@
+{
+  "events": [
+    {
+      "id": "aa3eabdc0da1",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 415 # Comments: 265",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "f025a04727cffa6f",
+          "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+          "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover",
+          "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 415 # Comments: 265",
+          "published_at": "2026-10-10T03:02:47Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "6679664c6571",
+      "title": "Food processing influences metabolism and brain activity",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 107 # Comments: 83",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "851d71bb68303aff",
+          "title": "Food processing influences metabolism and brain activity",
+          "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+          "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 107 # Comments: 83",
+          "published_at": "2026-10-10T05:22:30Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：Meta",
+      "inference": null
+    },
+    {
+      "id": "e4dd0c98c23b",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 249 # Comments: 122",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "67d418e38ec29c6f",
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 249 # Comments: 122",
+          "published_at": "2026-10-10T10:52:09Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "16fd95f1a456",
+      "title": "Rampart: Browser native on-device PII radaction",
+      "summary": "Article URL: https://ndstudio.gov/posts/say-hello-to-rampart Comments URL: https://news.ycombinator.com/item?id=50024242 Points: 74 # Comments: 30",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "ebd66ea602bf42d1",
+          "title": "Rampart: Browser native on-device PII radaction",
+          "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+          "summary": "Article URL: https://ndstudio.gov/posts/say-hello-to-rampart Comments URL: https://news.ycombinator.com/item?id=50024242 Points: 74 # Comments: 30",
+          "published_at": "2026-10-09T17:52:07Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8e6f9198c25e",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 75 # Comments: 59",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "896513532d72dc4e",
+          "title": "Recent AI models struggled to match a human algorithmic innovation",
+          "url": "https://epoch.ai/publications/innovationeval",
+          "summary": "Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 75 # Comments: 59",
+          "published_at": "2026-10-09T22:14:40Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8a74f9f9cd2c",
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 218 # Comments: 512",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7333cf538963da1b",
+          "title": "How strong is the strong interaction?",
+          "url": "https://cerncourier.com/how-strong-is-the-strong-interaction",
+          "summary": "Article URL: https://cerncourier.com/how-strong-is-the-strong-interaction/ Comments URL: https://news.ycombinator.com/item?id=50028162 Points: 50 # Comments: 12",
+          "published_at": "2026-10-10T00:13:16Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "099898c2ee016deb",
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com",
+          "summary": "Article URL: https://lightbulbcomputer.com/ Comments URL: https://news.ycombinator.com/item?id=50029487 Points: 242 # Comments: 43",
+          "published_at": "2026-10-10T04:12:26Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "871b931362e547b4",
+          "title": "I would like the value of my home to rise, while my property taxes fall",
+          "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall",
+          "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 218 # Comments: 512",
+          "published_at": "2026-10-10T13:29:03Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "c996c52f4d1d",
+      "title": "REA Reverse – Engineer Anything",
+      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 708 # Comments: 304",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8053bb128ec51ea0",
+          "title": "REA Reverse – Engineer Anything",
+          "url": "https://rea.tools",
+          "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 708 # Comments: 304",
+          "published_at": "2026-10-10T00:37:07Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ee1153ab6624",
+      "title": "Apple/macOS removed from official Unix registry",
+      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 253 # Comments: 219",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "eda390645277ee54",
+          "title": "Apple/macOS removed from official Unix registry",
+          "url": "https://www.opengroup.org//openbrand/register",
+          "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 253 # Comments: 219",
+          "published_at": "2026-10-10T10:57:31Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "abea71961fee",
+      "title": "Unikernels were hard. key word: were",
+      "summary": "Article URL: https://ghuntley.com/unikernels/ Comments URL: https://news.ycombinator.com/item?id=50033357 Points: 99 # Comments: 43",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bfb6d8c587e8c64f",
+          "title": "Unikernels were hard. key word: were",
+          "url": "https://ghuntley.com/unikernels",
+          "summary": "Article URL: https://ghuntley.com/unikernels/ Comments URL: https://news.ycombinator.com/item?id=50033357 Points: 99 # Comments: 43",
+          "published_at": "2026-10-10T14:27:09Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f74df64ef44e",
+      "title": "Bitwarden Dual License Model",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 346 # Comments: 249",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "108b559ec15f1fd3",
+          "title": "Bitwarden Dual License Model",
+          "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+          "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 346 # Comments: 249",
+          "published_at": "2026-10-10T14:32:50Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "ec7bfa5157f9",
+      "title": "Knuth reward check",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 147 # Comments: 51",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "36f2997d27e6f228",
+          "title": "Knuth reward check",
+          "url": "https://www.thomas-huehn.com/knuth-reward-check",
+          "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 147 # Comments: 51",
+          "published_at": "2026-10-10T15:47:01Z",
+          "fetched_at": "2026-10-11T01:42:33.433509Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
