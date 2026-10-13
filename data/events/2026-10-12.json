@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "id": "bc2708628ecf",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 151 # Comments: 48",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3b2ab2a56f9c7cc5",
+          "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+          "url": "https://taylor.town/kk-ai-2026",
+          "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 151 # Comments: 48",
+          "published_at": "2026-10-12T15:16:45Z",
+          "fetched_at": "2026-10-13T03:25:17.092040Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
