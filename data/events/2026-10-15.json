@@ -1,0 +1,349 @@
+{
+  "events": [
+    {
+      "id": "b2955ae14b9a",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "cc132f31158af842",
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "url": "https://openai.com/index/sullivan-cromwell",
+          "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "published_at": "2026-10-15T00:00:00Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "fdee1516b9f2",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "277136ae7c1436ff",
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "summary": "",
+          "published_at": "2026-10-15T00:00:00Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "7a06ae48c9ed9de5",
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "summary": "",
+          "published_at": "2026-10-15T00:00:00Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.1,
+      "personal_reason": "涉及关注实体：Meta",
+      "inference": null
+    },
+    {
+      "id": "1666ea1f8f44",
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1fffc348f7c5ce20",
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "published_at": "2026-10-15T13:00:00Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "20440ab034fd",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1da9fb32db8c00a6",
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "summary": "",
+          "published_at": "2026-10-14T16:12:42Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1e880e67e60c",
+      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "summary": "Video: https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1 Video on multi-target rendering: https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq Benchmarks: https://github.com/Proa-Labs/proa-benchmarks Comments URL: https://news.ycombinator.com/item?id=50105467 Points: 90 # Comments: 25",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "20c5b9f95807fb9d",
+          "title": "Show HN: Unfenced – Land for sale that borders public land",
+          "url": "https://unfenced.land",
+          "summary": "Article URL: https://unfenced.land/ Comments URL: https://news.ycombinator.com/item?id=50102247 Points: 253 # Comments: 181",
+          "published_at": "2026-10-15T11:38:57Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "466dc325861248e0",
+          "title": "Wayland desktop for Linux with skeuomorphic design",
+          "url": "https://github.com/fyzugx/DEsk",
+          "summary": "Article URL: https://github.com/fyzugx/DEsk Comments URL: https://news.ycombinator.com/item?id=50103338 Points: 482 # Comments: 195",
+          "published_at": "2026-10-15T13:23:44Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "eaf2e5825d5ae307",
+          "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+          "url": "https://proa.so",
+          "summary": "Video: https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1 Video on multi-target rendering: https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhq Benchmarks: https://github.com/Proa-Labs/proa-benchmarks Comments URL: https://news.ycombinator.com/item?id=50105467 Points: 90 # Comments: 25",
+          "published_at": "2026-10-15T15:52:08Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "02214b01c960",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "summary": "Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 250 # Comments: 152",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7feaad0033e2412a",
+          "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+          "url": "https://libreboot.org/news/libreboot2610.html",
+          "summary": "Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 250 # Comments: 152",
+          "published_at": "2026-10-15T12:52:16Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "662dc99a0ead",
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "summary": "Article URL: https://www.cppstories.com/2026/cpp26_contracts/ Comments URL: https://news.ycombinator.com/item?id=50103164 Points: 126 # Comments: 114",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "747b99ed35bcf625",
+          "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+          "url": "https://www.cppstories.com/2026/cpp26_contracts",
+          "summary": "Article URL: https://www.cppstories.com/2026/cpp26_contracts/ Comments URL: https://news.ycombinator.com/item?id=50103164 Points: 126 # Comments: 114",
+          "published_at": "2026-10-15T13:11:26Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "af3d20b6c913",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 226 # Comments: 181",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "19c91daafd52371e",
+          "title": "I know why the mathematicians weep",
+          "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+          "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep Comments URL: https://news.ycombinator.com/item?id=50103630 Points: 342 # Comments: 560",
+          "published_at": "2026-10-15T13:44:32Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "ba7eb96eb87b3326",
+          "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era",
+          "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 226 # Comments: 181",
+          "published_at": "2026-10-15T14:58:48Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0e7ecbf9963b",
+      "title": "Using AI to reverse engineer hardware",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 98 # Comments: 107",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "591b3e0566eda404",
+          "title": "Using AI to reverse engineer hardware",
+          "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
+          "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 98 # Comments: 107",
+          "published_at": "2026-10-15T14:35:15Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "addfc3a6a05f",
+      "title": "Celebrating 70 Years of Fortran",
+      "summary": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 210 # Comments: 93",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "681a434d0dc4a689",
+          "title": "Celebrating 70 Years of Fortran",
+          "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday",
+          "summary": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 210 # Comments: 93",
+          "published_at": "2026-10-15T15:03:17Z",
+          "fetched_at": "2026-10-16T01:04:04.113179Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
