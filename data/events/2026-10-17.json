@@ -1,0 +1,288 @@
+{
+  "events": [
+    {
+      "id": "91ac4872f990",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "38657fde585cac00",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "published_at": "2026-10-16T19:00:00Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "2e9b330bc4fe",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "summary": "Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source: https://github.com/mikroverk/esp32sim I made a short video showing it in action: https://youtu.be/waoWFilTWEc I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 114 # Comments: 11",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "3df605e43ca6ec90",
+          "title": "Dam removals are bringing fish back across the northeastern United States",
+          "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679",
+          "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 170 # Comments: 48",
+          "published_at": "2026-10-16T23:47:31Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "af12a87e86f4fb8b",
+          "title": "Source code of the Estonian online voting system",
+          "url": "https://github.com/valimised/ivxv",
+          "summary": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 151 # Comments: 132",
+          "published_at": "2026-10-17T03:18:39Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "68c0832a1845385a",
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "url": "https://llmspeed.dev",
+          "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 243 # Comments: 77",
+          "published_at": "2026-10-17T04:36:53Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "21415d020142aa11",
+          "title": "The future of programming (1982)",
+          "url": "https://dl.acm.org/doi/10.1145/358453.358459",
+          "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 53 # Comments: 13",
+          "published_at": "2026-10-17T11:20:52Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "39f741925692dcb1",
+          "title": "Show HN: High-quality duck audio synthesizer",
+          "url": "https://celphase.github.io/duck-pond",
+          "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 76 # Comments: 23",
+          "published_at": "2026-10-17T13:28:46Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "883e6993f23a60de",
+          "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+          "url": "https://github.com/mikroverk/esp32sim",
+          "summary": "Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source: https://github.com/mikroverk/esp32sim I made a short video showing it in action: https://youtu.be/waoWFilTWEc I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 114 # Comments: 11",
+          "published_at": "2026-10-17T13:51:08Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：GitHub",
+      "inference": null
+    },
+    {
+      "id": "f75fb23627a7",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 673 # Comments: 572",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9dc016ddb0f74136",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 673 # Comments: 572",
+          "published_at": "2026-10-17T08:21:25Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：DeepSeek",
+      "inference": null
+    },
+    {
+      "id": "1a5132c528a9",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 287 # Comments: 61",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "61e1a9238a4cf6e1",
+          "title": "Bleached corals thrive within days when touching healthy neighbour",
+          "url": "https://www.nature.com/articles/d41586-026-03266-x",
+          "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 287 # Comments: 61",
+          "published_at": "2026-10-16T23:38:27Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a15debde06be",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 459 # Comments: 301",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "c0fe0542e6b91868",
+          "title": "A skeptic's first contact with Kubernetes (2024)",
+          "url": "https://blog.davidv.dev/posts/first-contact-with-k8s",
+          "summary": "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 77 # Comments: 39",
+          "published_at": "2026-10-17T03:16:25Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "babc87c893f08e8f",
+          "title": "Solar surpasses nuclear power globally for first time",
+          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time",
+          "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 459 # Comments: 301",
+          "published_at": "2026-10-17T14:01:01Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "edbc747e12ac",
+      "title": "Making chicken transparent using Dorito dust",
+      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 246 # Comments: 64",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bd3514617e002a45",
+          "title": "Making chicken transparent using Dorito dust",
+          "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+          "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 246 # Comments: 64",
+          "published_at": "2026-10-17T13:55:28Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "e228eb0f959a",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 210 # Comments: 24",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6fb74ec7566473b1",
+          "title": "Pele – Mermaid diagrams as themeable SVG",
+          "url": "https://pele.run",
+          "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 210 # Comments: 24",
+          "published_at": "2026-10-17T15:55:09Z",
+          "fetched_at": "2026-10-18T00:44:27.151978Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
