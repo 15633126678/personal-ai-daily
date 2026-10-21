@@ -1,0 +1,394 @@
+{
+  "events": [
+    {
+      "id": "bf264249c022",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "0dd0d569b729ba5e",
+          "title": "OpenAI acquires Orchestra Bio",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "published_at": "2026-10-20T00:00:00Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "7b56b19c0dd7",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "de3f3e63d203fdf9",
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "summary": "",
+          "published_at": "2026-10-20T00:00:00Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.1,
+      "personal_reason": "涉及关注实体：Hugging Face",
+      "inference": null
+    },
+    {
+      "id": "2ecbac8f0d7c",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "664de976daa33980",
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "url": "https://openai.com/index/terminal-x",
+          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "published_at": "2026-10-20T07:00:00Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "2e330bd03bcad3c4",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+          "published_at": "2026-10-20T10:00:00Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "96dd5e7e83bd",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "e9d832b353a5bb62",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "summary": "",
+          "published_at": "2026-10-20T00:00:00Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "40b8bdc4793f",
+      "title": "MPS in PyTorch 2.15",
+      "summary": "MPS in PyTorch 2.15",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "4db8b80e1523adf3",
+          "title": "MPS in PyTorch 2.15",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "summary": "",
+          "published_at": "2026-10-20T00:00:00Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b3571ad705d7",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "4cc43fc29258401f",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "summary": "",
+          "published_at": "2026-10-20T15:19:48Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d15f7c64a5c8",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "summary": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 488 # Comments: 247",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a8ad94326bf5ce9d",
+          "title": "Apple broke an essential presentation feature of iPads",
+          "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads",
+          "summary": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 488 # Comments: 247",
+          "published_at": "2026-10-20T12:17:28Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "d388596d1e84",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "summary": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core. Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXM There are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem. We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features to it, and at one stage, our wrapper code exceeded 100,000 lines. This January, a routine LiteLLM upgrade caused intermittent connection errors, and we had to roll back. We still haven't figured out the cause, but since then, we no longer upgrade LiteLLM directly and instead manually backport upstrea",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "85b633fa7e1500c1",
+          "title": "Tsrs: A Port of TypeScript to Rust",
+          "url": "https://blog.cloudflare.com/typescript-rust-port",
+          "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 344 # Comments: 167",
+          "published_at": "2026-10-20T13:18:07Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "d97671368d64aaec",
+          "title": "2026 is an exciting year for the Rust compiler (and me)",
+          "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me",
+          "summary": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 161 # Comments: 82",
+          "published_at": "2026-10-20T13:53:48Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "6eb4ff51d7aafd66",
+          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+          "url": "https://news.ycombinator.com/item?id=50167583",
+          "summary": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core. Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXM There are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem. We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features to it, and at one stage, our wrapper code exceeded 100,000 lines. This January, a routine LiteLLM upgrade caused intermittent connection errors, and we had to roll back. We still haven't figured out the cause, but since then, we no longer upgrade LiteLLM directly and instead manually backport upstrea",
+          "published_at": "2026-10-20T15:09:29Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "b0b5ccf185f3",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 318 # Comments: 76",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "db0adc54ef0393bf",
+          "title": "How I got over 300 Tor exit nodes removed",
+          "url": "https://kaba.cx/posts/20261020_Tor",
+          "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 318 # Comments: 76",
+          "published_at": "2026-10-20T13:39:24Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "44c6535bc397",
+      "title": "EMudhra Intermediate CA Compromise",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 623 # Comments: 338",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bc36edc80c82634d",
+          "title": "EMudhra Intermediate CA Compromise",
+          "url": "https://emudhra.we-have-a-problem.com",
+          "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 623 # Comments: 338",
+          "published_at": "2026-10-20T13:58:33Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "6b240abab975",
+      "title": "My Friend Bob Cringely",
+      "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 166 # Comments: 47",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2abc28d784304c08",
+          "title": "My Friend Bob Cringely",
+          "url": "https://tyma.com/my-cringe-story",
+          "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 166 # Comments: 47",
+          "published_at": "2026-10-20T14:13:49Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0206adcaa4b5",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 329 # Comments: 250",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "09f326b566e03475",
+          "title": "Ofcom concedes defeat in 4chan case",
+          "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat",
+          "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 329 # Comments: 250",
+          "published_at": "2026-10-20T14:30:31Z",
+          "fetched_at": "2026-10-21T01:24:09.397131Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
