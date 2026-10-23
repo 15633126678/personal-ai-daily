@@ -1,0 +1,362 @@
+{
+  "events": [
+    {
+      "id": "4de72c9a4ea7",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "a4fcc190bfcba0e3",
+          "title": "How AT&T is rethinking in-house legal work with OpenAI",
+          "url": "https://openai.com/index/att-legal",
+          "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+          "published_at": "2026-10-21T17:00:00Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "e85eba07371d4e19",
+          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "summary": "",
+          "published_at": "2026-10-21T17:35:36Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "18be8f62b8aaf188",
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+          "published_at": "2026-10-22T00:00:00Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "b92ad9c58cc47be9",
+          "title": "What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "summary": "What forward deployed engineering means at OpenAI",
+          "published_at": "2026-10-22T06:00:00Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "3aea528be83e323b",
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "summary": "",
+          "published_at": "2026-10-22T07:51:31Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "883b9210d996",
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "c0355709093c5658",
+          "title": "Broad access through consistent standards",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+          "published_at": "2026-10-21T21:00:00Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "7fe2e3316db4",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "c12358425db7df37",
+          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "summary": "",
+          "published_at": "2026-10-21T16:04:43Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "efff38fa9cff",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "cd481da0851fdb08",
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "summary": "",
+          "published_at": "2026-10-21T18:26:30Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "108917006b04",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "summary": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload. I am truly sorry. I take full responsibility for my actions. It was not remotely my intention to cause any of the subsequent side effects. At the time of posting, I didn't know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing. As someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance/urgency of the updates. That clearly backfired in a pretty wild fashion. I have learned my lesson. Comments URL: https://news.ycombinator.com/item?id=50193416 Points: 358 # Comments: 150",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "984fa44b8efac223",
+          "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+          "url": "https://news.ycombinator.com/item?id=50193416",
+          "summary": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload. I am truly sorry. I take full responsibility for my actions. It was not remotely my intention to cause any of the subsequent side effects. At the time of posting, I didn't know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing. As someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance/urgency of the updates. That clearly backfired in a pretty wild fashion. I have learned my lesson. Comments URL: https://news.ycombinator.com/item?id=50193416 Points: 358 # Comments: 150",
+          "published_at": "2026-10-22T10:11:44Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "32895dfbef66",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ Comments URL: https://news.ycombinator.com/item?id=50194009 Points: 194 # Comments: 198",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b4e106da6e8bc0b9",
+          "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+          "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought",
+          "summary": "Article URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ Comments URL: https://news.ycombinator.com/item?id=50194009 Points: 194 # Comments: 198",
+          "published_at": "2026-10-22T11:42:03Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4030d7fa5c00",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 484 # Comments: 493",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8df40682a62359eb",
+          "title": "Woman faces six years in prison over Cash App account she never opened",
+          "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+          "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 484 # Comments: 493",
+          "published_at": "2026-10-22T13:11:00Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "50d0bc461f8e",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 918 # Comments: 623",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "69205e7de0b8828f",
+          "title": "eMudhra to exit global SSL/TLS certificate business",
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+          "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 918 # Comments: 623",
+          "published_at": "2026-10-22T13:33:39Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "24988d536902f646",
+          "title": "Quad9 (DNS Resolver) to Exit France",
+          "url": "https://quad9.net/news/blog/au-revoir-france",
+          "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 984 # Comments: 354",
+          "published_at": "2026-10-22T14:32:38Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "826c9692a0c4",
+      "title": "What’s getting pwned right now",
+      "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 338 # Comments: 159",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8d374d9499120d25",
+          "title": "What’s getting pwned right now",
+          "url": "https://pwn.watch",
+          "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 338 # Comments: 159",
+          "published_at": "2026-10-22T14:08:12Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f6eb6c3d8aee",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "summary": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 319 # Comments: 123",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "17aeecaaa9196cfc",
+          "title": "Run full iOS 16.5 firmware on Android Devices",
+          "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+          "summary": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 319 # Comments: 123",
+          "published_at": "2026-10-22T15:26:22Z",
+          "fetched_at": "2026-10-23T01:20:45.689911Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
