@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "8ade00e860dd",
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "0f3d05251e2bfb48",
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "summary": "",
+          "published_at": "2026-10-23T00:00:00Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "a600241ceec23053",
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+          "published_at": "2026-10-23T10:00:00Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.9,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "dcfc5c36067e",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6318b8276a4bb44d",
+          "title": "Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "summary": "Fast, focused, low-cost decisions for any application.",
+          "published_at": "2026-10-22T19:00:00Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "0729b929825aabfd",
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "summary": "",
+          "published_at": "2026-10-22T22:24:34Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.7,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "3d62e332d89f",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "d589aa35f6fd634e",
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+          "published_at": "2026-10-23T00:00:00Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "6317b11c673a",
+      "title": "Apple Music 404 Not Found",
+      "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 576 # Comments: 189",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "a2b7a1a2eb270312",
+          "title": "Apple Music 404 Not Found",
+          "url": "https://music.apple.com/this-url-doesnt-exist",
+          "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 576 # Comments: 189",
+          "published_at": "2026-10-23T12:28:47Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4dca6534d640",
+      "title": "Reforming English Spelling",
+      "summary": "Article URL: https://blog.oup.com/2026/10/reforming-english-spelling/ Comments URL: https://news.ycombinator.com/item?id=50211084 Points: 22 # Comments: 75",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "88b9e6e2790db4a8",
+          "title": "Reforming English Spelling",
+          "url": "https://blog.oup.com/2026/10/reforming-english-spelling",
+          "summary": "Article URL: https://blog.oup.com/2026/10/reforming-english-spelling/ Comments URL: https://news.ycombinator.com/item?id=50211084 Points: 22 # Comments: 75",
+          "published_at": "2026-10-23T15:56:06Z",
+          "fetched_at": "2026-10-24T01:25:14.398865Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
