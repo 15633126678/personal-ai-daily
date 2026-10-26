@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "id": "ba4cf8d67a5c",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 109 # Comments: 40",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7a9fd67c25029f20",
+          "title": "Active incident at Dreamhost forcing password reset",
+          "url": "https://www.dreamhoststatus.com",
+          "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 109 # Comments: 40",
+          "published_at": "2026-10-25T13:09:16Z",
+          "fetched_at": "2026-10-26T01:03:19.369499Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
