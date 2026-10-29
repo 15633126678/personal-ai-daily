@@ -1,0 +1,265 @@
+{
+  "events": [
+    {
+      "id": "72c6c5a4be08",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "66164bca3c2a44bf",
+          "title": "Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora",
+          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "published_at": "2026-10-28T09:30:00Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "372defbbd636f889",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+          "published_at": "2026-10-28T10:00:00Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "659af797f546",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "3473b57ebd9db8dc",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "published_at": "2026-10-28T13:15:00Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "67e158cad505",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "Can we trust LLMs to judge whether a research idea is novel?",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "7cb9f6f66bd50183",
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "summary": "",
+          "published_at": "2026-10-27T16:12:42Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "a29c7daf6716f2c6",
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "summary": "",
+          "published_at": "2026-10-28T14:58:17Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "0bf7c2da0f5f",
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "Build specialized multimodal models with LFM3",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "b22251121bede6db",
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "summary": "",
+          "published_at": "2026-10-27T17:16:52Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "8aedd7fad285",
+      "title": "The Agent SDK",
+      "summary": "Article URL: https://cursor.com/blog/agent-sdk Comments URL: https://news.ycombinator.com/item?id=50273731 Points: 99 # Comments: 113",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "2220075e0a7d9fdb",
+          "title": "The Agent SDK",
+          "url": "https://cursor.com/blog/agent-sdk",
+          "summary": "Article URL: https://cursor.com/blog/agent-sdk Comments URL: https://news.ycombinator.com/item?id=50273731 Points: 99 # Comments: 113",
+          "published_at": "2026-10-28T14:02:20Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "92742e88d4ef",
+      "title": "AlpineBSD",
+      "summary": "Article URL: https://wiki.alpinebsd.org Comments URL: https://news.ycombinator.com/item?id=50274251 Points: 178 # Comments: 165",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5a838407396e61e7",
+          "title": "AlpineBSD",
+          "url": "https://wiki.alpinebsd.org",
+          "summary": "Article URL: https://wiki.alpinebsd.org Comments URL: https://news.ycombinator.com/item?id=50274251 Points: 178 # Comments: 165",
+          "published_at": "2026-10-28T14:30:26Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "beb3b690c945",
+      "title": "CNC Stone Carving",
+      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 406 # Comments: 118",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "bbf32ba9d93b2ab2",
+          "title": "CNC Stone Carving",
+          "url": "https://carmelitegothic.com/cnc-stone-carving",
+          "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 406 # Comments: 118",
+          "published_at": "2026-10-28T14:38:22Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4081d6083c3f",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 203 # Comments: 128",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "9f9a8a90ee5f23f4",
+          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+          "url": "https://surgehq.ai/blog/dayjob-tax",
+          "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 203 # Comments: 128",
+          "published_at": "2026-10-28T15:46:30Z",
+          "fetched_at": "2026-10-29T02:14:20.991338Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
