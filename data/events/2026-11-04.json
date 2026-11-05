@@ -1,0 +1,310 @@
+{
+  "events": [
+    {
+      "id": "f714f8239e0b",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "fe4ece535764d3ec",
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+          "published_at": "2026-11-04T08:00:00Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "2111d65d10e5",
+      "title": "Introducing Images 2.6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "1700e84e460fd535",
+          "title": "Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "published_at": "2026-11-04T00:00:00Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "afe0fa737a4e",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "123def970922c914",
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "published_at": "2026-11-04T00:00:00Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "985c81a7a0f5",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "436d594906360561",
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+          "published_at": "2026-11-04T07:00:00Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "551122afd39e",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "Palette: teaching a small model to build decks in your design language",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "f4f866a3e7137f66",
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "summary": "",
+          "published_at": "2026-11-03T16:35:36Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "c0bf2137f48553f0",
+          "title": "StateBench: Testing how language models track state changes over long documents",
+          "url": "https://huggingface.co/blog/allenai/statebench",
+          "summary": "",
+          "published_at": "2026-11-03T17:15:21Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "54810aee2a1d",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "summary": "https://twitter.com/pierrecomputer/status/211799903617518818... Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 201 # Comments: 62",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7f82dc0bdcb055a7",
+          "title": "OpenAI to acquire Pierre Computer Company",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "summary": "https://twitter.com/pierrecomputer/status/211799903617518818... Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 201 # Comments: 62",
+          "published_at": "2026-11-04T15:21:21Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 4.95,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "79169225af54",
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/ Comments URL: https://news.ycombinator.com/item?id=50366522 Points: 272 # Comments: 194",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "4650dc1c74386080",
+          "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+          "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent",
+          "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/ Comments URL: https://news.ycombinator.com/item?id=50366522 Points: 272 # Comments: 194",
+          "published_at": "2026-11-04T15:01:44Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "4236fbb97c8b",
+      "title": "A wave of plastic-free coffee pods and machines",
+      "summary": "Article URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free Comments URL: https://news.ycombinator.com/item?id=50366853 Points: 52 # Comments: 76",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d096daddd4a46bd9",
+          "title": "A wave of plastic-free coffee pods and machines",
+          "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+          "summary": "Article URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free Comments URL: https://news.ycombinator.com/item?id=50366853 Points: 52 # Comments: 76",
+          "published_at": "2026-11-04T15:20:49Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "fdca9eb6c964",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 404 # Comments: 109",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6105401e4da438c2",
+          "title": "Kimi K3.1 Pro model weights are out",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 404 # Comments: 109",
+          "published_at": "2026-11-04T15:30:30Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "979c67dd52a4",
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections Comments URL: https://news.ycombinator.com/item?id=50367125 Points: 490 # Comments: 177",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "24c6d9bbb4db634a",
+          "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+          "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections Comments URL: https://news.ycombinator.com/item?id=50367125 Points: 490 # Comments: 177",
+          "published_at": "2026-11-04T15:38:34Z",
+          "fetched_at": "2026-11-05T03:19:51.661248Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
