@@ -1,0 +1,175 @@
+{
+  "events": [
+    {
+      "id": "2c21c5c9633c",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "3ae0b7539ba6d050",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+          "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+          "published_at": "2026-11-05T17:00:00Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "3ba528c1455b2c8f",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+          "published_at": "2026-11-05T20:00:00Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "a068b654ae0f84b5",
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "summary": "",
+          "published_at": "2026-11-06T00:00:00Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "437e0041d5c0e6df",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+          "published_at": "2026-11-06T08:00:00Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "e1a748630fb7bb97",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "summary": "",
+          "published_at": "2026-11-06T14:00:48Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 3,
+      "importance": 4.2,
+      "credibility": 5.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 11.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "5f2f59532f98",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "5125cda19174884c",
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "published_at": "2026-11-06T00:00:00Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "c6d6366fc968",
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6902e491c46f7e88",
+          "title": "Australian universities are creating AI-native graduates",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+          "published_at": "2026-11-05T17:00:00Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "cf90538f79b8",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "628d7cc02c503139",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "summary": "",
+          "published_at": "2026-11-05T19:35:16Z",
+          "fetched_at": "2026-11-07T02:37:46.919240Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
