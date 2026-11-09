@@ -1,0 +1,94 @@
+{
+  "events": [
+    {
+      "id": "2b5ce47a763f",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 368 # Comments: 160",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7141fa7b9976737d",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 368 # Comments: 160",
+          "published_at": "2026-11-08T10:22:04Z",
+          "fetched_at": "2026-11-09T02:29:25.706560Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 2.4,
+      "total_score": 6.15,
+      "personal_reason": "涉及关注实体：GitHub, DeepSeek",
+      "inference": null
+    },
+    {
+      "id": "5b3db9a09d80",
+      "title": "Writing as a thinking tool",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 284 # Comments: 83",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "089669195800ca83",
+          "title": "Writing as a thinking tool",
+          "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+          "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 284 # Comments: 83",
+          "published_at": "2026-11-08T10:41:52Z",
+          "fetched_at": "2026-11-09T02:29:25.706560Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7bcc660263bf",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 86 # Comments: 44",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "7d0f3f75084567a5",
+          "title": "I'm not a fan of Deno's security model (2024)",
+          "url": "https://goldstein.lol/posts/deno-security",
+          "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 86 # Comments: 44",
+          "published_at": "2026-11-08T14:42:38Z",
+          "fetched_at": "2026-11-09T02:29:25.706560Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
