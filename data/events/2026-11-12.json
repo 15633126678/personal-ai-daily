@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "e90260c1da13",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "51149178e27aee03",
+          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+          "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+          "published_at": "2026-11-11T16:00:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "49a30a9055d79ab7",
+          "title": "Supporting research on AI and children’s safety",
+          "url": "https://openai.com/index/children-first-declaration",
+          "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+          "published_at": "2026-11-12T00:00:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "b5bfc2d3387b9dde",
+          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "summary": "",
+          "published_at": "2026-11-12T00:00:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "8eefab753168f2d9",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+          "published_at": "2026-11-12T12:00:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 3,
+      "importance": 4.2,
+      "credibility": 5.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 11.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "73e55c385328",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "24e68a4ea5f66048",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "published_at": "2026-11-12T00:00:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "3e8f71b4d23b54f7",
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+          "published_at": "2026-11-12T09:30:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "19a90b973e45",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "c193a40add1558dd",
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+          "published_at": "2026-11-11T18:00:00Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.05,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "eeeef01eb523",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 247 # Comments: 85",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "6e288f0242c6f5b9",
+          "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+          "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+          "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 247 # Comments: 85",
+          "published_at": "2026-11-12T14:18:49Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "a931dc8528519618",
+          "title": "I'm making LLMs work on small and old devices",
+          "url": "https://github.com/hyperionaidev/smolmaxxing",
+          "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 289 # Comments: 98",
+          "published_at": "2026-11-12T15:23:10Z",
+          "fetched_at": "2026-11-13T03:17:52.067290Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
