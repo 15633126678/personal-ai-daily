@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "ed0482a89e27",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 206 # Comments: 110",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "fad051c3853c9813",
+          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+          "url": "https://prog21.dadgum.com/116.html",
+          "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 206 # Comments: 110",
+          "published_at": "2026-11-15T13:44:16Z",
+          "fetched_at": "2026-11-16T02:38:09.456172Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "f5ce9082f599",
+      "title": "Emacs Is My Browser",
+      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 183 # Comments: 100",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "38cf3dac7b07452e",
+          "title": "Emacs Is My Browser",
+          "url": "https://joshblais.com/blog/emacs-as-my-browser",
+          "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 183 # Comments: 100",
+          "published_at": "2026-11-15T15:21:21Z",
+          "fetched_at": "2026-11-16T02:38:09.456172Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
