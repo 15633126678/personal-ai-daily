@@ -1,0 +1,269 @@
+{
+  "events": [
+    {
+      "id": "308ff0b7c6bf",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "31e7b62c9116f845",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+          "published_at": "2026-11-17T17:45:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "f6965c7d608ba931",
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "published_at": "2026-11-18T00:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "6018b9f99ee366f1",
+          "title": "Advancing chip design with OpenAI models",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+          "published_at": "2026-11-18T00:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "d5f10bbd6a8d0734",
+          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+          "url": "https://huggingface.co/blog/moe-expert-streaming",
+          "summary": "",
+          "published_at": "2026-11-18T00:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "6092f8be8f0b5c4b",
+          "title": "Research acceleration: The jagged frontier",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "published_at": "2026-11-18T08:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "890052863649be53",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "url": "https://openai.com/business/customer-stories/sumitomo-life",
+          "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "published_at": "2026-11-18T08:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "f6f3a5c121add453",
+          "title": "Inside the Codex sandbox",
+          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+          "published_at": "2026-11-18T08:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "33a0201d2afbe010",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus",
+          "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+          "published_at": "2026-11-18T10:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "e40a589bdf7906e9",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "summary": "",
+          "published_at": "2026-11-18T15:00:23Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.7,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "08c29e8a264e",
+      "title": "Put Gemini to work for you",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "7c19a7f1aef97120",
+          "title": "Put Gemini to work for you",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+          "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+          "published_at": "2026-11-17T17:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "86028e38b752658d",
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "summary": "",
+          "published_at": "2026-11-18T00:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 3.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.55,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "1fbd05d2aa3b",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "8fc78afc37a015e2",
+          "title": "Managing frontier AI risk: From training to deployment",
+          "url": "https://openai.com/index/managing-frontier-ai-risk",
+          "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+          "published_at": "2026-11-18T06:00:00Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "b4d091acbdf4",
+      "title": "Inside Deutsche Bank",
+      "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 580 # Comments: 198",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "8651da7c536fd711",
+          "title": "Inside Deutsche Bank",
+          "url": "https://www.inside-db.com",
+          "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 580 # Comments: 198",
+          "published_at": "2026-11-18T15:38:33Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7fba0cc06a8b",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 393 # Comments: 170",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "b00f3e429d41957a",
+          "title": "AI agents ask better questions than KPMG accountants in audit trial",
+          "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
+          "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 393 # Comments: 170",
+          "published_at": "2026-11-18T15:49:34Z",
+          "fetched_at": "2026-11-19T04:01:07.062069Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
