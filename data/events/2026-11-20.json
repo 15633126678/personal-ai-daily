@@ -1,0 +1,137 @@
+{
+  "events": [
+    {
+      "id": "4be566aedc6e",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "f927139d9de6de38",
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "published_at": "2026-11-20T10:00:00Z",
+          "fetched_at": "2026-11-21T03:50:54.044308Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 8.4,
+      "personal_reason": "涉及关注实体：OpenAI",
+      "inference": null
+    },
+    {
+      "id": "f1c18acaa649",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "69b076e20ec8b633",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "published_at": "2026-11-20T00:00:00Z",
+          "fetched_at": "2026-11-21T03:50:54.044308Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "dcd77364b914",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "cb47cf726d975ecf",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "published_at": "2026-11-20T00:00:00Z",
+          "fetched_at": "2026-11-21T03:50:54.044308Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "375566a098c4",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "3ba6de586294b51c",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "summary": "",
+          "published_at": "2026-11-20T00:00:00Z",
+          "fetched_at": "2026-11-21T03:50:54.044308Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "8931ab124b04ddca",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "summary": "",
+          "published_at": "2026-11-20T00:00:00Z",
+          "fetched_at": "2026-11-21T03:50:54.044308Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Google AI",
+    "Microsoft AI"
+  ]
+}
