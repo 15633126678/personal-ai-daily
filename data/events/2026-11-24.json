@@ -1,0 +1,175 @@
+{
+  "events": [
+    {
+      "id": "bb76d10f77f0",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "cd284aebfb4dc8b4",
+          "title": "A more tailored Google Search that’s uniquely yours",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+          "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+          "published_at": "2026-11-23T17:00:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "da33b01ee2b4743d",
+          "title": "How Intentful uses dots to make more time for growth",
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+          "published_at": "2026-11-24T00:00:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "2fc41dccc4b6cdae",
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "url": "https://openai.com/business/customer-stories/ifood",
+          "summary": "",
+          "published_at": "2026-11-24T00:00:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "e4e8d96b8d6f7c20",
+          "title": "Searching for distant planets with Astra",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+          "published_at": "2026-11-24T11:00:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 4.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 8.7,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7705f90f9fa5",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "abf95077897dd087",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+          "published_at": "2026-11-23T21:20:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        },
+        {
+          "id": "d5d195b160a8ea55",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+          "published_at": "2026-11-24T00:00:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "83b80b63ae13",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "4e91a435392b0917",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+          "published_at": "2026-11-24T13:00:00Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "OpenAI",
+          "category": "AI",
+          "language": "en",
+          "trust": 1.0,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 3.0,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 7.2,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "7ea0a410e850",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "5eb077d6e567ce50",
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "summary": "",
+          "published_at": "2026-11-23T17:20:37Z",
+          "fetched_at": "2026-11-25T05:17:40.834886Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
