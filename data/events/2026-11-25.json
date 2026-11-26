@@ -1,0 +1,162 @@
+{
+  "events": [
+    {
+      "id": "135c6601d864",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "5016902468fe166c",
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+          "published_at": "2026-11-24T16:00:00Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Google AI",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.95,
+          "discovery_only": false
+        },
+        {
+          "id": "d6726e2977659ed0",
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "summary": "",
+          "published_at": "2026-11-24T16:34:13Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        },
+        {
+          "id": "b95c4fcb79067744",
+          "title": "An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "summary": "",
+          "published_at": "2026-11-25T10:22:09Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 2,
+      "importance": 3.7,
+      "credibility": 3.8499999999999996,
+      "novelty": 1.0,
+      "personal_relevance": 1.2,
+      "total_score": 9.75,
+      "personal_reason": "涉及关注实体：Google",
+      "inference": null
+    },
+    {
+      "id": "251a18b31142",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "category": "AI",
+      "articles": [
+        {
+          "id": "6616aa59349e00ce",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "summary": "",
+          "published_at": "2026-11-25T00:00:00Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Hugging Face",
+          "category": "AI",
+          "language": "en",
+          "trust": 0.9,
+          "discovery_only": false
+        }
+      ],
+      "source_count": 1,
+      "importance": 3.2,
+      "credibility": 2.7,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 6.9,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    },
+    {
+      "id": "a0a47585f24c",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 464 # Comments: 342",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "5081f611695be379",
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+          "url": "https://github.com/xoxorwr/pw-loudness-eq",
+          "summary": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 326 # Comments: 182",
+          "published_at": "2026-11-25T11:34:25Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        },
+        {
+          "id": "f25ff163c599c9a7",
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+          "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 464 # Comments: 342",
+          "published_at": "2026-11-25T13:33:07Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 2.4,
+      "total_score": 6.15,
+      "personal_reason": "涉及关注实体：Google, GitHub",
+      "inference": null
+    },
+    {
+      "id": "d0ffdc21a00b",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 456 # Comments: 112",
+      "category": "科技商业",
+      "articles": [
+        {
+          "id": "d883ed53e40a5821",
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+          "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 456 # Comments: 112",
+          "published_at": "2026-11-25T15:14:32Z",
+          "fetched_at": "2026-11-26T04:47:13.754956Z",
+          "source": "Hacker News",
+          "category": "科技商业",
+          "language": "en",
+          "trust": 0.55,
+          "discovery_only": true
+        }
+      ],
+      "source_count": 1,
+      "importance": 2.6,
+      "credibility": 1.6500000000000001,
+      "novelty": 1.0,
+      "personal_relevance": 0.0,
+      "total_score": 3.75,
+      "personal_reason": "与当前画像没有直接匹配，因公共影响入选",
+      "inference": null
+    }
+  ],
+  "failed_sources": [
+    "Microsoft AI"
+  ]
+}
